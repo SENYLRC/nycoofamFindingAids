@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0056</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Campbell Family Collection, 1780-1881</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-31">May 31, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Campbell Family Collection, 1780-1881.</unittitle>
+							<unitdate normal="1780/1881" type="inclusive">1780 - 1881</unitdate>
+							
+							<physdesc>
+								<extent>1.0 cu. ft.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination/>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 306</unitid>
+        </did>
+        <processinfo>
+            <p>Series titles consisting of personal names followed by dates in parenthesis indicate birth and death dates rather than the date range of the manuscripts.
+</p>
+        </processinfo>
+        <acqinfo>
+            <p>Purchase; Willis Monie Books; Cooperstown, N.Y.; 1990; NM-1.90.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 306: Campbell Family Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							
+						<p>William W. Campbell was Judge of the Superior Court in New York City and wrote "Annals of Tryon County."  Cleveland J. Campbell, Helen S. Campbell, and Douglas Campbell were his chlidren.</p></bioghist>
+						<controlaccess><persname source="lcnaf" authfilenumber="n96103111">Campbell, William W., 1806-1881</persname><persname source="lcnaf" authfilenumber="n88673639">Campbell, Douglas, 1839-1893</persname><persname>Campbell, William B.</persname><persname source="lcnaf" authfilenumber="n88654850">Campbell, William A.</persname><persname>Campbell, James S.</persname><persname>Campbell, Henry J.</persname><persname>Campbell, Samuel.</persname><persname>Campbell, Cleaveland J.</persname><persname>Campbell, Helen S.</persname><persname source="lcnaf" authfilenumber="n88662531">Starkweather, Samuel, 1786-1853</persname><persname>Campbell, Harriet Bowers Paige.</persname><famname>Campbell family.</famname><genreform authfilenumber="300145802" source="aat">accounts</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform authfilenumber="300027568" source="aat">invoices</genreform><genreform authfilenumber="300028579" source="aat">manuscripts for publication</genreform><genreform>survey maps</genreform><geogname>Cherry Valley (Otsego County, N.Y.)</geogname><geogname>Belevedere (Otsego County, N.Y.)</geogname></controlaccess>
+						<scopecontent>
+							<p>The Campbell Family Collection, 1790s -1870s, covers four generations and documents the history of the family in Cherry Valley, Otsego County, NY in the earlier part of the nineteenth century. The main focus of the collection is the correspondence of Judge William W. Campbell and his manuscript "Annals of Tryon County." Also included are papers of  Cleveland J. Campbell, Helen S. Campbell, Douglas Campbell, William A. Campbell, Henry J. Campbell, Samuel Campbell, Samuel Starkweather, Harriet Bowers Paige Campbell, James S. Campbell, and other family members. Also included an early nineteenth century manuscript music book, survey maps of Cherry Valley and Belvedere, and the correspondence, medical observations, and financial records of William B. Campbell.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="2ec0b2_Coll._No._306.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

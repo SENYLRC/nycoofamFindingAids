@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0038</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Eva Coo Collection </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-17">April 17, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Eva Coo Collection, 1934-1936 </unittitle>
+							<unitdate normal="1934/1936" type="inclusive">1934 - 1936</unitdate>
+							<abstract>Papers relating to Eva Coo's trial and conviction for the murder of Harry Wright.</abstract>
+							<physdesc>
+								<extent>2 cu. ft. and 1 vol.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname>Artificial Collection</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 17</unitid>
+        </did>
+        <processinfo>
+            
+        </processinfo>
+        <acqinfo>
+            <p>FIC, NM-21.75.</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>Coll. No. 005: James Byard, Jr. papers, 1832-1939.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 17: Eva Coo Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Eva Coo was tried for the murder of Harry Wright in 1934, was found guilty, and sentenced to death in the electric chair. She was executed on June 28, 1935, the last woman to be executed in New York State.
+The murder took place on Crumhorn Mountain, Maryland, Otsego County, NY, the trial  in Cooperstown, Otsego County, NY. The District Attorney was Don Grant, defense attorney was James Byard, Jr., and Clermont Tennant was the court appointed lawyer for Martha Clift, Coo's accessory. 
+</p>
+						</bioghist>
+						<controlaccess>
+            <famname>Wright family.</famname>
+            <genreform authfilenumber="300026920" source="aat">legal correspondence</genreform>
+            <genreform authfilenumber="300027590" source="aat">legal documents</genreform>
+            <genreform>photographs</genreform>
+            <genreform authfilenumber="300027341" source="aat">scrapbooks</genreform>
+            <geogname>Otsego County (N.Y.)</geogname>
+            <genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform>
+            <persname source="lcnaf" authfilenumber="n97052104">Coo, Eva, 1885-1935</persname>
+            <persname>Wright, Harry, d. 1934.</persname>
+            <persname>Clift, Martha</persname>
+            <persname>Byard, James Jr.</persname>
+            <persname>Tennant, Clermont G.</persname>
+            <persname>Grant, Donald H.</persname>
+            <subject>Murder</subject>
+            <subject>Trials (Murder)--New York (State)</subject>
+            <subject>New York (State)-​-​Trials, litigation, etc.</subject>
+            <subject>Otsego County (N.Y.)-​-​History-​-​20th century.</subject>
+        </controlaccess>
+						<scopecontent>
+							<p>The collection contains the District Attorney's transcripts of the testimony before the Grand Jury, examination of trial jurors, and witness testimony, and depositions, appeals records, bills, two scrapbooks of clippings, and photographs submitted as evidence. Also, the defense attorney's witness papers, ms. notes, and two scrapbooks of clippings; Clermont Tennant's correspondence relating to Martha Clift; and the Wright family Bible in which Coo changed Harry Wright's birth date  so her insurance payments, due to his death, would be higher.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<dsc>
+            <c id="c_68ee810246e8c5b13c0c4cecef084b17" level="collection">
+					<did>
+						<unittitle>17.1 Grand Jury</unittitle>
+						
+					</did>
+				</c>
+            <c id="c_61a1578e79438fa717f19fb58db2ae2e" level="collection">
+					<did>
+						<unittitle>17.2 Witness testimony</unittitle>
+						
+					</did>
+				</c>
+            <c id="c_a9c1fd30c296807de11570bca699e4eb" level="collection">
+					<did>
+						<unittitle>17.3 Clippings</unittitle>
+						
+					</did>
+				</c>
+            <c id="c_617191583853bcde600742e0b3ad31f7" level="collection">
+					<did>
+						<unittitle>17.4 Grant, Byard, and Tennant papers</unittitle>
+						
+					</did>
+				</c>
+            <c id="c_5e2b90001ccb5e77fb55d8cf510e3e07" level="collection">
+					<did>
+						<unittitle>17.vol. 1 Wright Bible</unittitle>
+						
+					</did>
+				</c>
+        </dsc>
+    </archdesc>
+				</ead>

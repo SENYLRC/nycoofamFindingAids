@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00025</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Cooperstown research papers, 1838-1891..</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cooperstown research papers, 1838-1891..</unittitle>
+            <unitdate normal="1838/1891">1838 - 1891</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Unknown</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 469</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; Cecily Lutes via Judith Griffin, Groton, NY; 1984; NM-34.84.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 469 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        <head>Access Restrictions</head>
+        </accessrestrict>
+        <bioghist>
+            <p>Cecily Irene Johnson was born to W. D. Johnson and Cecily J. Arries. Dodd married Robert Brosseau Lutes in 1919. They had two children, Mary J. and Willard Johnson. In 1948, Lutes married a second time to Kenneth L. Dodd. Except for a time in the late 1920s to the 1930s when she lived in Bedford, MA, Cecily Dodd seems to have lived her whole life in Cooperstown where she was active in the Native Daughters of Cooperstown. </p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <corpname>Cooper House (Cooperstown, N.Y.)</corpname>
+            <genreform authfilenumber="300417793" source="aat">personal narratives</genreform>
+            <genreform authfilenumber="300265639" source="aat">research notes</genreform>
+            <geogname>Cooperstown (Otsego County, N.Y.)</geogname>
+            <subject>Biographies.--New York (State)--Cooperstown.</subject>
+            <subject>Buildings, structures, etc.--History.--New York (State)--Cooperstown.</subject>
+            <subject>Business, industries, and trades--New York (State)--Cooperstown.</subject>
+            <subject>Churches and religious affairs.--New York (State)--Cooperstown.</subject>
+            <subject>Cooper, James Fenimore, 1789-1851.</subject>
+            <subject>Cooper, Susan Fenimore, 1813-1894.</subject>
+            <subject>Fairs. -- New York (State) -- Cooperstown.</subject>
+            <subject>Folklore. --New York (State)--Cooperstown.</subject>
+            <subject>History--Cooperstown (N.Y.)</subject>
+            <subject>Schools.--New York (State)--Cooperstown.</subject>
+            <subject>Social life and customs.--New York (State)--Cooperstown.</subject>
+            <genreform>Speeches (documents)</genreform>
+            <corpname>Otsego County Agricultural Society</corpname>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains research undertaken by Cecily Dodd pertaining to Cooperstown, Otsego County, NY including research notes and essays on the dwellings, individuals, businesses, schools, churches and ministers, notable news, and folktales and traditions of Cooperstown, 1838-1891, as well as on James Fenimore Cooper and Susan Fenimore Cooper. Also, a speech on the history of the Otsego County Fair in Cooperstown, 1817-1931, given by Cecily Dodd at a local history panel discussion, and a history of The Cooper House written Dora Crittenden, the daughter of the owner.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_1c6fbeb32f9de7ecbfb0d4e51c3f22cf" level="collection">
+    <did>
+        <unittitle>469/1.1 Cooperstown, research notes and essays</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_6f90d406cdf85c9f38cacc14b21f570f" level="collection">
+    <did>
+        <unittitle> 469/1.2 Otsego County Fair, history</unittitle>
+        <container type=""/>
+        <unitdate normal="1817/1938" type="inclusive">1817 - 1938</unitdate>
+    </did>
+</c>
+            <c id="c_959c630f1c0e2b61f9c107a5eee704df" level="collection">
+    <did>
+        <unittitle> 469/1.3 The Cooper House, history and ephemera</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

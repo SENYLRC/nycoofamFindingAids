@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0054</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the Rev. Charles S. Stewart Papers, 1822-1862. </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-30">May 30, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Rev. Charles S. Stewart Papers, 1822-1862.</unittitle>
+							<unitdate normal="1822/1862" type="inclusive">1822 - 1862</unitdate>
+							
+							<physdesc>
+								<extent>1.5 cu. ft. + 2 volumes + 1 OS folder</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><persname source="lcnaf" authfilenumber="nr91020744">Stewart, C. S. (Charles Samuel), 1795-1870</persname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 263</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Gift; Mrs. Alexander Stewart Phinney; 1957; NM-009.57 - NM-039.57.</p><p>Purchase; Carmen D. Valentino; 2003; NM-001.03.</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>The journals and diaries in Box 1 have been published as follows: C.S. Stewart, "Private Journal of a Voyage to the Pacific Ocean and Residence at the Sandwich Island in the Years 1822, 1823, 1824, and 1825." (New York: John P. Haven, 1831). C.S. Stewart, "A Visit to the South Seas, in the U.S. Ship Vincennes, during the years 1829 and 1830 ..."(New York: John P. Haven, 1831).</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 263: Rev. Charles S. Stewart Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Rev. Charles Samuel Stewart (1795-1870) was a naval chaplain and missionary.</p>
+						</bioghist>
+						<controlaccess><persname source="lcnaf" authfilenumber="nr91020744">Stewart, C. S. (Charles Samuel), 1795-1870</persname><persname source="lcnaf" authfilenumber="nr2007006587">Stewart, Harriet Bradford, 1798-1830</persname><subject>Brandywine (Frigate)</subject><subject>Congress (Frigate: 1841-1862)</subject><subject>Guerriere (Frigate)</subject><subject>Niagara (Steam frigate)</subject><subject>Hawaii-​-​Description and travel.</subject><subject>United States (Frigate)</subject><subject>United States. Navy.</subject><subject>Voyages and travels.</subject><subject>Voyages around the world.</subject><subject>Vincennes (sloop of war)</subject><genreform authfilenumber="300027112" source="aat">diaries</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><occupation>Missionaries.</occupation></controlaccess>
+						<scopecontent>
+							<p>Papers include journals and diaries of travel to, and residence in, the Sandwich Islands (Hawaiian Islands), 1822-25, 1829; correspondence of Stewart and his wife (Harriet Bradford Stewart), 1822-36; and printed items. Other items are journals of voyages on U.S.S. Guerriere and U.S.S. Vincennes to and from Hawaii, 1829-30; to British Isles, 1832; to the Mediterranean on U.S.S. United States, 1834; to Spain and Portugal on U.S.S. Brandywine, 1839-41, along with a sketch book from the latter. There are also letter books kept on voyages on U.S.S. Congress to South America, 1850-52, and on U.S.S. Niagara, 1860-62, around the world via Japan, China, Mozambique, Cape of Good Hope, Charleston, South Carolina, and Cuba. </p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="4a8c67_Coll._No._263.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

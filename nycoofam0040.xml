@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0040</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Harold F. Eastman Covered Bridge Collection, 1800-1965 (bulk 1865-1965)</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-23">April 23, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Harold F. Eastman Covered Bridge Collection, 1800-1965 (bulk 1865-1965)</unittitle>
+							<unitdate type="inclusive" certainty="approximate">1800-1965 (bulk 1865-1965).</unitdate>
+							
+							<physdesc>
+								<extent>4.5 cu. ft. and 46 vols.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><persname>Eastman, Harold F.</persname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 24</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Gift; Eastman's daughters, Eleanor Pinney and Muriel Batsford, Concord, MA; 1973; FM-153.73. </p><p>Gift; Edward D. Thomas, Foxboro, MA; 1974; NM-38.74.</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>624.218 N213w 1965 World guide to covered bridges / revised October 15, 1965...edited by Harold F. Eastman.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 24: Harold F. Eastman Covered Bridge Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Harold F. Eastman was editor of the 1965 edition of the "World Guide to Covered Bridges" published by the National Society for the Preservation of Covered Bridges.</p>
+						</bioghist>
+						<controlaccess><genreform authfilenumber="300128366" source="aat">color slides</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform authfilenumber="300134977" source="aat">lantern slides</genreform><genreform>Photographs.</genreform><genreform authfilenumber="300127104" source="aat">photographic prints</genreform><genreform authfilenumber="300026816" source="aat">postcards</genreform><genreform authfilenumber="300027341" source="aat">scrapbooks</genreform><genreform authfilenumber="300162872" source="aat">stereoscopic photographs</genreform><persname>Turner, Belle S. </persname><persname>Allen, Richard Sanders.</persname><subject>Covered bridges</subject><subject>Ferries</subject><subject>Transportation</subject><subject>Bridges--Design and construction.</subject></controlaccess>
+						<scopecontent>
+							<p>Pictures of and information about covered bridges in New England, New York, Pennsylvania, and other states of the U.S., along with Canada and Europe. Photographs include many hundreds of prints and postcards, some 525 glass lantern slides, 1300 color slides, 165 stereoscopic views, and a few glass negatives. Historical data on covered bridges includes clippings, pamphlets, articles and lists; also correspondence and notes on the subject by Richard Sanders Allen (1917-2008.) There is material on bridge builders and bridge-building techniques, and photographs and pictures of other bridges and ferryboats. Also includes postcards of covered bridges collected by Belle S. Turner and several pieces (artifacts) of actual bridges.
+</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="8b59e5_Coll._No._24.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

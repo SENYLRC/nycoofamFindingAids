@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00016</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Corporal Michael “Rome” Sollak correspondence, 1942-1944.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Corporal Michael “Rome” Sollak correspondence, 1942-1944.</unittitle>
+            <unitdate normal="1942/1944">1942 - 1944</unitdate>
+            <abstract>This is an extensive collection of the World War II correspondence of Corporal Michael “Rome” Sollak who served in the U. S. Army, 303rd Engineers Battalion, Companies H and S. These letters were sent to his girlfriend-then-wife, Evelyn Mickel Sollak, and other family members and friends in Johnstown, Fulton County, NY.</abstract>
+            <physdesc>
+                <extent>1 cu. ft. (344 letters)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Michael Sollak, 1908-1984.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 457</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-018.01</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 457 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Michael “Rome” Sollak was born in Yugoslavia in 1908, the son of Stephen and Elizabeth Sollak. The family immigrated to the US in 1912 and settled in Johnstown, Fulton County, NY. Subsequently, the Sollaks had two more children, Florien, 1913-1881; and Lena, 1915-1981. By 1940, Sollak had had 2 years of high school education and was employed as a “cutler worker.” </p>
+        <head>Biography/History</head>
+        <p>Sollack enlisted in the Army at the age of 33 in August 1942. After basic training at Fort Bragg, NC in the fall of 1942, Sollak was assigned to the 303rd Engineers Battalion and went through an additional thirteen weeks of training. Sollak spent his time in the military stateside teaching engineering skills and doing auto mechanics at Camp Butner, NC, Oct 1942-Oct 1943; Camp Bowie, TX, Nov 1943; Fort Custer, MI, Nov-Dec 1943; Fort Sheridan, IL, Dec 1943-Jan 1944; Camp Grant, IL, Jan-Sep 1944; and Fort Dix, NJ, Oct 1944.</p>
+            <p>Corporal Sollak’s marriage to Evelyn Mickel took place on a brief leave in January 1943. In March 1944 he became a naturalized citizen and in October of that year he was discharged from military duty. Sollak died at Johnstown, NY in 1984.</p>
+            <p>Russel Mickel was Evelyn’s brother who also served in the military, Betty “Babe” Mickel was Evelyn’s younger sister, Ruth Mickel was Evelyn’s older sister, and Leon Morgan was Ruth Mickel’s boyfriend, husband or relative.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300048730" source="aat">personal correspondence</genreform>
+            <subject>Army spouses--Correspondence.</subject>
+            <subject>United States--History, Military--20th century.</subject>
+            <subject>United States.--303rd Engineers Battalion, Company H. </subject>
+            <subject>United States.--303rd Engineers Battalion, Company S. </subject>
+            <subject>World War, 1939-1945--Personal narratives, American.</subject>
+            <persname>Sollak, Evelyn Mickel, 1908-1991.</persname>
+            <persname>Sollak, Lena, 1915-1981.</persname>
+            <subject>World War, 1939-1945--United States</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>This is an extensive collection of the World War II correspondence of Corporal Michael “Rome” Sollak who served in the U. S. Army, 303rd Engineers Battalion, Companies H and S. These letters were sent tohis girlfriend-then-wife, Evelyn Mickel Sollak, and other family members and friends in Johnstown, Fulton County, NY. </p>
+        <head>Scope and Contents</head>
+        <p>The 329 letters are full of detail and document his training and experiences at Army bases in North Carolina, Texas, Michigan, Illinois, and New Jersey from 1942-1944. An overwhelming majority of the letters are for his wife, before and after their marriage.</p>
+            <p>Also included in the collection are five letters sent to Leon Morgan from Russel Mickel and Claude Burch, 1940-1943.</p>
+            <p>Note: the Accession Record for this collection contains an annotated calendar of all the letters which includes dates and topics for each letter.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="fdd8d5_Coll._No._457_Michael_Sollak_correspondence.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0049</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Jellis Fonda Papers, 1750-1791.</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-15">May 15, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Jellis Fonda Papers, 1750-1791. </unittitle>
+							<unitdate normal="1750/1791" type="inclusive">1750 - 1791</unitdate>
+							
+							<physdesc>
+								<extent>0.75 Cubic feet + 2 volumes</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname source="lcnaf" authfilenumber="n00113434">Fonda, Jellis, 1729-1791</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 157</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Purchase; John Wyman; 1953; FM-045.53.</p>
+            <p>Gift; Marian Banker; 1973; FM-131.73.</p>
+            <p>Gift; Montgomery County Historical Society; 1974; NM-039.74.</p>
+            <p>Purchase; Signature House; Upland, CA 91786; 2011; NM-19.2011.</p>
+        </acqinfo>
+        <odd>
+            <p>Name Index of General Store Ledger (1750-1772) and of General Store Ledger (1772-1791)   are attached.</p>
+        <head>Other Descriptive Data</head></odd>
+        <relatedmaterial>
+            <p>Coll. No. 222: John E. Wyman Collection includes manuscripts of Jellis Fonda.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 157: Jellis Fonda Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Jellis/Jelles Fonda (1729-1791) of Montgomery County, N.Y. was a soldier, justice of the peace, and one of the first merchants west of Schenectady, N.Y.</p>
+						</bioghist>
+						<controlaccess>
+            <subject>Business, industries, and trades-​-​Montgomery County (N.Y.)</subject>
+            <subject>General stores-​-​Accounting-​-​New York (State)--Fonda</subject>
+            <subject>Indians of North America.</subject>
+            <subject>Legal affairs--Montgomery County (N.Y.)</subject>
+            <subject>Merchants--New York (State)-​-​History-​-​18th century.</subject>
+            <subject>Military affairs--​​Montgomery County (N.Y.)</subject>
+            <persname source="lcnaf" authfilenumber="n00113434">Fonda, Jellis, 1729-1791</persname>
+            <geogname>Fonda (Montgomery County, N.Y.)</geogname>
+            <geogname>Montgomery County (N.Y.)</geogname>
+            <genreform authfilenumber="300145802" source="aat">accounts</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027249" source="aat">deeds</genreform>
+            <genreform authfilenumber="300027568" source="aat">invoices</genreform>
+            <genreform>land titles</genreform>
+        </controlaccess>
+						<scopecontent>
+							<p>Letters, invoices, accounts, and land, legal, and military papers of Jellis/Jelles Fonda of Montgomery County, N.Y. Also contains two ledgers of his general store in Caughnawaga (Fonda), Montogmery County, N.Y. Subjects of note include Fonda's trade with London markets and with Native Americans, many of whom were customers in the ledgers. Includes some photocopies.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="aada7b_Coll._No._157.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

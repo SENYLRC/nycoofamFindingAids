@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00023</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Mary L. Austin Photographic Slide Collection, 1973-1976.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mary L. Austin Photographic Slide Collection, 1973-1976.</unittitle>
+            <unitdate normal="1973/1976">1973 - 1976</unitdate>
+            <abstract>This collection of 654 color photographic slides taken between 1973-1976 documents the vernacular architecture of rural and small town central New York State.</abstract>
+            <physdesc>
+                <extent>1 cu. ft. (654 color slides)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Austin, Mary Louise, 1919-2016.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 465</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; Mary Lou Austin, Oneonta, NY; 1993; NM-7.93.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 465 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Mary Louise Austin was born in 1919 in Lebanon, Madison County, NY, daughter of Florence A. and Arthur T. Ryan. Her childhood was spent on the family farm at Hamilton, Madison County, NY. After graduating from Hamilton High School in 1937, she received a bachelor’s degree from Denison University, Greenville, Ohio, in 1941 and with a master’s from the University of Chicago School of Social Work in 1943. </p>
+        <head>Biography/History</head>
+        <p>She married James Cuthbert Austin of Hamilton in 1942.  After marriage she worked for the Girl Scouts of America as an outreach coordinator in Saratoga. Initially living in Elmira where Mary Louise worked at the AOM Hospital, the couple moved to Oneonta, Otsego County, NY in 1958. They had seven children: Anne Cuthbert, James Curtiss, Sarah Olcott, Christopher Austin, Thomas Pendell, Elizabeth, and David Greenfield Austin.</p>
+            <p>Mary Louise was an active member of the First Presbyterian Church, League of Women Voters, Adirondack Mountain Club, Oneonta Garden Club and Oneonta Book Club. Along with these interests, in the 1970s she amassed an extensive collection of photographic slides of, in her words, “old buildings.” Originally local in scope to the Oneonta area, the collection broadened to cover much of upstate New York State. Austin died, in Oneonta, in 2016.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform>Photogaphs.</genreform>
+            <geogname>New York State</geogname>
+            <subject>New York (State)--Buildings, structures, etc.</subject>
+            <subject>Vernacular architecture--New York (State).</subject>
+            <persname>Austin, Mary Louise, 1919-2016 </persname>
+            <geogname authfilenumber="5129852" source="geonames">Oneonta (N.Y.)</geogname>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection of 654 color photographic slides taken between 1973-1976 documents the vernacular architecture of rural and small town central New York State.</p>
+        <head>Scope and Contents</head>
+        <p>Building types include: houses, barns, commercial buildings (e.g. feed stores, blacksmith shops, gas stations) outhouses, railroad stations, silos, schoolhouses, ice houses, mills, corn cribs, tool sheds, smoke houses, chicken houses, milk houses, libraries, post offices, sugar bushes, garages, hop barns and kilns, tourist cabins, spring houses, horse barns, cider mills, manure cellars, play houses, and gazebos.</p>
+            <p>gazebos. Among the New York State locations photographed are: Oneonta and Bainbridge, Bloomfield, Boiceville, Bouckville, Cherry Valley, Cooperstown, Davenport, Deansboro, Delhi, Earlville, Eaton, Emmons, Gilbertsville, Halcottville, Hamilton, Jordanville, Leonardsville, Lyons, Meridale, Meredith, Middlefiled, Milford, Morris, Mt. Upton, New Berlin, New Kingston, Norwich, Otego, Oxford, Phelps, Randallsville, Richmondville, Roxbury, Sherburne, Trumansburg, Whitney Point, Windsor, and Worcester. The slides are all labeled by location and building or architectural feature.</p>
+            <p>The slides are all labeled by location and building or architectural feature.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_1c9dbc74f975070942d9eac047677863" level="collection">
+    <did>
+        <unittitle>465/1.1 Photographic slides.</unittitle>
+        <container type=""/>
+        <unitdate normal="1973" type="inclusive">1973</unitdate>
+    </did>
+</c>
+            <c id="c_7f37aed2a14422b2340ee9b1e2db3517" level="collection">
+    <did>
+        <unittitle>465/1.2 Photographic slides.</unittitle>
+        <container type=""/>
+        <unitdate normal="1973/1976" type="inclusive">1973 - 1976</unitdate>
+    </did>
+</c>
+            <c id="c_a31288b0d5ef6eb3d7f9614494abe3ea" level="collection">
+    <did>
+        <unittitle>465/1.3 Photographic slides.</unittitle>
+        <container type=""/>
+        <unitdate normal="1976" type="inclusive">1976</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

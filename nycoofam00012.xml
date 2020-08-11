@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00012</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Jacob S. Glen papers</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jacob S. Glen papers, ca. 1835-1870.</unittitle>
+            <unitdate certainty="approximate">ca. 1835-1870</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft. </extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Glen, Jacob S., 1777-1859</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 454</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>FM-5.2014</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 454 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Jacob S. Glen was born in Schenectady, NY in 1773. A principal landholder, he owned 10,000 acres of the DeLancey Patent, a patent that became available after the Revolutionary War. Among Glen’s holdings was a considerable part of the Town of Charlestown. In 1802, he married Catherine Visscher, 1776-1827.  In 1818, using clay from his farm, he constructed a kiln and built a brick store and house in the town that was to be named after its prominent citizen. In April 1823, the Town of Glen was officially formed from the Town of Charleston. He died at the age of 86 in 1859 and was buried in Glen, NY.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300145802" source="aat">accounts</genreform>
+            <genreform authfilenumber="300027649" source="aat">contracts</genreform>
+            <genreform authfilenumber="300027249" source="aat">deeds</genreform>
+            <genreform authfilenumber="300027568" source="aat">invoices</genreform>
+            <genreform authfilenumber="300027755" source="aat">leases</genreform>
+            <genreform authfilenumber="300027590" source="aat">legal documents</genreform>
+            <geogname>Glen (Montgomery County, N.Y.)</geogname>
+            <subject>Agricultural laborers.</subject>
+            <subject>Agriculture--Accounting--New York (State)--Glen.</subject>
+            <subject>Agriculture--New York (State)--Glen.</subject>
+            <subject>Land grants--New York (State)--Montgomery County.</subject>
+            <subject>Real property--New York (State)--Glern.</subject>
+            <corpname>DeLancey Patent.</corpname>
+        </controlaccess>
+        <scopecontent>
+            <p>Collection consists of correspondence and business documents relating to the extensive land holdings and agricultural business of Jacob S. Glen, 1773-1859, Town of Glen, Montgomery County, NY. Included are materials relating to leases, farms, land, real estate, and hired labor:  business invoices, bills and invoices for personal and household goods, labor agreements, and assorted legal documents relating to his land holdings.  Many of the items in this collection are written or docketed in Glen’s hand. Of note is a detailed 1857 auction notice that lists Glen’s farm property and goods.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    </archdesc>
+</ead>

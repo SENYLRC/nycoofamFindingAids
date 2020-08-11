@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0032</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Van Cleaf Bachman Papers</titleproper>
+								<author>New York State Historical Association - Research Library Special Collections</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-02">April 2, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Van Cleaf Bachman Papers, 1890-1977 (bulk 1965-1977)</unittitle>
+							<unitdate normal="1890/1977" type="inclusive">1890 - 1977</unitdate>
+							
+							<physdesc>
+								<extent>5.5 Cubic feet + 2 volumes</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname source="lcnaf" authfilenumber="no2015127844">Bachman, Van Cleaf, 1939-</persname>
+            </origination>
+							
+						<unitid>Coll. No. 2</unitid>
+        <repository>
+								<corpname>Fenimore Art Museum Research Library</corpname>
+							<address>
+								<addressline>P.O. Box 800, 5798 State Highway 80</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+            <subarea> Research Library</subarea>
+            </repository>
+        </did>
+        
+        <acqinfo>
+            <p>Accession Numbers: NM-1.81, NM-2.81, N-561.82, NM-30.83</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 2: Van Cleaf Bachman Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							
+						</bioghist>
+						<controlaccess>
+            <genreform authfilenumber="300265639" source="aat">research notes</genreform>
+            <persname source="lcnaf" authfilenumber="n2010047550">Van Loon, L. G. (Lawrence Gwyn), 1903-1985</persname>
+            <subject>Dutch language-​-​Dictionaries.</subject>
+            <subject>Dutch language-​-​Dialects-​-​New York (State)</subject>
+            <subject>Encyclopedias and dictionaries, Dutch.</subject>
+            <persname>Hill, Walter, 1854-</persname>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300404333" source="aat">transcriptions (documents)</genreform>
+            <genreform authfilenumber="300028653" source="aat">audiotapes</genreform>
+            <genreform authfilenumber="300028569" source="aat">manuscripts (documents)</genreform>
+        </controlaccess>
+						<scopecontent>
+							<p>This collection is the by-product of Van Cleaf Bachman's research into the Low Dutch language --
+which he describes as a form of Holland Dutch spoken in parts of New York State and New
+Jersey by the early nineteenth century -- and the preparation of a Low Dutch dictionary.</p>
+            <p>Includes correspondence, research notes, photocopies of source material, IPA (International
+Phonetic Alphabet) transcriptions, file cards of edited and unedited data, and reel-to-reel tapes
+and a typed manuscript explaining Bachman's methodology. The latter (Introduction to "Low
+Dutch-English" dictionary) serves as an excellent introduction to Bachman's work and this
+collection. It is in Box 4.
+</p>
+            <p>Contains materials from Dr. L.G. Van Loon, an important source in Bachman's research, including
+correspondence, 1965-1977, two manuscript volumes he wrote in Dutch entitled, "Voetstappe
+Achterweege Gelante" and "Voetstappe Achter Weege," and a notebook of his grandfather,
+Walter Hill, on Mohawk Valley Dutch, [1890s?].</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="b7ff08_Coll._No._2.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

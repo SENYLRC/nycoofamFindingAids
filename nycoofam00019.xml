@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00019</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Cheetham family correspondence, 1912-1917.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cheetham family correspondence, 1912-1917.</unittitle>
+            <unitdate normal="1912/1917">1912 - 1917</unitdate>
+            <abstract>This collection documents the courtship and marriage of Harold Cheetham and Ella May Wilson, Williamson, Wayne County, NY.</abstract>
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Cheetham, Ella May Wilson, 1889-1978.   </persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 461</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas Foundation.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-008.04</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 461 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Harold George Cheetham (1894-1987) lived in the village of Williamson, Wayne County, NY as a boy. He graduated from The Mountain School in Allaben, Ulster County, NY and then attended the Tennessee Military School in Sweetwater, TN. In January 1913, on his holiday leave from military school, he married Ella May Wilson from his hometown. They both move to Sweetwater, NY so that he can finish his courses there. After graduation, the couple settled in Williamson, NY where Cheetham was a bookkeeper and insurance agent. He served in the military during both World Wars. He is buried alongside his wife at Pultneyville, Wayne County, NY.</p>
+        <head>Biography/History</head>
+        <p>As a girl and young woman, Ella May Wilson (1889-1978) lived outside of Williamson, Wayne County, NY with her parents, C. Ella [Nettie] Wilson, b. 1851 and P. Royal Wilson, b. 1845, on their apple and peach orchard, the Lakeside Fruit Farm. She had four siblings (Claude, Viola, Ruth, and Florence). She married Harold Cheetham in 1913. They had one child, a daughter named Vivian.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <corpname>Lakeside Fruit Farm (Williamson, Wayne County, N.Y.)</corpname>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <geogname>Williamson (Wayne County, N.Y.)</geogname>
+            <persname>Cheetham, Ella May Wilson, 1889-1978. </persname>
+            <persname>Cheetham, Harold George, 1894-1987.</persname>
+            <subject>Apples.</subject>
+            <subject>Country life--New York (State)--Wayne County.</subject>
+            <subject>Fruit-culture.</subject>
+            <subject>Home economics--New York (State)--Williamson</subject>
+            <subject>Orchards--New York (State)--Wayne County.</subject>
+            <subject>Peaches.</subject>
+            <subject>United States.--Army--Military life.</subject>
+            <subject>Williamson (N.Y.)--Social life and customs.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>This collecton, saved by Harold Cheetham, records the courtship and marriage of Harold Cheetham and Ella May Wilson, Williamson, Wayne County, NY.
+</p>
+        <head>Scope and Contents</head>
+        <p>Files 461.1/1-2 contain correspondence from Ella Wilson to Harold Cheetham in Williamson, Wayne County, NY and Sweetwater, TN, July thru November 1912. Many are written on the letterhead of Ella’s father’s farm and illustrated with a peach-colored peach. The content becomes increasingly sentimental and reveals the vicissitudes of a romance carried out over distance, with all the emotional ups and downs. Most interesting are details of the family’s negotiations to sell their fruit, by the train car-full, to New York brokers, and Ella’s experiences helping to feed and house the apple pickers.</p>
+            <p>File 461.1/3 contain correspondence from Harold Cheetham to Ella Wilson in Williamson, NY, 1912; a joke menu sent to Ella in 1914; and a 9-page letter from Harold describing basic training in Keeseville, Clinton County, NY.</p>
+            <p>Files 461.1/5-6 contain letters and cards to Ella May and Harold Cheetham after their marriage when they were living in Sweetwater, TN. Several congratulatory letters express surprise over the couple’s early marriage. One encloses a swatch of flowered fabric, another contains three lace swatches. Many, from Ella’s family, tell of life on the farm including one that describes a crazy quilt-in-progress. Where Ella and Harold will live when they return from Tennessee is also a frequent topic. The final decision has the couple living with Harold’s parents in town until they can make a start on their own.</p>
+            <p>Files 461.1/7-8 contain letters to Ella Cheetham from her friend Pearl who is married to a veterinarian in Webster, NY, 1914 and from Ella’s teacher Viola Evans in Rushford, NY, 1916. Business letters to Harold Cheetham from the Phoenix Mutual Life Insurance Co. about Harold’s bond sales, 1917.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_b91d0f296eca06c17bc3df27bab73190" level="collection">
+    <did>
+        <unittitle>461.1/1 Correspondence from Ella May Wilson to Harold Cheetham in Williamson, NY and Sweetwater, TN.</unittitle>
+        <container type=""/>
+        <unitdate normal="1912-07/1912-09" type="inclusive">July, 1912 - September, 1912</unitdate>
+    </did>
+</c>
+            <c id="c_d588da285d72cff44028be454462480b" level="collection">
+    <did>
+        <unittitle>461.1/2 Correspondence from Ella May Wilson to Harold Cheetham in Sweetwater, TN.</unittitle>
+        <container type=""/>
+        <unitdate normal="1912-10/1912-11" type="inclusive">October, 1912 - November, 1912</unitdate>
+    </did>
+</c>
+            <c id="c_65da4dac2433d9b1d1f6bc4ed3ee5262" level="collection">
+    <did>
+        <unittitle>461.1/3 Correspondence from Harold Cheetham to Ella May Wilson.</unittitle>
+        <container type=""/>
+        <unitdate normal="1912-07" type="inclusive">July, 1912</unitdate>
+    </did>
+</c>
+            <c id="c_8846ccc18157e60fc99c3730f4516200" level="collection">
+    <did>
+        <unittitle>461.1/4 Wedding invitation of Ella May Wilson to Harold Cheetham.</unittitle>
+        <container type=""/>
+        <unitdate normal="1913-01-11" type="inclusive">January 11, 1913</unitdate>
+    </did>
+</c>
+            <c id="c_370a4b569763fc3035830c3aaac8ffbe" level="collection">
+    <did>
+        <unittitle>461.1/5 Letters to Ella May and Harold Cheetham in Sweetwater, TN from friends and family,</unittitle>
+        <container type=""/>
+        <unitdate normal="1913-01" type="inclusive">January, 1913</unitdate>
+    </did>
+</c>
+            <c id="c_6ad93daf7d74aa59dd5f4bfb9ba36f16" level="collection">
+    <did>
+        <unittitle>461.1/6 Letters to Ella May and Harold Cheetham in Sweetwater, TN from friends and family.</unittitle>
+        <container type=""/>
+        <unitdate normal="1913-02" type="inclusive">February, 1913</unitdate>
+    </did>
+</c>
+            <c id="c_1ac81c4470f5b967260e63a005008a1d" level="collection">
+    <did>
+        <unittitle>461.1/7 Letters  to Ella May Cheetham from friends,</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1914, 1916</unitdate>
+    </did>
+</c>
+            <c id="c_f9fa4288b62f263572d42925fd2e2507" level="collection">
+    <did>
+        <unittitle>461.1/8 Business correspondence to Harold Cheetham.</unittitle>
+        <container type=""/>
+        <unitdate normal="1917" type="inclusive">1917</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

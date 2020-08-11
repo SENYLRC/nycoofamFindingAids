@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0046</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Cooperstown notes and photographs, u.d.</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-08">May 8, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Cooperstown notes and photographs, u.d.</unittitle>
+							<unitdate type="inclusive" certainty="approximate">Unknown</unitdate>
+							
+							<physdesc>
+								<extent>.5 cu. ft.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname>Unknown</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 478</unitid>
+        </did>
+        <processinfo>
+            <p>This collection was removed from a looseleaf notebook and is arranged, except for Series 3, in the order it was found.</p>
+        </processinfo>
+        <acqinfo>
+            <p>FIC; 2018; NM-23.2018.</p>
+        </acqinfo>
+        <odd>
+            
+        </odd>
+        
+						<accessrestrict>
+							<p>Coll. No. 478: Cooperstown notes and photographs is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							
+						</bioghist>
+						<controlaccess>
+            <subject>Buildings, structures, etc.--History--New York (State)--Cooperstown.</subject>
+            <subject>Business, industries, and trades--New York (State)--Cooperstown.</subject>
+            <subject>Cooper, James Fenimore--1789-1851.</subject>
+            <subject>Cooper, William</subject>
+            <subject>History--New York (State)--Cooperstown.</subject>
+            <subject>Social life and customs--New York (State)--Cooperstown.</subject>
+            <subject>YMCA--New York (State)--Cooperstown.</subject>
+            <genreform authfilenumber="300265639" source="aat">research notes</genreform>
+            <genreform>photographs</genreform>
+            <geogname>Cooperstown (Otsego County, N.Y.)</geogname>
+            <corpname>Mulkins Grocery Store</corpname>
+        </controlaccess>
+						<scopecontent>
+							<p>This collection focuses on Cooperstown, NY and consists of notes, photographs, and lists identifying people in photographs but the photographs are missing. Series 1 is a timeline (1792-1919) that lists significant Cooperstown events. Series 2 consists of notes on various topics and people of Cooperstown. Series 3 consists primarily of annotated group photographs and lists of people.
+</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="b168e9_Coll_No_478_-_Cooperstown_Notes_Inventory.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

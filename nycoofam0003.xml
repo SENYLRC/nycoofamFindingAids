@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0003</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Cuthbert Collingwood Gordon Correspondence, 1850-1883</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-11">March 11, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam0003.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cuthbert Collingwood Gordon. Correspondence, 1850-1883</unittitle>
+            <unitdate normal="1850/1883" type="inclusive">1850 - 1883</unitdate>
+            <abstract>Correspondence of Universalist minister, Cuthbert Collingwood Gordon. The letters span 1850-1883. The bulk of the collection consists of letters from Universalist ministers and Universalist Society members in New York State and New England. </abstract>
+            <physdesc>
+                <extent>.5 cu. ft. (377 items)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Gordon, Cuthbert Collingwood, 1807-1884.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            
+            
+        <unitid>Coll. No. 447</unitid>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas </p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-51.81, NM-17.84, NM-19.84, NM-40.82, NM-8.78, NM-18.84, NM-49.81, NM-50.81</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 447 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Cuthbert Collingwood Gordon (1807-1884) was born in Salem, New Hampshire and ordained as a Universalist minister in Stafford, Conn in 1837. He served in churches in Vernon and Nunda, NY and in South Danvers, MA. </p>
+        <p>In 1860, at the age of 53, he retired from the ministry for health reasons, making Brooklyn, NY his home until his death. After retirement he served as secretary of the Architectural Iron Works and briefly as president of the Philadelphia Car Company. He continued his correspondence with ministers and Society members into his 70s.</p>
+        <head>Biography/History </head>
+        </bioghist>
+        <controlaccess>
+            
+        <persname>Gordon, Harriet</persname>
+            <persname>Batchelor, Daniel (Delta)</persname>
+            <persname>Gordon, O. C.</persname>
+            <subject>Universalists.</subject>
+            <subject>Clergy--Correspondence.</subject>
+            <subject>New York (State)--Churches and religious affairs.</subject>
+            <geogname>Vernon (Oneida County, N.Y.)</geogname>
+            <geogname>Nunda (Livingston County, N.Y.)</geogname>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>Correspondence of Universalist minister, Cuthbert Collingwood Gordon. The letters span 1850-1883. The bulk of the collection consists of letters from Universalist ministers and Universalist Society members in New York State and New England. </p>
+        <p>Correspondents include C. C. Gordon's wife, Harriet, and Daniel (Delta) Batchelor, Utica, NY. Also included are 55 letters (1878-1883) from C. C. Gordon, Brooklyn, NY to Batchelor, including the last from C. C. Gordon in his own hand (08/09/1883) and the last from C. C. Gordon dictated to and transcribed by his son, C. O. Gordon (10/24/1883) and one letter from C. C. Gordon to Harriet (1863).
+
+</p>
+        <head>Scope and Content</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of
+photocopies or other reproductions of copyrighted material.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish
+a photocopy or other reproduction. One of these specified conditions is that the photocopy or
+reproduction is not to be used for any purpose other than private study, scholarship, or
+research. If a user makes a request for, or later uses, a photocopy or reproduction for
+purposes in excess of fair use, that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment,
+fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Copyright statement</head>
+        </userestrict>
+    <dsc>
+            <c id="c_09c9fba2a2d6849f4470c83ed1354743" level="collection">
+    <did>
+        <unittitle>447.1/1 Letters to C. C. Gordon from Universalist ministers in New York State and New England (1 of 2)</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1850s-1870s</unitdate>
+    </did>
+</c>
+            <c id="c_b430ceec21e69124b8ab7b975f1e5a7f" level="collection">
+    <did>
+        <unittitle>447.1/2 Letters to C. C. Gordon from Universalist ministers in New York State and New England (2 of 2)</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1850s-1870s</unitdate>
+    </did>
+</c>
+            <c id="c_28aae1c4662380bc0cc1879d242eebf1" level="collection">
+    <did>
+        <unittitle>447.1/3 Letters (51) to C. C. Gordon from his wife Harriet written from various locations in New York State and letter (1) from C. C. Gordon to his wife Harriet written from Clinton, NY</unittitle>
+        <container type=""/>
+        <unitdate normal="1852/1863" type="inclusive">1852 - 1863</unitdate>
+    </did>
+</c>
+            <c id="c_d213aad439799287a018ad9e1d09b921" level="collection">
+    <did>
+        <unittitle>447.1/4 Letters to C. C. Gordon from Universalist ministers in the Northeast</unittitle>
+        <container type=""/>
+        <unitdate normal="1854/1861" type="inclusive">1854 - 1861</unitdate>
+    </did>
+</c>
+            <c id="c_aa4ad5890b2a143bf55d3ce599d6ec83" level="collection">
+    <did>
+        <unittitle>447.1/5  Letters to C. C. Gordon from Universalist ministers and Society members in New York State and New England </unittitle>
+        <container type=""/>
+        <unitdate normal="1854/1863" type="inclusive">1854 - 1863</unitdate>
+    </did>
+</c>
+            <c id="c_74bb5d1e694827609059ef4609de61ee" level="collection">
+    <did>
+        <unittitle>447.1/6 Letters to C. C. Gordon from Universalist ministers in New York State</unittitle>
+        <container type=""/>
+        <unitdate normal="1855/1865" type="inclusive">1855 - 1865</unitdate>
+    </did>
+</c>
+            <c id="c_6d83494a6be68a417e2c9b305669ab3c" level="collection">
+    <did>
+        <unittitle>447.1/7 Letters to C. C. Gordon from Daniel Batchelor, Utica, NY</unittitle>
+        <container type=""/>
+        <unitdate normal="1878/1883" type="inclusive">1878 - 1883</unitdate>
+    </did>
+</c>
+            <c id="c_65eb2a155f8c5274ccd3228f71da162f" level="collection">
+    <did>
+        <unittitle>447.1/8  Letters to Daniel Batchelor from C. C. Gordon, Brooklyn, NY</unittitle>
+        <container type=""/>
+        <unitdate normal="1878/1883" type="inclusive">1878 - 1883</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

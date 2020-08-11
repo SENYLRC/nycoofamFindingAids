@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0039</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the Corbett &amp; Stuart Records, 1850-1960</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-22">April 22, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Corbett and Stuart Records, 1850-1960. </unittitle>
+							<unitdate normal="1850/1960" type="inclusive">1850 - 1960</unitdate>
+							
+							<physdesc>
+								<extent>79 cu. ft. plus 144 volumes, and 9 oversize folders (OVS+)</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <corpname>Corbett and Stuart (Binghamton, N.Y.)</corpname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 19</unitid>
+        <abstract>Agreements, orders for supplies and raw materials, reports from company managers and factory foremen, annual and monthly reports, ledgers, and material on company personnel and investments. Correspondence between partners Merritt J. Corbett and John L. Stuart, and with managers of subsidiary companies at Corbett, East Branch, Harvard, Livingston Manor, and Peakville, N.Y., St. Mary's, Milanville, and Sherman, Pa., and Wells, Mich.</abstract>
+        </did>
+        <processinfo>
+            <p>The original order of the business records has been maintained as far as possible. Material from 1900-1909 was carefully scrutinized and ordered. Material after 1909 was simply transferred from original files to acid free folders. Brackets around folder descriptions indicate contents are not a part of original arrangement. A strict chronological order was imposed on these scattered papers. In some instances, material was interfiled with later business records. This material can be identified by typed labels.
+</p>
+        </processinfo>
+        <acqinfo>
+            <p>Gift; Dr. and Mrs. W.H. (Charlotte) Bergstrom, Manlius, NY; 1979; NM-1.79</p>
+        </acqinfo>
+        <odd>
+            
+        </odd>
+        <relatedmaterial>
+            <p>Accession file includes photographs, "My Memories of the Acid Factories" by Guy Wormuth, ms. by Emma Ruth Grimes Corbett about the Corbett family, and "The Wood Chemical Industry in the Delaware Valley" by Frank Daniel Myers.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 19: Corbett &amp; Stuart Records is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Firm of Corbett and Stuart, with main offices in Binghamton, N.Y., produced wood distillation substances such as charcoal, wood alcohol, and acetate of lime.</p>
+            <p>Sewell Corbett (1785-1852) was a farmer and the owner of a saw mill, a grist mill, a foundry, and a general store in Corbettsville, N.Y. Julius Smith Corbett (1831-1899), only son of Sewell Corbett, ran his father's various businesses until 1881, when he moved to Binghamton. With John Emmons, V. Mandville, and Mr. Nitckee, Julius Corbett established a wood chemical plant in Livingston Manor, N.Y. Julius Corbett later began building a plant in Rockland, N.Y., which his son Merritt John Corbett (b. 1865) completed in 1885 and operated for a short time (1887?). Julius and Merritt Corbett also purchased a plant in Sherman, Pa. (Sherman Manufacturing Company).</p>
+            <p>In 1887, Merritt Corbett took his brother-in-law, John Leonard Stuart, on as a partner. The firm of Corbett &amp; Stuart began operations at Harvard, N.Y. In 1889, they built another wood chemical plant at East Branch, N.Y. (Morris Brook Works). In 1891, they built a plant at Peaksville, N.Y. (Trout Brook Works). The plant at St. Mary's, Pa. (M.J. Corbett &amp; Co.) was built from 1897 to 1898. In 1911, a plant at Corbett, N.Y. (Corbett &amp; Stuart) was built. In 1912, a plant at Milanville, Pa. (Milanville Chemical Co.) was purchased. Refining plants for the manufacture of acetone, formaldehyde, and pure methyl alcohol were built at St. Mary's and at Wells, Michigan (Delta Chemical Co.) from 1914 to 1915. </p>
+            <p>Corbett Family History Robert Corbett Married Elizabeth Daniel (April 5, 1769) Children: Asapah; Ede; Pruda; Puah; Pruda; Ruby; Ruth; Eve; Sewell; Cooper; Warren Sewell Corbett (Feb. 26, 1785 - Feb. 24, 1852) Married Chloe Smith (1822) Children: Julia Ann; Amanda; Ruby Cornelia; Julius Smith; Julia Ann Elizabeth; Amanda Jane; Sarah; Sewell; Myrtis Chloe Julius Smith Corbett (Nov. 22, 1831 - March 7, 1899) Married Emma Ruth Grimes (Oct. 4, 1858) Children: Nettie Eloise; Julia Alice; Merritt John Nettie Eloise (Corbett) Stuart Married John Leonard Stuart Children: see Stuart line Julia Alice (Corbett) Craver Married Melvin C. Craver Children: George; Emma Ruth; Helen Louise George Craver (mgr. of Delta Chemical) Married Ida Cary Sisson (May 4, 1919) Emma Ruth (Craver) Reynolds Married George A. Reynolds, Jr. (Oct. 21, 1915) Children: Dorothy Louise; Robert Craver Helen Louise (Craver) Harris Married Robert Elmer Harris (June 14, 1921) Merritt John Corbett (May 3, 1865- )
+(1) Married Julia Morgan (April 30, 1890) Children(adopted): Catherine; Morgan (2) Married Alice Mitchell Child: Nancy (Stepdaughter) </p>
+            <p>Stuart Family History John A. Stuart (from Scotland) Married Charlotte Knight Children: sons include John Leonard John Leonard Stuart Married Nattie Eloise Corbett (Feb. 28, 1883) Children: Charlotte Emma; Merritt Corbett, John Leonard (also called Leonard John) Charlotte Emma (Stuart) Bowen (1885-1966) Married John Thomas Bowen (Aug. 12, 1919) Merritt Corbett Stuart (1887-1978) (1) Married May Bruce (June 23, 1922) Children: Janet, Charlotte, Lillian, Elizabeth (2) Married Dorothy Altman (June 2, 1947) Children (stepsons): Peter; William C. John Leonard Stuart Married Bula Fuller</p>
+						</bioghist>
+						<controlaccess>
+            <corpname>Corbett and Stuart (Binghamton, N.Y.)</corpname>
+            <famname>Corbett family</famname>
+            <genreform authfilenumber="300027483" source="aat">account books</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <geogname>Binghamton (Broome County, N.Y.)</geogname>
+            <subject>Charcoal.</subject>
+            <subject>Forest products industry--New York (State)</subject>
+            <subject>Hardenburgh Patent.</subject>
+            <subject>Lime.</subject>
+            <famname>Stuart family</famname>
+            <genreform authfilenumber="300027649" source="aat">contracts</genreform>
+            <genreform authfilenumber="300027267" source="aat">reports</genreform>
+            <genreform authfilenumber="300028037" source="aat">personal papers</genreform>
+            <genreform authfilenumber="300141693" source="aat">business records</genreform>
+            <genreform>employee records</genreform>
+            <subject>Industries--New York (State)-​-​Binghamton.</subject>
+            <persname>Corbett, Merritt John, 1865-</persname>
+            <persname>Stuart, John Leonard</persname>
+        </controlaccess>
+						<scopecontent>
+							<p>The Corbett &amp; Stuart business records contain correspondence between the two business partners, M.J. Corbett and J.L. Stuart, and with the company managers, in particular, M.C. Stuart (Corbett, N.Y.), George C. Craver (Wells, Michigan), and Miss Wheeler (Binghamton office). The collection includes correspondence with, and receipts from, Corbett &amp; Stuart factory foremen. It also includes correspondence regarding Corbett &amp; Stuart's investments in other businesses, such as the Binghamton Felting Co., Central Colorado Power Co., Clawson Chemical, Harwood Charcoal Association, and the First National Bank of Binghamton.</p>
+            <p>Other types of records in the collection are store receipts, ledgers, production contracts, orders for supplies/materials, "running reports" from company managers and factory foremen, wood and lumber transactions, freight business, investment concerns, bank reports, taxes, insurance, forest land real estate, personnel issues, and annual/monthly reports. </p>
+            <p>Additionally, there are business transactions with the railroads and other companies. Among the most frequent are the following: Erie Railroad; New York, Ontario &amp; Western Railroad Co.; Pennsylvania Railroad Co.; Pittsburgh, Shawmut &amp; Northern Railroad; Delaware and Eastern Railroad; Dickson &amp; Eddy; W.A. Case &amp; Son; E.I. Dupont de Nemours; Wm. S. Gray &amp; Co.;
+Manufacturers Charcoal Co.; Struthers-Wells; Shawmut Coal and Coke; National Wood Chemical Association; and United Wood Alcohol. </p>
+            <p>Along with business records, the collection contains personal papers (ca. 1824-1960) of Corbett and Stuart family members, including Charlotte [Stuart] Bowen, John Leonard Stuart, John Leonard Stuart, Jr., Merritt Corbett Stuart, and Julius Smith Corbett, along with estate papers.</p>
+            <p>Also, contains survey maps / plats, which are divided into two groups: "Primarily Delaware County" and "Hardenburgh Patent." Includes a copy of an 1812 copy of "Map of the West part of the Great Lot No. 5 Hardenburgh Patent, ... Belonging to the Heirs of James Sesbrosse(?) Esqr., Surveyed and laid into farms Now and formerly, 1809." Also contains a highway survey map series, mechanical drawings, and bridge construction plans from John A. Roebling's Sons Co. </p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="75c931_Coll._No._19.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

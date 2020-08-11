@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00010</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Woman’s Baptist Missionary Society of New Lisbon papers, 1885-1926.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Woman’s Baptist Missionary Society of New Lisbon papers, 1885-1926.</unittitle>
+            <unitdate certainty="approximate">1885-1926 [bulk, 1885-1920]</unitdate>
+            <abstract>This collection, which encompasses over 40 years of women’s activities relating to the Woman’s Baptist Missionary of New Lisbon, Otsego County, NY and later, the Woman’s Baptist Home and Foreign Missionary Society of New Lisbon consists of Minute Books, financial documents, an educational notebook focusing on hygiene, a program from the Northfield Summer School for Women's Foreign Missionary Societies, and recipes.</abstract>
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>Woman’s Baptist Missionary Society of New Lisbon, 1885-1912.</corpname>
+                <corpname>Ladies Auxiliary Society of New Lisbon, 1912-</corpname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 452</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-15.2013</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 452 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        <head>Access Restrictions</head>
+        </accessrestrict>
+        <bioghist>
+            <p>In 1876, the Woman’s Baptist Missionary Society of New Lisbon, Otsego County, NY was organized to aid “in the work of the Christian Elevation of women in foreign lands.” The group raised money in a variety of ways, making contributions to the church for improvements and decorations, and to Baptist missionary projects. In August 1912, the “Foreign and Home missionary societies were combined.” Thereafter, until at least 1920, the New Lisbon society was known as the “Woman’s Baptist Home and Foreign Missionary Society.”</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <corpname>Woman’s Baptist Home and Foreign Missionary Society.</corpname>
+            <subject>Women in missionary work.</subject>
+            <subject>Women in missionary work.</subject>
+            <subject>Women--Societies and clubs.</subject>
+            <genreform>Accounts</genreform>
+            <genreform authfilenumber="300027967" source="aat">church records</genreform>
+            <genreform>Flyers (printed matter)</genreform>
+            <genreform>Invoices (financial records)</genreform>
+            <genreform authfilenumber="300027440" source="aat">minutes (administrative records)</genreform>
+            <genreform authfilenumber="300027043" source="aat">recipes</genreform>
+            <genreform authfilenumber="300027267" source="aat">reports</genreform>
+            <genreform authfilenumber="300027178" source="aat">rosters</genreform>
+            <genreform>School notebooks</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection, which encompasses over 40 years of women’s activities relating to the Woman’s Baptist Missionary of New Lisbon, Otsego County, NY and later, the Woman’s Baptist Home and Foreign Missionary Society of New Lisbon consists of four Minute Books, 1876-1887, 1888-1897, 1898-1905, and 1910-1920. These minute books contain the society’s constitution, slate of officers, minutes of quarterly and annual meetings, and membership and dues lists. The 1910-1920 Minute Book also includes receipts and other financial documents.</p>
+        <head>Scope and Contents</head>
+        <p>Additionally, the collection contains: financial documents including bills, invoices, financial reports, receipts, and statements related to the Woman’s Baptist Missionary and the Woman’s Baptist Home and Foreign Missionary societies, 1891-1926; an educational notebook belonging to Mrs. C. L Talbot, possibly daughter or sister of the Treasurer/Secretary of the society, topics include: Dietetic, Effects of Alcohol and Tobacco, Care of the Eyes, Lungs and Respiration, and 4th Grade Geography, u. d.; handwritten manuscript and printed program from the Northfield Summer School for Women's Foreign Missionary Societies, 1919; and recipes for Baby Pap, Anna Reynold’s Sour Cucumber Pickle, Cocoa to Drink, Home Made Cream Cheese, and Creamy Candy Base.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_9d32d0586846778650ee5e05ed8e9463" level="collection">
+    <did>
+        <unittitle>451.1/1 Educational Notebook, Mrs. C. L. Talbot.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_0086faee57376e3d4389f3d767e33ea2" level="collection">
+    <did>
+        <unittitle>451.1/2 Financial documents,</unittitle>
+        <container type=""/>
+        <unitdate normal="1891/1926" type="inclusive">1891 - 1926</unitdate>
+    </did>
+</c>
+            <c id="c_cf56bd2a4fec4d8cb41f1f46b6886e61" level="collection">
+    <did>
+        <unittitle>451.1/3 Financial documents, Ladies Auxillary Society.</unittitle>
+        <container type=""/>
+        <unitdate normal="1898/1902" type="inclusive">1898 - 1902</unitdate>
+    </did>
+</c>
+            <c id="c_5f16df21b1a281370c54e3284cfedacc" level="collection">
+    <did>
+        <unittitle>451.1/4 Membership lists.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1885, u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_78b8de3586b79a792b72f8e27290dff6" level="collection">
+    <did>
+        <unittitle>451.1/5 Minute Book.</unittitle>
+        <container type=""/>
+        <unitdate normal="1876/1887" type="inclusive">1876 - 1887</unitdate>
+    </did>
+</c>
+            <c id="c_a68e9016ea47243d1ec26bdbe7e1c69d" level="collection">
+    <did>
+        <unittitle>451.1/6 Minute Book.</unittitle>
+        <container type=""/>
+        <unitdate normal="1888/1897" type="inclusive">1888 - 1897</unitdate>
+    </did>
+</c>
+            <c id="c_7767caaff1bb00f838bed081b9b740de" level="collection">
+    <did>
+        <unittitle>451.1/7 Minute Book.</unittitle>
+        <container type=""/>
+        <unitdate normal="1898/1905" type="inclusive">1898 - 1905</unitdate>
+    </did>
+</c>
+            <c id="c_6a8eee1f47d135d6ded70a2af1b14f5f" level="collection">
+    <did>
+        <unittitle>451.1/8 Minute Book.</unittitle>
+        <container type=""/>
+        <unitdate normal="1910/1920" type="inclusive">1910 - 1920</unitdate>
+    </did>
+</c>
+            <c id="c_9fb12c472d7eeaa061f179721efd16e2" level="collection">
+    <did>
+        <unittitle>451.1/9 Minutes, Ladies Aid.</unittitle>
+        <container type=""/>
+        <unitdate normal="1938-11-30/1939-03-28" type="inclusive">November 30, 1938 - March 28, 1939</unitdate>
+    </did>
+</c>
+            <c id="c_b32aa0db902fc1b55289b4064aaee9a0" level="collection">
+    <did>
+        <unittitle>451.1/10 Recipes</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_a36035e9dfaa9783a09033ac02bd1701" level="collection">
+    <did>
+        <unittitle>451.1/11 Report and Program,  Northfield Summer School for Women's Foreign Missionary Societies.</unittitle>
+        <container type=""/>
+        <unitdate normal="1919" type="inclusive">1919</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

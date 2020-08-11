@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0048</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Harry Thaw Collection 1890-1914 (bulk 1906-1908</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-14">May 14, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Harry Thaw Collection 1890-1914 (bulk 1906-1908)</unittitle>
+							<unitdate type="inclusive" certainty="approximate">1890-1914 (bulk 1906-1908)</unitdate>
+							
+							<physdesc>
+								<extent>0.25 Cubic feet + 1 volume</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><persname>Peabody, Millicent K. </persname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 131 </unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Purchase; Millicent K. Peabody; 1967; NM-027.67; Gift; Millicent K. Peabody; 1968;NM-68.68.
+</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 131: Harry Thaw Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>The trial of Harry Thaw for the murder of Stanford White occurred in 1906. </p>
+						</bioghist>
+						<controlaccess><persname source="lcnaf" authfilenumber="n89103825">Nesbit, Evelyn, 1884-1967</persname><persname source="lcnaf" authfilenumber="nr93003999">Thaw, Harry Kendall, 1871-1947</persname><corpname source="lcnaf" authfilenumber="no2008188428">Matteawan State Hospital (N.Y.)</corpname><corpname>Tombs (New York, N.Y. : Prison)</corpname><persname source="lcnaf" authfilenumber="n50020242">White, Stanford, 1853-1906</persname><subject>Murder.</subject><subject>Trials (Murder)</subject><genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform authfilenumber="300027388" source="aat">transcripts</genreform><genreform>photographs</genreform><genreform authfilenumber="300027590" source="aat">legal documents</genreform><persname>Peabody, A. Russell</persname></controlaccess>
+						<scopecontent>
+							<p>Includes some of Thaw's letters to his lawyer, A. Russell Peabody, from the Tombs prison and Matteawan State Hospital; portions of the trial transcript; letters to Thaw; photographs of Peabody and letters by him; and a large scrapbook (45 x 33 x 10 cm.) of newspaper clippings about the murder and its aftermath, including extensive coverage of Thaw's wife, Evelyn Nesbit Thaw.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<dsc><c id="c_a4a62de66c9674625a92a1a646ec4256" level="collection">
+					<did>
+						<unittitle>131.1/1 -- Partial transcript of 1907 trial.</unittitle>
+						<unitdate normal="1907">1907</unitdate>
+					</did>
+				</c><c id="c_b0f919c5f05c3c48d1d36b14ec0b75b9" level="collection">
+					<did>
+						<unittitle>131.1/2 -- Papers re: sanity hearing. </unittitle>
+						<unitdate certainty="approximate">undated.</unitdate>
+					</did>
+				</c><c id="c_5de61e85f67ebcd2322f81483c5addc0" level="collection">
+					<did>
+						<unittitle>131.1/3 -- Testimony of Alfred Lee Thaw. </unittitle>
+						<unitdate certainty="approximate">undated. </unitdate>
+					</did>
+				</c><c id="c_25255e02b28f32c784bedc906eb79689" level="collection">
+					<did>
+						<unittitle>131.1/4 -- Testimony of Chase Wiley.</unittitle>
+						<unitdate certainty="approximate">February 1907.</unitdate>
+					</did>
+				</c><c id="c_3114b6b6a3f58c50a60716ef42c6d0b9" level="collection">
+					<did>
+						<unittitle>131.1/6 -- Letters from Harry Thaw to A. Russell Peabody. </unittitle>
+						<unitdate normal="">April - June 1908, undated.</unitdate>
+					</did>
+				</c><c id="c_a6b7a46a435f335729b920fbcaa85b4f" level="collection">
+					<did>
+						<unittitle>131.1/7 -- A. Russell Peabody items include letters, legal papers, and photographs.</unittitle>
+						<unitdate normal="1890/1914">1890 - 1914</unitdate>
+					</did>
+				</c><c id="c_495ae33392d07e25010a3d2226d4b956" level="collection">
+					<did>
+						<unittitle>131.v1 -- Scrapbook of newspaper clippings.</unittitle>
+						<unitdate normal="1906/1907">1906 - 1907</unitdate>
+					</did>
+				</c><c id="c_b80bcec6a2c55b4136e805d7298081f2" level="collection">
+					<did>
+						<unittitle>131.1/5 -- Letters received by Harry Thaw. </unittitle>
+						<unitdate normal="1907/1908">1907 - 1908</unitdate>
+					</did>
+				</c></dsc><otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="" xlink:role=""/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0035</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the Chadeayne Family Papers, 1820-1916 </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-09">April 9, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Guide to the Chadeayne Family Papers,1820-1916 </unittitle>
+							<unitdate normal="1820/1916" type="inclusive">1820 - 1916</unitdate>
+							
+							<physdesc>
+								<extent>18.0 linear feet (154 volumes)</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <famname>Chadeayne Family</famname>
+            </origination>
+							<repository>
+                <corpname>Fenimore Art Museum </corpname>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 9</unitid>
+        </did>
+        <processinfo>
+            <p>Surveyed 03/01/79.</p>
+        </processinfo>
+        <acqinfo>
+            <p>Accession Numbers: NM-2.72 - NM-21.72
+</p>
+            <p>Purchase; Denning House; Salisbury Mills, NY; 1972.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 9: Chadeayne Family Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>The Chadeayne family of Cornwall, Orange County, New York owned, operated, or had a financial interest in the insurance, real estate, money-lending, and the newspaper businesses. This collection also includes records of a Cornwall attorney, carriage and sleigh maker, farmer, general merchant, surveyor, and tailor. 
+</p>
+						</bioghist>
+						<controlaccess>
+            <genreform authfilenumber="300027483" source="aat">account books</genreform>
+            <genreform authfilenumber="300027112" source="aat">diaries</genreform>
+            <genreform authfilenumber="300312071" source="aat">public records</genreform>
+            <genreform authfilenumber="300027341" source="aat">scrapbooks</genreform>
+            <famname>Chadeayne family</famname>
+            <persname>Chadeayne, H. F.</persname>
+            <subject>General stores-​-​Accounting-​-​New York (State)-​-​Cornwall.</subject>
+            <subject>Insurance.</subject>
+            <subject>Real estate business.</subject>
+            <subject>Taxation--New York (State)-​-​Cornwall.</subject>
+            <geogname>Cornwall (Orange County, NY)</geogname>
+            <subject>Business, industries, and trades-​-​New York (State)-​-​Cornwall.</subject>
+            <subject>Legal affairs-​-​New York (State)-​-​Cornwall.</subject>
+            <subject>Politics and government-​-​New York (State)-​-​Cornwall.</subject>
+            <geogname>Salmon's Dock, Cornwall Landing(Orange County, NY)</geogname>
+            <subject>Transportation-​-​New York (State)-​-​Hudson River </subject>
+        </controlaccess>
+						<scopecontent>
+							<p>Account books and daybooks, 1834-81, of a general store run by the Chadeayne family in Cornwall, Orange County, New York. Account books, daybooks, and journals, 1841-94, of other businesses owned or operated by the Chadeaynes, or in which they had a financial interest, including insurance, real estate, money-lending, and the newspaper business. Register of manufacturers, retail outlets, and professional people in New York City and mid-Hudson Valley, kept by H.F. Chadeayne, 1884-87. Diaries kept by H.F. Chadeayne, 1873-84, and his sons, 1871-82, which discuss business and family matters, the weather, and politics. Also, various ledgers kept by the Chadeaynes when they started their businesses in the 1820s, later used as scrapbooks for clippings about politics, economics and social life in Cornwall during the 19th century.</p>
+						<p> Account books, daybooks, and journals, 1837-1916, of other Cornwall businessmen. Account books, 1870s, of Salmon's Dock, Cornwall Landing, which record Hudson River shipments.</p>
+            <p>Town of Cornwall records includes a tax roll, 1909, and a justice court docket of Justice Morrison, 1837-39.  </p>
+        </scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="d08c49_Coll._No._9.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

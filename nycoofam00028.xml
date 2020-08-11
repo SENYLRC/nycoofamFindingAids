@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00028</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Johnstown Cheese Factory (Johnstown, N. Y.) records, 1867-1891.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Johnstown Cheese Factory (Johnstown, N. Y.) records, 1867-1891.</unittitle>
+            <unitdate normal="1867/1891">1867 - 1891</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>Johnstown Cheese Factory  (Johnstown, Fulton County, N.Y.)</corpname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 473</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Purchase; Carmen Valentino, Philadelphia, PA; 2015; FM-1.15.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 473 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Johnstown Cheese Factory was established in 1867 and operated at least until 1908. It was located about 1.5 miles west of Johnstown, NY and was owned by a stock company. In 1870 the factory had the capacity for 600 cows and produced about 125,000 pounds of cheese annually.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300027433" source="aat">bylaws (administrative records)</genreform>
+            <genreform authfilenumber="300027755" source="aat">leases</genreform>
+            <genreform authfilenumber="300027204" source="aat">lecture notes</genreform>
+            <genreform authfilenumber="300027590" source="aat">legal documents</genreform>
+            <genreform authfilenumber="300027267" source="aat">reports</genreform>
+            <genreform authfilenumber="300027178" source="aat">rosters</genreform>
+            <geogname>Johnstown (Fulton County, N.Y.)</geogname>
+            <subject>Business, industries, and trades--Cheese--Johnstown (N.Y.)</subject>
+            <subject>Cheese factories--New York (State)--Johnstown.</subject>
+            <genreform authfilenumber="300027891" source="aat">statutes</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains manuscript documents relating to the establishment and management of the Johnstown Cheese Factory, Fulton County, NY, including subscription lists with the names and signatures of over twenty local cheese/milk producers who purchased shares, leases for property leased for the company’s factory, articles of agreement/bylaws and statutes instituted for the governance of the enterprise, annual reports, and other related documents. The materials contain a wealth of information and statistics relating to a NY State cheese/milk cooperative enterprise.  </p>
+        <head>Scope and Contents</head>
+        <p>Also includes papers relating to a Supreme Court case between the Company and Lewis Veghte concerning water rights and two manuscript notebooks, ca. 200 pages, containing lecture notes relating to cheese making, milk production, and other agricultural topics.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_33eb3c6271f6229d36dd7074b20b0176" level="collection">
+    <did>
+        <unittitle>473.1.1/1 Account ledger pages.</unittitle>
+        <container type=""/>
+        <unitdate normal="1873/1881" type="inclusive">1873 - 1881</unitdate>
+    </did>
+</c>
+            <c id="c_aa8a4d978e8439014ad82293043950de" level="collection">
+    <did>
+        <unittitle>473.1.1/2 Bills and receipts.</unittitle>
+        <container type=""/>
+        <unitdate normal="1869/1899" type="inclusive">1869 - 1899</unitdate>
+    </did>
+</c>
+            <c id="c_7bd54af80bac73274854d3550c40b8e0" level="collection">
+    <did>
+        <unittitle>473.1.1/3 Capital stock certificates and reports.</unittitle>
+        <container type=""/>
+        <unitdate normal="1867/1879" type="inclusive">1867 - 1879</unitdate>
+    </did>
+</c>
+            <c id="c_c6027887804668ed26a4e6e0bd04f894" level="collection">
+    <did>
+        <unittitle>473.1.1/4 Founding documents.</unittitle>
+        <container type=""/>
+        <unitdate normal="1867" type="inclusive">1867</unitdate>
+    </did>
+</c>
+            <c id="c_5232a40a1770c964e7ca89e3bc812554" level="collection">
+    <did>
+        <unittitle>473.1.1/5 Correspondence.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1878, 1891.</unitdate>
+    </did>
+</c>
+            <c id="c_b3899998595ce0c42d93aab7bcc5cc01" level="collection">
+    <did>
+        <unittitle>473.1.1/6 Notebooks.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_0979794a603e6d8ab256aacf7b76c957" level="collection">
+    <did>
+        <unittitle>473.1.1/7 Supreme Court  case documents,</unittitle>
+        <container type=""/>
+        <unitdate normal="1873/1888" type="inclusive">1873 - 1888</unitdate>
+    </did>
+</c>
+            <c id="c_151efc961d90e698119567f4fd5ebf77" level="collection">
+    <did>
+        <unittitle>473.1.1/8 Trustees' Annual Reports,</unittitle>
+        <container type=""/>
+        <unitdate normal="1869/1877" type="inclusive">1869 - 1877</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

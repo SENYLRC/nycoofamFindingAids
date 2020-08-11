@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00024</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Janice C. Neal papers, 1962-1964.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Janice C. Neal papers, 1962-1964.</unittitle>
+            <unitdate normal="1962/1964">1962 - 1964</unitdate>
+            
+            <physdesc>
+                <extent>.50 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Neal, Janice C., 1902-1966.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 468</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <relatedmaterial>
+            <p>Call Numbers: 398 N341; Sp.Coll. 398 N341</p>
+        </relatedmaterial>
+        <acqinfo>
+            
+            <p>Gift; Alma Slawson, Oneonta, NY; 1984; NM-33.84.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 468 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Janice Neal, child of Frank E Neal, 1869-1952 and Minnie E. Miller Neal, b. 1872, was a lifelong resident of Oneonta, Otsego County, NY. She studied at the State University of New York in Albany,  became a public school teacher in Unadilla, Otsego County, NY, and was a member of several historical organizations. A pamphlet of her writing, “Otsego County Bits and Pieces,” was published posthumously.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <persname>Neal, Janice C., 1902-1966.</persname>
+            <persname>Peacox, Earle F., 1907-1982.</persname>
+            <famname>Neal family.</famname>
+            <geogname>Oneonta (Otsego County, N.Y.)</geogname>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027015" source="aat">genealogies (histories)</genreform>
+            <subject>Oneonta (N.Y.)--Family and personal papers.</subject>
+            <subject>$aOneonta (N.Y.)--Social life and customs.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains 67 personal letters and 5 work books of genealogical notes. The bulk of the letters (45 in all) are written by Janice Neal to “Cousin Blanche” (possibly Mrs. Fred Wood) between 1961-1961. Neal writes of her activities at school, in organizations, and at church, of friends, nature, local news, and of the books she is reading and the genealogical research she is doing. </p>
+        <head>Scope and Contents</head>
+        <p>Also included are 21 letters to Neal from Earle F. Peacox, Webster, Montgomery County, NY. These letters focus primarily on genealogical research. The 5 genealogical work books include handwritten notes on families, and cemetery and church records and other sources of documentary evidence. Family names include: Miller, deGraff, Bush, and Stancil/Stansell. </p>
+            <p>Neal is a very good letter writer.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_fdce6b5423fee18efab12a554c68366f" level="collection">
+    <did>
+        <unittitle>No. 468/1.1 Correspondence - to Blanche.</unittitle>
+        <container type=""/>
+        <unitdate normal="1961/1962" type="inclusive">1961 - 1962</unitdate>
+    </did>
+</c>
+            <c id="c_bfd1252390a96707fb987ea38aec5b54" level="collection">
+    <did>
+        <unittitle>No. 468/1.2 Correspondence - to Blanche.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1963-1964, n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_433a68882b5571c1de2f6602bd45f7cd" level="collection">
+    <did>
+        <unittitle>No. 468/1.3 Correspondence - from Blanche.</unittitle>
+        <container type=""/>
+        <unitdate normal="1963" type="inclusive">1963</unitdate>
+    </did>
+</c>
+            <c id="c_4c535ee35f15994c788a8f8bcb37f0f3" level="collection">
+    <did>
+        <unittitle>No. 468/1.4 Correspondence - from Earle Peacox.</unittitle>
+        <container type=""/>
+        <unitdate normal="1961/1968" type="inclusive">1961 - 1968</unitdate>
+    </did>
+</c>
+            <c id="c_99e47c2db1bf4cb498ffee02dba1f1c4" level="collection">
+    <did>
+        <unittitle>No. 468/1.5 Misc. correspondence and ephemera.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_2ccd355031c7c0290c0aa89e16d6afc1" level="collection">
+    <did>
+        <unittitle>No. 468/1.6 Work book - Bush/Miller geneaologies.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_370d51937dcf17ac04aba7661da57d8e" level="collection">
+    <did>
+        <unittitle>No. 468/1.7 Work book - Miller/Casler/deGraff/Stancel/Young/Smith/Freeman/Roof geneaologies. </unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_42e650342c0a8842fe406e55c3e0c6ae" level="collection">
+    <did>
+        <unittitle>No. 468/1.8 Work book - "Records Church &amp; Cemetery Halls Snells Riffenbergs."</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_38a39b96749ed377850de1df3cf41501" level="collection">
+    <did>
+        <unittitle>No. 468/1.9 Work book - Miller/Bush/Stansel geneaologies incl. notes on Otsego and Schoharie county cemeteries.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
+    </did>
+</c>
+            <c id="c_ccb481d6da0f3ea4a022311fa2e06c21" level="collection">
+    <did>
+        <unittitle>No. 468/1.10  Work book- Stansell/Featherly geneaologiews, incl. correspondence from Earle Peacox.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" normal="1963">1963</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

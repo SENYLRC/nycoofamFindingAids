@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0041</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Octagon Houses Collection</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-29">April 29, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Octagon Houses Collection, 1940-1979 (bulk 1945-1956),</unittitle>
+							<unitdate normal="1940/1979" type="bulk">1940-1979 (bulk 1945-1956)</unitdate>
+							
+							<physdesc>
+								<extent>6 cu. ft. (11 boxes, including 1 OVS)</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><persname>Rounds,  Ruby M. </persname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 42</unitid>
+        </did><relatedmaterial><p>The original publication of this compilation was in "New York History," Vol. 33, nos. 2 and 3, April and July 1952, edited by Janet R. MacFarlane, Curator, New York State Historical Association.</p></relatedmaterial>
+        
+        <acqinfo>
+            <p>Source unknown, surveyed 07/01/79.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 42: Guide to the Octagon Houses Collection, 1940-1979 (bulk 1945-1956) is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>The octagon building can be found in use throughout history. One of the earliest known octagonal structures is the Tower of Winds, 100-50 B.C., in Athens, Greece. At 42 feet high by 26 feet in diameter, this marble octagonal building, still standing, was constructed for the purpose of measuring time.
+</p><p>The main period of construction of octagon houses in the United States occurred in the 1850s
+and 1860s. These buildings could be found in more than twenty states and Canada with the
+largest numbers being in New York State.</p><p>The Dutch settlers that came to New York were familiar with this type of structure, having seen
+many octagonal churches in use in Holland. Subsequently, several small octagonal churches
+were built in New York and New Jersey in the late 17th and early 18th centuries.</p><p>In 1854, Orson Fowler published A Home for All, expounding upon the virtues of the octagon
+house with regard to the ease and expense of construction, as well as the resultant safety in
+utilization of specific building materials and increased efficiency of usable space and temperature
+regulation. This, coupled with changing styles of home construction in form and technique, led to
+a surge of production of eight-sided homes in the United States at that time.</p>
+						</bioghist>
+						<controlaccess><subject>Octagonal houses.</subject><subject>Architecture, Domestic--New York (State)</subject><persname>Leonard, Stephen R.</persname><persname>MacFarlane, Janet R.</persname><genreform>Correspondence.</genreform><genreform>Photographs.</genreform><subject>Architecture, Dutch--New York (State)</subject><subject>House construction.</subject><genreform>Photographic prints.</genreform><genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform><genreform authfilenumber="300265639" source="aat">research notes</genreform><genreform authfilenumber="300026695" source="aat">photograph albums</genreform></controlaccess>
+						<scopecontent>
+							<p>Primarily photographic images of octagon houses from locations in the United States, over half of them from New York State. The New York State octagon house files were gathered for use in "Octagon Buildings in New York State," compiled by Ruby M. Rounds of the New York State Historical Association. The information and photographs for the compilation were supplied by Stephen R. Leonard, Sr. Additional photographs and research came from Mrs. K.R.J. Edholm and Bertha Guptill.  Also included are newspaper clippings, articles, correspondence, research notes, associated published materials, and two photograph albums.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="d1f80b_Coll._No._42.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

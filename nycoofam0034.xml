@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0034</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Carl Carmer Collection </titleproper>
+								<author>Fenimore Art Museum Research Library</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-08">April 8, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Carl Carmer Collection, 1908-1976 (bulk 1940-1970)</unittitle>
+							<unitdate normal="1908/1976" type="inclusive">1908 - 1976</unitdate>
+							
+							<physdesc>
+								<extent>83.0 Cubic feet(125 boxes) + 4 volumes + 6 oversize folders (OVS and OVS+)</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname source="lcnaf" authfilenumber="n50032459">Carmer, Carl, 1893-1976</persname>
+            </origination>
+							<repository>
+                <corpname>Fenimore Art Museum </corpname>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 7</unitid>
+        </did>
+        <controlaccess>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300220572" source="aat">pamphlets</genreform>
+            <genreform>photographs</genreform>
+            <genreform authfilenumber="300127104" source="aat">photographic prints</genreform>
+            <geogname>Cooperstown (Otsego County, NY)</geogname>
+            <occupation>Oneonta, (Otsego County, NY)</occupation>
+            <subject>Folklore--New York (State)</subject>
+            <subject>Illustration of books</subject>
+            <subject>Illustrators</subject>
+            <subject>Literature</subject>
+            <geogname>Oneonta, (Otsego County, NY)</geogname>
+            <occupation authfilenumber="300025492" source="aat">authors</occupation>
+        </controlaccess>
+        <processinfo>
+            <p>Much of this collection is unprocessed.</p>
+        </processinfo>
+        <acqinfo>
+            <p>Accession numbers: F-291.65, F-292.65, NM-031.67, NM-054.77</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 7: Carl Carmer Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Carl Lamson Carmer (1893-1976) was a folklorist and author.</p>
+						</bioghist>
+						
+						<scopecontent>
+							<p>Contains Carl Carmer's literary manuscripts and other writings with related correspondence and research notes. This includes undated and unpublished manuscripts, school essays, speeches, early poems, CBS broadcast scripts, published articles, galleys, notebooks, publicity, reviews, and fan mail. The collection also contains financial records, newspaper clippings, writings of other authors, autobiography, pamphlets, family and other photographs, biographical data, greeting cards, songs and music, art books, sketch pads, illustrations in various stages for Carmer's manuscripts, and some family papers.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="7250bf_Coll._No._7.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

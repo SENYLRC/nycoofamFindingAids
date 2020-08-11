@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00021</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Captain John N. Delany military papers, 1862-1864.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Captain John N. Delany military papers, 1862-1864.</unittitle>
+            <unitdate normal="1862/1864">1862 - 1864</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Delany, Captain John N., 1822-1870.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 466</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; Gladys Smith Fairve, Spring Lake Heights, N.J.; 1984; NM-29.84.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 466 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        <head>Access Restrictions</head>
+        </accessrestrict>
+        <bioghist>
+            <p>John N. Delany was born in Ireland in 1822 of parents Patrick and Mary Delany. By 1861, he was a farmer living in Oswegatchie, St. Lawrence County, NY. In September 1861 he enlisted in Company H, 60th New York Infantry for 3 years from Hamilton, NY. In October 1861 he mustered in as 1st Lieutenant and in March 1863, was promoted to Captain at Aquia Creek, VA. He was wounded at Peach Tree Creek, GA, July 1864 and honorably discharged in October 1864. In 1870, he was farming at Oswegatchie with his wife Mary, and children Catherine, Mary, and Patrick. He died later that year.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300027112" source="aat">diaries</genreform>
+            <genreform authfilenumber="300027822" source="aat">military records</genreform>
+            <genreform authfilenumber="300027828" source="aat">muster rolls</genreform>
+            <genreform authfilenumber="300027573" source="aat">receipts (financial records)</genreform>
+            <geogname>Oswegatchie ( St. Lawrence County, N.Y.)</geogname>
+            <corpname>United States.--Army.--New York Infantry Regiment, 60th (1861-1865).</corpname>
+            <subject>United States.--Army--Military life.</subject>
+            <subject>United States--History--Civil War, 1861-1865.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains documents relating to the military career of Captain John Delany in Company H, 60th New York Infantry during the Civil War including Muster Rolls for 1863 listing names of 57 soldiers and 1864 listing names of 40 soldiers, their ranks, where and when they joined and mustered, and remarks (e.g. promoted, absent, sick, “stoped,” detailed, wounded, killed). In 1863, a large majority of soldiers mustered from Ogdensburg, St. Lawrence County, NY, in 1864, from Wanhatchie; and a 90-page memorandum book containing daily entries documenting life during wartime, 1862-1864, and occasionally, verses; his commission paper; and receipts.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_2308f3ebd136fbe36debd466d39580b2" level="collection">
+    <did>
+        <unittitle>466.1/1 1st Lieutenant Commission to the 60th Regiment, New York State Volunteers.</unittitle>
+        <container type=""/>
+        <unitdate normal="1861-09-13" type="inclusive">September 13, 1861</unitdate>
+    </did>
+</c>
+            <c id="c_8077e5cf119e2533f246c8e7e45a5ea1" level="collection">
+    <did>
+        <unittitle>466.1/2 Memorandum Book.</unittitle>
+        <container type=""/>
+        <unitdate normal="1862-05-01/1864-08-10" type="inclusive">May 1, 1862 - August 10, 1864</unitdate>
+    </did>
+</c>
+            <c id="c_35fb8fc3f5108c48960ce06c340322c2" level="collection">
+    <did>
+        <unittitle>466.1/3 "Song of Patrick's Day"</unittitle>
+        <container type=""/>
+        <unitdate normal="1863" type="inclusive">1863</unitdate>
+    </did>
+</c>
+            <c id="c_91fa93e00f419e73974ba071f7de3f87" level="collection">
+    <did>
+        <unittitle>466.1/4 Muster Roll, Capt. John Delany, Company H, 60th Regiment.</unittitle>
+        <container type=""/>
+        <unitdate normal="1863-04-30/1863-06-30" type="inclusive">April 30, 1863 - June 30, 1863</unitdate>
+    </did>
+</c>
+            <c id="c_1b01370b723a7dd6a9d3788a4b0e6614" level="collection">
+    <did>
+        <unittitle>466.1/5 Muster Out Roll, 1st Lieutenant John Delany, 60th Regiment, New York Volunteers, Aquia Creek, VA.</unittitle>
+        <container type=""/>
+        <unitdate normal="1863-06-08" type="inclusive">June 8, 1863</unitdate>
+    </did>
+</c>
+            <c id="c_1b108a6a0da598507453908cf5bc1135" level="collection">
+    <did>
+        <unittitle>466.1/6 Return of Clothing, Camp &amp; Garrison Equipage, Capt. John Delany, 60th Regiment, New York Volunteers, Louisville, KY.</unittitle>
+        <container type=""/>
+        <unitdate normal="1863-12" type="inclusive">December, 1863</unitdate>
+    </did>
+</c>
+            <c id="c_677984f519f28720180174793adf1c1a" level="collection">
+    <did>
+        <unittitle>466.1/7 Muster Roll, Company H, 60th Regiment, New York Veterans Volunteers.</unittitle>
+        <container type=""/>
+        <unitdate normal="1864-04-30/1864-06-30" type="inclusive">April 30, 1864 - June 30, 1864</unitdate>
+    </did>
+</c>
+            <c id="c_245f35ed7601d41d026f511070b008f2" level="collection">
+    <did>
+        <unittitle>466.1/8 Receipt for Ordnance and Ordnance Stores; Company H, 60th New York Infantry.</unittitle>
+        <container type=""/>
+        <unitdate normal="1864-12-09" type="inclusive">December 9, 1864</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

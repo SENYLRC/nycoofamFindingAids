@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0030</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Legal insturments of the Niles and Taber families,1791-1970 [bulk 19th c.]</titleproper>
+								<author>Unknown</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-03-20">March 20, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Legal insturments of the Niles and Taber families,1791-1970 [bulk 19th c.]</unittitle>
+							<unitdate type="inclusive" certainty="approximate">f1791-1970 [bulk 19th c.]</unitdate>
+							
+							<physdesc>
+								<extent>.25 cu.ft. and 1 OS folder</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <famname>Niles family.</famname>
+                <famname>Taber family.</famname>
+            </origination>
+							<repository/>
+						<unitid>Coll. No. 472</unitid>
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas Foundation.</p>
+        </processinfo>
+        <acqinfo>
+            <p>Purchase; Roger Butterfield, Hartwick, NY.; 1980; NM-31.80,</p>
+            <p> Purchase; Roger Butterfield, Hartwick, NY.; 1980; NM-32.80.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 472 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							
+						</bioghist>
+						<controlaccess>
+            <genreform>Bonds (negotiable instruments)</genreform>
+            <genreform authfilenumber="300027753" source="aat">indentures</genreform>
+            <genreform>Legal insturments</genreform>
+            <genreform authfilenumber="300027764" source="aat">wills</genreform>
+            <geogname>Otsego County (N.Y.)</geogname>
+            <geogname>Oneonta (Otsego County, N.Y.)</geogname>
+            <geogname>Otego (Otsego County, N.Y.)</geogname>
+            <persname>Allen, Samuel</persname>
+            <persname>Dean, Ezra</persname>
+            <persname>Downer, Anne</persname>
+            <persname>Gile, Ray</persname>
+            <persname>Latimer, Elizabeth</persname>
+            <persname>Latimer, Reuben</persname>
+            <persname>Mack, Abner</persname>
+            <persname>Martin, Robert</persname>
+            <persname>Niles, Alpha</persname>
+            <persname>Niles, Hanson</persname>
+            <persname>Niles, Jr., Nathaniel</persname>
+            <persname>Niles, Mary</persname>
+            <persname>Niles, Nathaniel, d. 1816.</persname>
+            <persname>Niles, William</persname>
+            <persname>Row, John</persname>
+            <persname>Smith, Ellsey</persname>
+            <persname>Smith, Israel</persname>
+            <persname>Stevens, Ezra</persname>
+            <persname>Thayer, Elsey</persname>
+            <subject>Otego Patent.</subject>
+            <subject>Wallace Patent.</subject>
+            <subject>Deeds</subject>
+            <geogname>West Oneonta (Otsego County, N.Y.)</geogname>
+            <geogname>Laurens (Otsego County, N.Y.)</geogname>
+            <geogname>Sharon (Schoharie County, N.Y.</geogname>
+        </controlaccess>
+						<scopecontent>
+							<p>Contains assorted legal instruments pertaining to the Niles and Taber families Otsego County, NY and others: Allen, Bull, Comstock, Gile, Mack, Miller, Latimer, Lyon, Heaton, Sleeper, Reed, Tickner Thayer, Thomas, and Smith. </p>
+            <p>The indentures in this collection primarily refer to land in the towns of Otego, Oneonta, West Oneonta, and Laurens, and to the Otego Patent, all in Otsego County, NY.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="6f1dfa_Coll._No._472_Legal_Instruments.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

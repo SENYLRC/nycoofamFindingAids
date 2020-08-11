@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00011</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to They Meet Again: "The Re-unions" of the New York State Volunteers' 114th Regiment, "The Chenango Unit"</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>They Meet Again: "The Re-unions" of the New York State Volunteers' 114th Regiment, "The Chenango Unit" manuscripts.</unittitle>
+            <unitdate normal="2001">2001</unitdate>
+            
+            <physdesc>
+                <extent>.5 cu. ft. </extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Scott, Patricia F.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 453</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; 2014; NM-11.2014.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 453 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        <head>Access Restrictions</head>
+        </accessrestrict>
+        <bioghist>
+            <p>Patricia F. Scott was City Historian of Norwich, NY from 1992-2006.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <corpname>United States--Army--New York Infantry Regiment, 114th (1862-1865)</corpname>
+            <genreform authfilenumber="300028579" source="aat">manuscripts for publication</genreform>
+            <subject>United States--History--Civil War, 1861-1865</subject>
+            <subject>United States--History--Civil War--Regimental histories--New York Infantry Regiment, 114th (1862-1865).</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains the original copy of the 1,108 page manuscript for "They Meet Again: 'The Re-Unions' of the New York State Volunteers' 114th Regiment, 'The Chenango Unit' by Norwich, NY City Historian, Patricia F. Scott. Reunions numbers 1 (1873) - 46 (1918) are documented.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    </archdesc>
+</ead>

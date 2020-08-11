@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00029</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Wetmore, Janes, &amp; Sugden card sales kit, 1930s.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Wetmore, Janes, &amp; Sugden card sales kit, 1930s.</unittitle>
+            <unitdate certainty="approximate">1930s.</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>Wetmore, Janes, &amp; Sugden</corpname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 474</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; FIC; 2016; NM-8.2016.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 474 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Doing business as Wetmore, Janes &amp; Sugden in the 1920s, then as Wetmore &amp; Sugden by 1935, this card engraving business was located in Rochester, NY and operated at least until the 1950s. </p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300026778" source="aat">greeting cards</genreform>
+            <geogname>Rochester (Monroe County, N.Y.)</geogname>
+            <subject>Business, industries, and trades--Printing--Rochester (N.Y.)</subject>
+            <subject>Christmas cards--History.</subject>
+            <subject>Printers--New York (State)--Rochester.</subject>
+            <subject>Printing industry.</subject>
+            <subject>Printing--Specimens.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains a sales kit for the Wetmore, Hanes, and Sugden Company’s line of Christmas cards mounted on 27 pages of heavy, brown card stock. The colorful cards are printed with winter or religious scenes and Christmas and New Year greetings and include envelopes. Printing techniques include steel die stamped (some with mother of pearl backgrounds), metal seal steel die stamped, off-set, and color toned.  One card sample is hand colored. Many envelopes, inside envelopes, and card holders are lined with printed tissue linings and some with linings designed to match the card. </p>
+        <head>Scope and Contents</head>
+        <p>Also includes a 12-page 1930 sales guide, “How to Make Money with Wetmore, Janes &amp; Sugden Colonial Personal Christmas Cards.” This collection provides a beautiful example of the style of cards designed in the 1930s; with price lists.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    </archdesc>
+</ead>

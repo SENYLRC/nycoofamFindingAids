@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0045</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Averell Family Papers, 1773-1963 (bulk 1790-1880)</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-07">May 7, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Averell Family Papers, 1773-1963 (bulk 1790-1880)</unittitle>
+							<unitdate type="bulk" certainty="approximate">1773-1963 (bulk 1790-1880)</unitdate>
+							
+							<physdesc>
+								<extent>9.75 cu. ft., 21 volumes, and 2 oversize folders</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname>Averell, William Holt, 1794-1873.</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 82</unitid>
+        </did>
+        <processinfo>
+            <p>The Averell Family Papers are not organized strictly into series. The following serves as a general guide to the organization of the collection:
+
+James Averell, Jr. Box 82.1. The business and legal papers of James Averell, Jr., ca. 1794-1832, include primarily deeds, bills, receipts, correspondence, agreements, accounts, and bonds. This box also contains papers concerning Cornelius Wilegus and the Ithaca Tannery. The James Averell, Jr. papers are generally arranged chronologically. Some documents such as a). Accounts -- December 1800 - July 1801, and marks on hides, 1807-1810; b). Bills and tax for Cooperstown Schoolhouse, 1809; and c). Otsego County Agricultural Society Certificate, 1818; have been filed individually within the chronological arrangement.
+
+Averell Family (Averell brothers). Box 82.2. Primarily correspondence to William Holt Averell from his brothers James, Horatio, and Lewis. Other papers relating to or written by William Holt Averell's brothers are also included. The papers are arranged by family member and organized chronologically within that arrangement. 
+
+Averell Family (other family members). Box 82.3. Papers relating to William Holt Averell's sister, Marcia, his daughter, Jane, and his nieces and nephews. Most of this material consists of correspondence to William Holt Averell. The papers are arranged by family member and organized chronologically within that arrangement. 
+
+William Cooper Estate. Box 82.3. Papers relating to the settlement of William Cooper's estate, ca. 1823-1838. Arranged chronologically. 
+
+William Holt Averell. Boxes 82.3 - 82.7. Business, legal, and personal papers of William Holt Averell, ca. 1808-1873. These include papers relating to Averell's education, law practice, and business ventures. Although the papers are generally arranged chronologically, some documents are filed individually within the chronological organization. These include Averell's law notes (ca. 1817), papers relating to various cases, and some correspondence, among other documents. Undated documents are grouped by subject when possible and filed at the end of the dated material. Other miscellaneous documents relating to William Holt Averell are at the end of this group as well. 
+
+Extended Family. Box 82.7. Business, legal, and personal papers, as well as genealogical information relating to, or written by, members of William Holt Averell's extended family (including his wife Jane's family). 
+
+Business Associates, Clients, Land Speculation. Boxes 82.7 - 82.9. Papers written by, and relating to, William Holt Averell's business and legal associates, including those involved in land speculation. Much of this material consists of correspondence to Averell from various business associates. These papers are arranged by individual and organized chronologically within that arrangement.
+
+Cotton Manufactories and Mills. Box 82.9.
+Legal and business documents (including correspondence to William Holt Averell) concerning various cotton manufactories. The papers concern the Brownville Cotton Manufactory, Hope Factory, Otsego Cotton Manufactory, Union Cotton Manufactory, Pheonix Cotton Manufactory, and the Jefferson Cotton Manufactory. They are grouped by manufactory and arranged chronologically within the groups. 
+
+Miscellaneous Items. Box 82.10. Includes some correspondence, papers regarding the Cooperstown Seminary, George Wright's diploma from Dartmouth College, deeds and land papers, printed materials, nails from Averell Cottage (Cooperstown, N.Y.), and one map. 
+
+Jane Russell Averell. Box 82.11. Letters to Jane Russell Averell from her husband, William Holt Averell, 1827-1832, and from others. This box also contains a description and transcripts of letters to Jane Russell Averell from Jane Maria Yates. 
+
+Volumes. 82.v1 - 82.v21. Includes various account books, many being expense accounts, along with autograph albums, a court case, an inventory, genealogy, and other volumes. 
+
+Oversize (OVS+). 82.001 - 82.002. Contains maps.
+
+
+
+
+
+
+
+
+
+
+</p>
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </processinfo>
+        <acqinfo>
+            <p>Loan; Source unknown; CM-010.39L.</p>
+        <p>Loan; Source unknown; CM-013.39L.</p>
+            <p>Source unknown; CM-173.39.</p>
+            <p>Source unknown; NM-33.53.</p>
+            <p>Source unknown; NM-34.53.</p>
+            <p>Source unknown; NM-43.53.</p>
+            <p>Source unknown; NM-102.53.</p>
+            <p>Purchase; The Smithy; Cooperstown, NY; 1956; NM-073.56.</p>
+            <p>Gift; Mary Averell Brown (Mrs. Paul H. Ringer) through Festus Morgan; 1959; FM-001.59, FM-009.59.</p>
+            <p>Source unknown; NM-114.66.</p>
+            <p>Gift; Paul F. Cooper; 1970; NM-035.70.</p>
+            <p>Gift; Eunice Lamb; 1971; FM-010.71.</p>
+            <p>Gift; Lawson A. Carter; 1971; FM-065.71, FM-066.71, FM-068.71 - FM-075.71.</p>
+            <p>Gift; Lawson A. Carter; 1973; FM-150.73.</p>
+            <p>Gift; William Festus Morgan, Jr.; 1974; NM-045.74.</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>For additional information about William Holt Averell and his family, please consult the following sources (available in the FAM Research Library): DeMers, Donald Osgood, Jr. "William Holt Averell: His Business and Political Career in Relation to Otsego County, New York 1794-1873." Masters thesis, State University at Oneonta, 1972.
+Avery, Clara A. The Averell-Averill-Avery Family 1637-1914. Cleveland: Evangelical Publishing House, n.d.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 82: Averell Family Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Born in Ashford, Connecticut, in 1763, James Averell, Jr. settled on a farm outside of Cooperstown, New York, circa 1786. In 1792, Averell traded his farm for a tannery in the village. By all accounts, James Averell was a successful tanner and merchant and was actively involved in community life in Cooperstown. He also invested in lands in Cleveland, Ohio, with his son William. </p>
+						<p>James, Jr. and his wife, Marcy, had eight children, five of whom lived to adulthood. The sons, James III, William Holt, Horatio, and Lewis, assisted with their father's business ventures as young men and continued to do so as adults. James III eventually settled in Ogdensburg, New York, and Horatio and Lewis settled in St. Johnsville, New York. William Holt settled in Cooperstown and was involved in family business matters, established a law practice, and participated a great deal in the social, economic, and political activities of the village. James, Jr. and Mary Averell's only daughter, Marcia, married a Cooperstown lawyer, Samuel Starkweather. </p>
+            <p>Although the activities of the Averell family never reached the level of national importance, James Averell, Jr. and his son, William Holt Averell, had a tremendous impact on economic and community life in Cooperstown and in Otsego County through much of the nineteenth century. </p>
+            <p>The following chronologies and biographical sketches provide additional information about the Averell family members represented in the Averell Family Papers: </p>
+            <p>James Averell, Jr. (1763 - ca. 1835)
+1763 Born in Ashford, Conn. to James and Mary Walker Averell 
+ca. 1780 Served in Revolutionary Militia while in Palmer, Massachusetts 
+ca. 1786 Moved to farm in the vicinity of Cooperstown, New York 
+ca. 1788 Married Marcy Holt of Pomfret, Connecticut
+ca. 1792 Traded farm for tannery in Cooperstown 
+ca. 1815 Founded Otsego Cotton Manufactory
+ca. 1832 Tannery burned
+</p>
+            <p>Invested in the Otsego Cotton Manufactory, the Hope Manufactory, and lands in Cleveland, Ohio; appointed coroner in Cooperstown; organized Otsego County Bible Society; served as first collector for the Otsego Academy. James, Jr., and Marcy Holt Averell had eight children. Five of these lived to adulthood including James III (1789-1861), William Holt (1794-1873), Marcia (1796-1858), Horatio (1801-1854), and Lewis (1803-1854). </p>
+            <p>James Averell III (1789-1861)
+1789 Born in Cooperstown, New York 
+ca. 1812 Married Lydia Ambler (d. 1885) 
+1840 Appointed judge of the court of common pleas in St. Lawrence Co., NY
+</p>
+            <p>As a young man, worked in his father's store and tannery. As an adult, involved with the settlement of William Cooper's estate; involved with mills and manufactories, including Otsego Cotton Manufactory and Hope Factory, among others; invested in land in Michigan (with Horace Comstock), in Cleveland, Ohio (with James Averell, Jr.), and in various areas of New York State; involved with political activities in Otsego County; involved with the Cooperstown Seminary; vestryman at Christ Church, Cooperstown, New York; member of volunteer fire department, Cooperstown. William Holt and Jane Russell Averell had one child who lived to adulthood, Jane Maria Russell Averell (b. 1833). Jane Russell Averell died in childbirth. Jane Maria Russell Averell attended the Cooperstown Seminary and later married Willian Lawson Carter. William Lawson and Jane Averell Carter had six children: William Averell (1858-1865), Jane Russell Averell (b. 1860), Mary Gale (b. 1862), Anna Grace (b. 1864), Marcia Holt (1866-1880), and Lawson Averell (b. 1869).</p>
+            <p>Marcia Averell Starkweather (1796-1858)
+1796 Born in Cooperstown</p>
+            <p>Married Samuel Starkweather, the Cooperstown attorney with whom William Holt Averell studied. Starkweather was also a stockholder in the Otsego Cotton Mill. Samuel and Marcia Averell Starkweather had two daughters: Helen Starkweather (married Mr. Pinckney) and Maria Averell Starkweather (married William M. Campbell).</p>
+            <p>Horatio Averell (1801-1854)
+1801 Born in Cooperstown 
+1823 Married Jane Hogeboom Webb</p>
+            <p>Stockholder in Hope Manufactory; part owner (with brother Lewis) of store in St. Johnsville that served as an outlet for goods produced by James, Jr. et. al. Horatio and Jane Webb Averell had two children: Jane Webb (b. 1824; married Col. Theodore Laidley); and James Watson Webb (1826-1876). </p>
+            <p>Lewis Averell (1803-1854)
+1803 Born in Cooperstown</p>
+            <p>Lived in Little Falls, New York; in 1838 relocated to St. Johnsville, New York, where he was part owner of store (with brother Horatio); married to Celia(?); stockholder in Hope Manufactory. Lewis and Celia had one adopted son, Charles Lewis Averell. Both Celia and Charles Lewis are believed to have been mentally deficient. Charles attended Grove Hill Family School, Pepperell, Massachusetts. William Holt Averell evidently served as Charles' guardian following Lewis' death. </p>
+            <p>Other people of interest: </p>
+            <p>Horace Comstock (d. 1861): William Holt Averell's associate and agent dealing with land investments in Otsego, Michigan, 1839-1853; Michigan State Senator, 1835, 1837; married Sarah Sabina Cooper, 1833.
+Stephen Hogeboom: Jane Russell Averell's grandfather. 
+Winiple Family: In-laws to William Holt Averell.
+Ayery Averell: According to the "Averell-Averill-Avery Genealogy," this person was "associated in some way with this family, and buried beside them." 
+Lawson Carter (b. 1869): Son of William Lawson and Jane Maria Russell Averel.l 
+Carter Charles Carter Cullen (1839-1894): Jane Maria Russell Averell Carter's brother-in-law. </p>
+        </bioghist>
+						<controlaccess>
+            <subject>Banks and banking.</subject>
+            <subject>Business, industries, and trades--Cooperstown (N.Y.).</subject>
+            <subject>Cotton manufacture.</subject>
+            <subject>Lawyers---Cooperstown (N.Y.).</subject>
+            <genreform authfilenumber="300027483" source="aat">account books</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027568" source="aat">invoices</genreform>
+            <famname>Averell family.</famname>
+            <persname>Averell, William Holt,$1794-1873.</persname>
+            <persname>Cooper, William,1754-1809; Estate.</persname>
+            <subject>Tanning.</subject>
+            <genreform>family and personal papers</genreform>
+            <geogname authfilenumber="5113664" source="geonames">Cooperstown (N.Y.)</geogname>
+            <persname>Averell, James Jr., ca. 1794-183</persname>
+            <persname>Averell, Jane Russell.</persname>
+            <persname>Averell, James III (1789-1861).</persname>
+            <persname>Starkweather, Marcia Averell  (1796-1858).</persname>
+            <persname>Averell, Horatio (1801-1854).</persname>
+            <persname>Averell, Lewis  (1803-1854).</persname>
+        </controlaccess>
+						<scopecontent>
+							<p>The Averell Family Papers consist primarily of the personal, business, and legal papers of William Holt Averell of Cooperstown, New York. The collection also includes a substantial number of papers relating to or written by James Averell, Jr., William Holt Averell's father. In addition, the collection includes papers relating to other members of the Averell family and genealogical information regarding the Averell, Carter, Slayton, and Waldby families. The date range is mostly from 1790 to 1880. </p>
+						<p>The focal point of the collection is William Holt Averell and his activities as a businessman, investing in mills and industry, his work as an attorney settling land and estate disputes (including disputes about the estate of William Cooper), his activities as an investor in land (in New York State, Ohio, and Michigan), his work as the founder and president of the Otsego County Bank, and his role as a prominent community leader in Cooperstown. With the exception of the James Averell, Jr. papers mentioned earlier, the papers of other Averell family members consist primarily of correspondence to William Holt Averell. The correspondence among family members provides a glimpse into the more personal side of the Averells' lives. </p>
+            <p>This collection documents many facets of the the business ventures of the Averell family. It includes records from the tannery operated by James, Jr. (with the help of his sons), records relating to the cotton manufactories and mills owned and operated by the family, and papers documenting the business and legal activities of individual family members, particularly William Holt Averell.</p>
+        </scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="c5077e_Coll._No._82.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

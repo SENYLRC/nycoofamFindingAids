@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00020</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to William Martin Beauchamp collection, 1847-1908 (bulk 1847-1889).</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Martin Beauchamp collection, 1847-1908 (bulk 1847-1889).</unittitle>
+            <unitdate certainty="approximate">1847-1908 (bulk 1847-1889)</unitdate>
+            
+            <physdesc>
+                <extent>2 cu. ft. (16 volumes, 136 loose sheets, 5 paintings for a  total of ca. 685 sketches, drawings, woodcut prints, and paintings)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname source="lcnaf" authfilenumber="n50006461">Beauchamp, William Martin, 1830-1925</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 462</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <custodhist>
+            <p>The daughter of William Martin Beauchamp, Mrs. Grace B. Lodder of Syracuse, NY, sold this collection of her father’s drawings and paintings to James C. Howgate, a bookseller from Schenectady, N.Y in 1945. (The balance of Beauchamp’s collection, ca. 70 cu. ft., was also sold that year to be ultimately acquired by the New York State Museum, Albany, NY in ca. 1950.) Mrs. Nina Fletcher Little, 1903-1993, of Salem, MA began collecting in the 1940s and obtained this collection from Howgate in 1949. The collection was subsequently left to the New York State Historical Association (now called the Fenimore Art Museum) in Mrs. Little's will and upon her death in 1993, was donated by her estate through Selina F. Little, Salem, MA.</p>
+        </custodhist>
+        <odd>
+            <head>Note on attribution</head>
+            <p>Because Nina F. Little had titled the material the "William Millett Beauchamp Painting Books” in the paperwork that was sent with the collection, there is some confusion as to which W.M. Beauchamp is responsible for the drawings and paintings in this collection. However, proof is not conclusive that William Millet Beauchamp produced the body of work.  In fact, most evidence points to Reverend William Martin Beauchamp as the creator.</p>
+            <p>Only one available source notes that William Millet possessed an interest in or talent for art. In “Notes of Other Days in Skaneateles," in The Annual Volume of the Onondaga Historical Association (Syracuse, N.Y.: Dehler Press, 1914), his son writes that William Millet “sometimes made signs for others, being quite artistic in this and other ways. As a printer he could readily produce any desired heading or coarse wood cut…For many years he supplied the evergreen letters for the Christmas church decorations.”  </p>
+            <p>In contrast, several of the drawings and paintings in the collection are dated after William Millet’s death in 1867 including a sketchbook and a scrapbook with some drawings signed, “Wm. M. Beauchamp,” and four sketchbooks dated between 1868-1870 containing the handwritten inscription "Rev. Wm. M. Beauchamp, Baldwinsville, N.Y.," referring to Reverend William Martin Beauchamp. 
+</p>
+            <p>William Martin Beauchamp was careful to label his work by location, often by year, and sometimes with his initials or signature. The handwriting or printing in these labels remains consistent, before and after Willian Millet’s death. In addition, Reverend Beauchamp created many of the illustrations for his books, maps, and New York State Museum bulletins, and his sketches of boats can be seen in a local history of Skaneateles from 1902. From all these examples, it is clear that Reverend Beauchamp possessed the skills necessary to create the work in this collection.</p>
+        </odd>
+        <relatedmaterial>
+            <head>Related Material</head>
+            <p>New York State Museum, Albany, NY - Collection SC17369</p>
+        </relatedmaterial>
+        <acqinfo>
+            
+            <p>N0 171.93; N0 172.93; N0 174.93; NO 175.93; NO 176.93; NO 177.93; NO 178.93; NO 179.93; NO 180.93; NO 181.9; NO 182.93; NO 183.93; NO 184.9; NO 185.93; NO 186.93; NO 187.9; NO 171.93; NO 172.93; NO 174.93; NO 175.93; NO 176.93; NO 177.93; NO 178.93; NO 179.93; NO 180.93; NO 181.9; NO 182.93; NO 183.93; NO 184.9; NO 185.93; NO 186.93; NO 187.9; NO 188.93; NO 189.93; NO 190.93; NO 191.93; NO 222.93; NO 223.93; NO 224.93; NO 225.93; NO 226.93; NO 227.93; NO 228.93 </p>
+        <head>Acquisition Information and Provenance</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 462 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>William Martin Beauchamp, 1830-1925, was an Episcopalian clergyman, archeologist, local historian, botanist, author, amateur artist, and one of the great early authorities on the culture, history, and institutions of the Iroquois.</p>
+        <head>Biography/History</head>
+        <p>He was born in Coldenham, Orange County, New York on March 25, 1830. His parents, William Millett and Mary Jay Beauchamp, had settled there the prior year upon immigrating from Somersetshire, England. In April of the following year, his family moved to Skaneateles, Onondaga County, NY where he was raised and educated at the Skaneateles Academy, graduating in 1847. He then attended the De Lancey Divinity School at Hobart College, Geneva, New York, graduating in 1862 prepared for ordination in the Episcopalian priesthood which occurred in 1863.  Reverend Beauchamp became recognized as one of the eminent Episcopalian clergymen in New York State. He served in the Calvary Church at Northville, Fulton County, New York from 1863-1865 and then, from 1865-1900, in the Grace Church at Baldwinsville, Onondaga County, New York. </p>
+            <p>He retired in 1900 and moved with his wife to Skaneateles and also to live with his daughters Ellen and Virginia in Syracuse, Onondaga County, NY. During retirement he devoted much of his time to research and writing on the Iroquois, an interest that began during childhood. His books include:  Iroquois Trial (1892), Indian Names of New York (1893), and History of the New York Iroquois, now Commonly Called the Six Nations (1905).  He also was appointed Archeologist for the New York State Museum where he published 13 bulletins on archeology, history, and culture of Native Americans in New York State; was active in promoting the Onondaga Historical Association of Syracuse; and was a member of many learned societies including the American Folk Lore Society.</p>
+            <p>Although he was best known for his work on the Native Americans and the natural history of New York State, he was also, as this collection illustrates, a talented amateur artist. He made numerous landscape views of Central New York and of summer resorts throughout the northeastern United States. He also possessed unusual skill in sketching Indian relics, having amassed over 8,000 original drawings over his lifetime. </p>
+            <p>Sarah Carter, 1835-1917, and William Beauchamp were married at her birthplace in Ravenna Ohio on November 26, 1857. They had four children: Virginia, 1858-1923; Ellen, 1861-1915; Howard Carter, 1865-1915; and Grace (Beauchamp) Lodder, 1874-1962. (The artwork of Virginia, who became a high school teacher in Syracuse, NY, is represented in this collection.)</p>
+            <p>Beauchamp died in Syracuse in 1925, and is buried, along with his wife, at Lake View Cemetery, Skaneateles, Onondaga County, NY.  The Beauchamp Branch of the Onondaga County Public Library in Syracuse was named for him and is located across South Salina Street from his former home.</p>
+            <p>Beauchamp’s father, William Millett Beauchamp, 1799-1867, was a printer, editor, bookseller, the founder of the Skaneateles Democrat, and the operator of a circulating library and a tree nursery. Both William Millett and Beauchamp’s mother, Mary Jay Beauchamp, 1800-1859, were born in England. They had five children: William Martin; Maria (Beauchamp) Humphreys, b. 1817; Mary Elizabeth, 1825-1903; John A., 1833-1860; and Sarah A, 1836-1861. Note: A scrapbook in this collection belonged to Maria Humphreys’ husband, J. Humphreys.</p>
+            <p>Landscape and portrait painter, John D. Barrow, 1824-1906, was a contemporary and friend of William Beauchamp, and fellow Skaneateles resident. Barrows founded and donated his art to the gallery which bears his name at Skaneateles, NY. Beauchamp wrote the In Memoriam to a book of Barrows’ poems, Lays of the Mountain and Lake or Woods, Waters and Seasons about Skaneateles Lake, 1907.
+</p>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300026690" source="aat">albums (books)</genreform>
+            <genreform>Drawings (visual works)</genreform>
+            <genreform>Painting (visual work).</genreform>
+            <genreform authfilenumber="300015618" source="aat">preliminary sketches (sketches)</genreform>
+            <geogname>New York (State)</geogname>
+            <geogname>Skaneateles (Onondaga County, N.Y.)</geogname>
+            <persname source="lcnaf" authfilenumber="nr98035339">Barrow, John D. (John Dobson), 1823-1907</persname>
+            <persname>Beauchamp, Mary Elizabeth, 1825-1903.</persname>
+            <persname>Beauchamp, Virginia, 1858-1923.</persname>
+            <persname source="lcnaf" authfilenumber="n50006461">Beauchamp, William Martin, 1830-1925</persname>
+            <persname>Beauchamp, William Millet, 1799-1867.</persname>
+            <persname>Miner, Harriet.</persname>
+            <subject>Landscape drawing--19th century--New York (State).</subject>
+            <subject>Landscape painting--19th century--New York (State).</subject>
+            <subject>New York (State)--Pictorial works.</subject>
+            <subject>Prints--19th century--New York (State).</subject>
+            <genreform authfilenumber="300027354" source="aat">sketchbooks</genreform>
+            <genreform authfilenumber="300041405" source="aat">woodcuts (prints)</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection contains the drawings, paintings, sketches, and woodcut prints of William M. Beauchamp included in bound volumes (sketchbooks and scrapbooks) and on loose sheets. Taking landscapes with water features as his primary subject, Beauchamp captured New York State’s lakes (especially Skaneateles Lake and environs), waterways, countryside, mountains, and small towns with graphic detail. </p>
+        
+        <p> Also included are drawings relating to the Onondaga Indian reservation in central New York, illustrations of landscapes in other states (e.g. New Hampshire, Vermont, Wisconsin, Illinois, Iowa, and Ohio) and Canada; woodcut prints made when Beauchamp was a teen, and a few portraits and illustrations of birds, butterflies, and plants. A large percentage of the illustrations are labeled by location, many by year, and some by variations of “William M. Beauchamp.”</p>
+            <p> A scrapbook belonging to John Humphreys; a sketchbook by Virginia Beauchamp; a catalogue from the John D. Barrow Art Gallery;  a portrait of Reverend Beauchamp; and oil and watercolor paintings by Beauchamp, Harriet Miner, and M. E. Beauchamp make up the remainder of the collection.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="f869f6_Coll._No._462_William_M_Beauchamp_collection.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0052</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the John E. Wyman Collection 1695-1917 (bulk 1750-1840) </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-24">May 24, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>John E. Wyman Collection 1695-1917 (bulk 1750-1840) </unittitle>
+							<unitdate type="inclusive" certainty="approximate">1695-1917 (bulk 1750-1840) </unitdate>
+							
+							<physdesc>
+								<extent>1.0 Cubic feet + 1 oversize folder (OVS+)</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><persname>Wyman, John E., collector.</persname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 222</unitid>
+        <abstract>The John E. Wyman Collection consists primarily of material relating to the early history of New York and some material relating to Connecticut. The collection includes a variety of manuscripts (1695-1917; bulk 1750-1840) collected and organized by John E. Wyman of Fonda, N.Y. The New York State Historical Association purchased the collection from the Wyman family in 1950. With the manuscripts, NYSHA acquired a calendar, probably compiled by John Wyman, which includes transcriptions and/or descriptions of more than 1,000 of the 1,100 plus documents originally in the collection. </abstract></did>
+        <processinfo>
+            <p>The collection has been arranged numerically by Wyman number, with any unnumbered items in the back of each folder. The second OVS+ folder (222.002) has no Wyman numbers.
+</p><p>Wyman organized the collection roughly by subject; however, not all subject areas originally identified by Wyman are represented among the holdings. Conversely, some documents collected but not calendared by Wyman are in this Collection.</p>
+        </processinfo>
+        <acqinfo>
+            <p>Purchase; John E Wyman, Fonda, NY;1956; NM-75.56</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>An index to the Jelles Fonda papers ia available.</p><p> A complete copy of the Wyman calendar is included in the collection guide. Calendar entries for items not in the collection have been marked with an asterisk (*). For the security of the manuscripts, oversized items have been separated physically from the other items in the collection and entries for such items have been marked with the letters OVS+. </p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 222: John E. Wyman Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>John E. Wyman, of Fonda, N.Y., collected autographs along with historical materials of the Mohawk Valley region.</p>
+						</bioghist>
+						<controlaccess><geogname authfilenumber="4831725" source="geonames">Connecticut</geogname><geogname>New York State</geogname><geogname>New York (State)--Mohawk River Valley</geogname><geogname>New York (State)--Stone Arabia</geogname><geogname authfilenumber="6252001" source="geonames">United States ()</geogname><persname source="lcnaf" authfilenumber="n79055972">Arnold, Benedict, 1741-1801</persname><persname source="lcnaf" authfilenumber="nr90025996">Bradstreet, John, 1711-1774</persname><persname source="lcnaf" authfilenumber="n80051078">Brant, Joseph, 1742-1807</persname><persname source="lcnaf" authfilenumber="n2007016735">Butler, Walter, 1752?-1781</persname><persname source="lcnaf" authfilenumber="nr92016172">Clinton, James, 1736-1812</persname><persname>DeGraff, Emanuel</persname><persname>DeGraff, Isaac</persname><persname source="lcnaf" authfilenumber="n00113434">Fonda, Jellis, 1729-1791</persname><persname source="lcnaf" authfilenumber="n79139464">Gates, Horatio, 1728-1806</persname><persname source="lcnaf" authfilenumber="n91082000">Hawley, Gideon, 1727-1807</persname><persname source="lcnaf" authfilenumber="n80097851">Kirkland, Samuel, 1741-1808</persname><subject>American Revolution (1775-1783)</subject><subject>Connecticut-​-​History-​-​French and Indian War, 1754-1763.</subject><subject>Connecticut-​-​History-​-​Revolution, 1775-​1783-​-​Registers.</subject><subject>French and Indian War (United States : 1754-1763)</subject><subject>Indians of North America</subject><subject>Indians of North America--New York (State)-​-​History.</subject><subject>Mohawk River Valley (N.Y.)-​-​History-​-​Revolution, 1775-1783.</subject><subject>New York (State). Court of Common Pleas (Montgomery County)-​-​Archives.</subject><subject>Stone Arabia (N.Y.)-​-​History.</subject><subject>United States-​-​History-​-​Revolution, 1775-​1783-​-​Registers.</subject></controlaccess>
+						<scopecontent>
+							<p>This collection includes the following: business papers of Jelles Fonda of Caughnawaga, 1742-1788; personal papers of Isaac and Emanuel E. Degraff of Amsterdam, N.Y., 1723-1842; ten U.S. Revolutionary War muster rolls for regiments in Connecticut and other states; Revolutionary War records from the Mohawk Valley in New York State; papers of the Court of Common Pleas of Montgomery County, 1775-1840, including jury lists and a petition for the incorporation of the Mohawk River Bank in Amsterdam; and records documenting the involvement of Connecticut soldiers in the French and Indian War. Also contains an unidentified speech delivered to an Indian Council at Albany, 1751; papers relating to the funeral of General John Bradstreet, 1774-1775; field book for second allotment of Stone Arabia Patent, 1733; and letters of Joseph Bryant (Thayendanegea), Benedict Arnold, Samuel Kirkland, Gideon Hawley, Horatio Gates; James Clinton, and Walter Butler.</p><p>The collection also contains typed copies of election returns from the towns of Mayfield and Wells, 1805-1806; inventory of the estate of Peter Eisenlord of Palatine, 1804; letter of William M. Beauchamp on Native American sites in Onondaga County; subscription for support of the minister, Reformed Dutch Church of Caughnawaga, 1790; data on Native American villages in Montgomery County; and correspondence between Col. John Brown and Gen. Benjamin Lincoln, 1777.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="edb991_Coll._No._222.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

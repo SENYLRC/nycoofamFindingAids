@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0053</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Colonel Charles Stewart Papers </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-28">May 28, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Colonel Charles Stewart Papers, 1752-1818. </unittitle>
+							<unitdate normal="1752/1818" type="inclusive">1752 - 1818</unitdate>
+							
+							<physdesc>
+								<extent>6.25 cu. ft. + 1 vol. + 7 OS folders </extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname source="lcnaf" authfilenumber="nr93003787">Stewart, Charles, 1729-1800</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 262</unitid>
+        </did>
+        <processinfo>
+            
+        </processinfo>
+        <acqinfo>
+            <p>Gift; Mrs. Alexander Stewart Phinney; NM-006.57 - NM-008.57.</p>
+        </acqinfo>
+        <odd>
+            
+        </odd>
+        <relatedmaterial>
+            
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 262: Colonel Charles Stewart Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Col. Charles Stewart was Commissary General of Issues during the Revolutionary War, 1777-82, and was responsible for issuing provisions to the Continental Army.</p>
+						</bioghist>
+						<controlaccess>
+            <subject>United States-​-​History-​-​Revolution, 1775-​1783-​-​Logistics.</subject>
+            <subject>United States-​-​History-​-​Revolution, 1775-​1783-​-​Commissariat.</subject>
+            <persname source="lcnaf" authfilenumber="nr93003787">Stewart, Charles, 1729-1800</persname>
+            <subject>United States. Army-​-​Commissariat.</subject>
+            <subject>United States. Army-​-​Procurement</subject>
+            <subject>Land settlement--New Jersey.</subject>
+            <subject>Land settlement-​-​Pennsylvania.</subject>
+            <genreform authfilenumber="300145802" source="aat">accounts</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027249" source="aat">deeds</genreform>
+            <genreform authfilenumber="300027015" source="aat">genealogies (histories)</genreform>
+            <genreform authfilenumber="300027045" source="aat">inventories</genreform>
+            <genreform authfilenumber="300312071" source="aat">public records</genreform>
+            <persname source="lcnaf" authfilenumber="nr92042004">Ogden, Amos</persname>
+            <persname source="lcnaf" authfilenumber="n86135947">Patterson, Alexander, 1743-1822</persname>
+            <persname source="lcnaf" authfilenumber="n83122585">Penn, John, 1760-1834</persname>
+            <persname source="lcnaf" authfilenumber="nr93007169">Tilghman, James, 1716-1793</persname>
+        </controlaccess>
+						<scopecontent>
+							<p>Collection contains materials from Stewart's war career including letters, documents, reports, and returns with many references to the difficulties of obtaining, transporting, and paying for Army supplies. Also, materials from Stewart's pre- and post-war career including letters, memos, deeds, receipts, genealogical data, and accounts of land investments and surveys in NJ and PA, and  the expulsion of Connecticut settlers from the Wyoming Valley, PA and their resettlement after the war. Correspondents include James Tilghman, Amos Ogden, John Penn, Alexander Patterson, family members, and many notable military figures.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="9ff312_Coll._No._262.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

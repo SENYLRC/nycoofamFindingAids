@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00014</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Hill Family papers, 1817-1953</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hill Family papers, 1817-1953</unittitle>
+            <unitdate normal="1817/1953">1817 - 1953</unitdate>
+            <abstract>This collection consists of materials related to Chauncey Hill’s lumber business, 1830s; Alvin E. Hill’s dairy farm, 1890-1931; Willian Manson’s Lakeview Poultry Farm, 1914-1918; and Francis Hill’s saw mill and lumberyard, 1950s; all in Chenango County, NY.</abstract>
+            <physdesc>
+                <extent>1 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <famname>Hill family.</famname>
+                <persname>Alvin Erastus Hill, 1867-1938</persname>
+                <persname>Chauncey Hill, 1787-1854</persname>
+                <persname>Francis Hill, ca. 1906-</persname>
+                <persname>William Mason, 1856-1915</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 456</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>FM-8:2014</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 456 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Chauncey Hill (1787-1854) married Nancy Loomis (1790-1845). They had a son Erastus (1827-1885) who married Harriet Robinson (1826-1893). Erastus and Harriet had six children including Nancy (1858-1934), who married William Mason (1856-1915), and Alvin Erastus Hill (1867-1938) who married Mary Murdock (1873-1969). Alvin E. and Mary had two sons including Francis Hill (ca. 1906- ).</p>
+        <head>Biography/History</head>
+        <p>Chauncey Hill had a farm in Smithville, Chenango County, NY, on the over 220 acres of land he owned in Oxford/Smithville, NY. Hill was a lumber dealer. According to the donors, most of the lumber was white pine. It was cut and sawed around Addison, Steuben County, NY and shipped by raft from that area to Baltimore, MD. From at least 1830-1840, Hill’s partner in the lumber business was Elijah Haynes, who owned a dry goods business in Greene, NY. Also, in partnership with Haynes, Hill owned half of the Addison Store, Addison, Steuben County, NY. </p>
+            <p>Alvin E. Hill operated a dairy farm, ca. 1890s-1930s, located in an area called, “the triangle” since parts of the farm were in the towns of Oxford, Smithville, and Greene, Chenango County, NY. (Modern day location - 3143 Route 12, Oxford, NY).</p>
+            <p>Willian Manson’s farm, the Lakeview Dairy and Poultry Farm, was located on RFD No. 3 (modern-day location - Williams Road), Oxford, NY. It was in operation in the early 1900s.</p>
+            <p>Francis Hill’s saw mill and lumberyard was located on Route 12, South Oxford, NY. It was in operation in the mid-1900s. He sold his lumber to Bailey, Genesee County, NY wholesaler Warren TenBroeck.
+</p>
+        </bioghist>
+        <controlaccess>
+            
+        <famname>Hill Family.</famname>
+            <persname>Hill, Alvin Erastus, 1867-1938</persname>
+            <persname>Hill, Chauncey, 1787-1854</persname>
+            <subject>Agriculture--New York (State)--Winfield (Town)</subject>
+            <subject>Dairy farming--New York (State)--Oxford.</subject>
+            <subject>Deeds.</subject>
+            <subject>Farm management.</subject>
+            <subject>Lumber trade--Accounting--New York (State)--Chenango County.</subject>
+            <subject>Poultry farming--New York (State)--Oxford.</subject>
+            <subject>Sawmills--Accounting--New York (State)--Chenango County.</subject>
+            <genreform authfilenumber="300027483" source="aat">account books</genreform>
+            <genreform authfilenumber="300145802" source="aat">accounts</genreform>
+            <genreform authfilenumber="300027649" source="aat">contracts</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300163664" source="aat">legal instruments</genreform>
+            <genreform>Invoices (financial records)</genreform>
+            <genreform>Receipts (financial records)</genreform>
+            <geogname>Chenango County (New York)</geogname>
+            <geogname>Oxford (Chenango County, N.Y.)</geogname>
+            <persname>Hill, Francis, ca. 1906-</persname>
+            <persname>Mason, William, 1856-1915</persname>
+            <genreform>Photographs.</genreform>
+            <genreform>Sales cataogs</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection consists of materials related to Chauncey Hill’s lumber business, 1830s; Alvin E. Hill’s dairy farm, 1890-1931; Willian Manson’s Lakeview Poultry Farm, 1914-1918; and Francis Hill’s saw mill and lumberyard, 1950s; in Chenango County, NY.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="dc56bb_Coll._No._456_Hill_family_papers.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

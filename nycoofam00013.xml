@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00013</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Kathrerine C. Grier research material, 1967-1986 (bulk 1978-1979).</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Kathrerine C. Grier research material, 1967-1986 (bulk 1978-1979).</unittitle>
+            <unitdate certainty="approximate">1967-1986 (bulk 1978-1979)</unitdate>
+            <abstract>Research material collected by Katherine C. Grier (1953- ) and drafts, for a catalog essay, Celebrations in Wood: The Sculpture of John Scholl 1827-1916, which accompanied an exhibition at the William Penn Memorial Museum, Harrisburg, PA, November 1979-March 1980; and her Cooperstown Graduate Program, Cooperstown, NY, thesis, Celebrations in Wood: The Carvings of John Scholl (1827-1916), 1980.</abstract>
+            <physdesc>
+                <extent>1 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Grier, Katherine C., 1953-</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 455</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <relatedmaterial>
+            <p>Related item: 730.92 Sch64g</p>
+        </relatedmaterial>
+        <acqinfo>
+            
+            <p>Gift; Katherine C. Grier; University of South Carolina, Columbia, SC; 2005; NM-011.05.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 455 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Historian, educator, and writer, Katherine C. (Kasey) Grier was born in 1953, in Utica, NY. She is a graduate of the Cooperstown Graduate Program in Historical Museum Studies (M.A. 1980. While at CGP, she became interested in the work of John Scholl, 1827-1916, a farmer and carpenter from Germania, PA who began carving wooden sculpture at the age of 80.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300028661" source="aat">audiocassettes</genreform>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform>photographs</genreform>
+            <genreform authfilenumber="300265639" source="aat">research notes</genreform>
+            <genreform authfilenumber="300027178" source="aat">rosters</genreform>
+            <subject>Primitivism in art--Pennsylvania--Exhibitions.</subject>
+            <subject>Wood-carving--Pennsylvania.</subject>
+            <persname source="lcnaf" authfilenumber="n89665575">Scholl, John, 1827-1916</persname>
+            <corpname source="lcnaf" authfilenumber="n84011926">William Penn Memorial Museum</corpname>
+        </controlaccess>
+        <scopecontent>
+            <p>Research material collected by Katherine C. Grier (1953- ) and drafts, for a catalog essay, Celebrations in Wood: The Sculpture of John Scholl 1827-1916, which accompanied an exhibition at the William Penn Memorial Museum, Harrisburg, PA, November 1979-March 1980; and her Cooperstown Graduate Program, Cooperstown, NY, thesis, Celebrations in Wood: The Carvings of John Scholl (1827-1916), 1980.</p>
+        <head>Scope and Contents</head>
+        <p>Research materials include: biographical material and published articles about Scholl; cassette tapes of interviews with Scholl’s relatives; correspondence between Grier and dealers and owners of Scholl’s works; documentation from exhibitions including Scholl’s first, John Scholl Celebrations, at the Marian Willard Gallery, NY, NY November 28-December 30, 1967; images (photos, photocopies, and negatives) of Scholl; his family, homestead, and predominantly, his sculptures; Grier’s notes for assorted papers and a lecture; and sheet music for folksong about Germania, Potter County, PA, Scholl’s hometown. The Scholl sculpture files, organized by owner, then title of work, document the provenance of ca. 35 of his works and often contain images.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="9a01be_Coll._No._455_Kathrerine_C._Grier_research_material.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

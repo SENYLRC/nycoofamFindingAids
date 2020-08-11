@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00027</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to George Andrus correspondence, 1820-1854.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Andrus correspondence, 1820-1854.</unittitle>
+            <unitdate normal="1820/1854">1820 - 1854</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Andrus , George</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 471</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Purchase; East Coast Books, Wells, ME; 1994; NM-009.94.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 471: George Andrus correspondence is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>In the 1850s, George Andrus was postmaster of Adams, Jefferson County, NY post office;  an agent for the Farmers Fire Insurance and Loan Company, New York, NY; and member of the New York State Assembly. Along with his legal partner, a Mr. Harter, Andrus was engaged in bill collection and a general store business dealing in everything from tobacco, teas and port wine to raisins, saws, earthenware, and calico.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <corpname source="lcnaf" authfilenumber="n86054946">Farmers' Fire Insurance and Loan Company (New York, N.Y.)</corpname>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <geogname>Adams (Jefferson County, N.Y.)</geogname>
+            <subject>Business, industries, and trades--Insurance--New York(State)--Adams.</subject>
+            <subject>General stores.</subject>
+            <subject>Fire insurance.</subject>
+            <subject>Postmasters--New York (State)--Adams.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Business correspondence of George Andurs of Adams, Jefferson County, NY in his several  professional capacities. Topics include instructions to Farmers Fire Insurance and Loan Company agents with notes of rates for special premiums for various occupations and goods, list of un-insurables including brimstone works, malt houses, gun powder makers, snuff mills, varnish makers, and theaters. Some letters, pertaining to the general store and debt collection businesses are jointly addressed to him and his partner, Mr. Harter.  George Andrus’ 1822 post masters appointment  is noted in a letter signed by the Postmaster General, J. Neigs.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_ff255b5bf856c65d15c0f8b2832a1aec" level="collection">
+    <did>
+        <unittitle>471.1/1 Correspondence.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">1820, 1822.</unitdate>
+    </did>
+</c>
+            <c id="c_19067cd501e8eb509748de17a8f6ed54" level="collection">
+    <did>
+        <unittitle>471.1/2 Correspondence.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" normal="1823">1823</unitdate>
+    </did>
+</c>
+            <c id="c_849525f4bd316fc71b1d50c6dc47680f" level="collection">
+    <did>
+        <unittitle>471.1/3 Correspondence.</unittitle>
+        <container type=""/>
+        <unitdate normal="1824" type="inclusive">1824</unitdate>
+    </did>
+</c>
+            <c id="c_d10f5af9ce4925c6b4722f89684c1a3f" level="collection">
+    <did>
+        <unittitle>471.1/4 Correspondence.</unittitle>
+        <container type=""/>
+        <unitdate normal="1825" type="inclusive">1825</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

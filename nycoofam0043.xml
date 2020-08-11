@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0043</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Third Great Western Turnpike Records, 1803-1859.</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-29">April 29, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Third Great Western Turnpike Records, 1803-1859.</unittitle>
+							<unitdate normal="1803/1859" type="inclusive">1803 - 1859</unitdate>
+							
+							<physdesc>
+								<extent>9.25 cu. ft.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><corpname>Third Great Western Turnpike Road Company</corpname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 72</unitid>
+        </did><relatedmaterial><p>See related MM 14.15 Third Great Western Turnpike Road Company, Accounts, 1856.</p></relatedmaterial>
+        
+        <acqinfo>
+            <p>Source unknown; 1978; NM-043.78.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 72: Third Great Western Turnpike Records is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>The Third Great Western Turnpike was one of a series of east–west toll roads that crossed part of New York State. The toll road, aka the Cherry Valley Turnpike, extended from Cherry Valley to Cazenovia, NY over a path similar to today's US 20.</p>
+						</bioghist>
+						<controlaccess><corpname>Third Great Western Turnpike Road Company.</corpname><genreform authfilenumber="300027483" source="aat">account books</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform authfilenumber="300027558" source="aat">stock certificates</genreform><geogname>Herkimer County (N.Y.)</geogname><geogname>Madison County (N.Y.)</geogname><geogname>Onondaga County (N.Y.)</geogname><subject>Roads</subject><subject>Toll roads.</subject><genreform authfilenumber="300027440" source="aat">minutes (administrative records)</genreform><genreform authfilenumber="300027489" source="aat">daybooks</genreform><genreform>map</genreform><geogname>Otsego County (N.Y.)</geogname></controlaccess>
+						<scopecontent>
+							<p>Minutes, stock transfers, and other papers, 1803-59; contracts, 1802-10; orders for dividends, 1810-13, 1823-27; dividend demand notes, 1821-59; receipts and bills for supplies and services, 1811-56; incomplete commuter lists, 1830-54; appointments of proxies, 1803-09; certificates, tables, and notices of elections, 1804-12; daybooks, 1811, 1832-35; and correspondence of Samuel S. Forman, 1829-35, and Sidney T. Fairchild, 1836-58, officers of the company. Also a photographic copy of a map of the road in Otsego, Herkimer, Madison, and Onondaga Counties, from near Richfield Springs to beyond Cazenovia.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="cb7d54_Coll._No._72.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

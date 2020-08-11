@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00015</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Otesaga Hotel and Iroquois Farm staff photographs, 1917-1922.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Otesaga Hotel and Iroquois Farm staff photographs, 1917-1922.</unittitle>
+            <unitdate normal="1917/1922">1917 - 1922</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft. (113 b&amp;w photos, 2 ¾” x 4 ½”)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Unknown</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 463</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-6.93</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 463 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        <head>Access Restrictions</head>
+        </accessrestrict>
+        <bioghist>
+            <p>In 1910, Gertrude, Ruth, and Mary Wood, three of the seven children of Byron and Emily J. Wood, lived in Marbletown, Ulster County, NY. </p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform>Photographs.</genreform>
+            <geogname>Cooperstown (Otsego County, N.Y.)</geogname>
+            <geogname>Leatherstocking Falls (Cooperstown, N.Y.)</geogname>
+            <geogname>Three Mile Point (Cooperstown,N.Y.)</geogname>
+            <corpname>The Otesaga Hotel The Otesaga Hotel (Cooperstown, Otsego County, NY). </corpname>
+            <corpname>Iroquois Farm (Cooperstown, Otsego County, NY).</corpname>
+            <persname>Masters, Mary Wood, b. 1896. </persname>
+            <persname>McDonough, Gertrude Wood, 1898-1983.</persname>
+            <persname>Thornblade, Ruth Wood, 1900-1987.</persname>
+            <subject>Cooperstown (N.Y.)--Social life and customs--Pictorial works.</subject>
+            <subject>Cooperstown (N.Y.)--History.</subject>
+            <subject>Hotels--Employees.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Black and white photographs of the staff of Cooperstown’s Otsesaga Hotel and Iroquois Farm posing in groups of up to 20 at various, mostly rural locations in the vicinity of Cooperstown, Otsego County, NY. All but a few of the photos are labeled by date and location. If Gertrude Wood McDonough, Ruth Wood Thornblade, and/or Mary Wood Masters appear in photos, they are identified. Some photos feature autos, horses, a duck pond, women in maid’s uniforms and in costumes, and various Cooperstown landmarks. </p>
+        <head>Scope and Contents</head>
+        <p>The collection of 113 photographs is arranged chronologically and identified by location and person, if apparent.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_72d82d4bfe1a5974a787c5664218f4d3" level="collection">
+    <did>
+        <unittitle>463.1/1  Grey Mouse Farm</unittitle>
+        <container type=""/>
+        <unitdate normal="1917-09-10" type="inclusive">September 10, 1917</unitdate>
+    </did>
+</c>
+            <c id="c_ecd60e448262573bfde869d4975cdcc3" level="collection">
+    <did>
+        <unittitle>463.1/2 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-07-09" type="inclusive">July 9, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_cccd0f8c4f38f96ef07c26d2e136051a" level="collection">
+    <did>
+        <unittitle>463.1/3 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-07-15" type="inclusive">July 15, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_0bd4de24dc1c77084fd193a14cac69d5" level="collection">
+    <did>
+        <unittitle>463.1/4 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-07-16" type="inclusive">July 16, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_54772383cdee1a02c5fc3d8262b5efe4" level="collection">
+    <did>
+        <unittitle>463.1/5  Cooperstown, Leatherstocking Falls</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-07-20" type="inclusive">July 20, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_858e16fa287c030bc8e81e514bd533f2" level="collection">
+    <did>
+        <unittitle>463.1/6 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-07-21" type="inclusive">July 21, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_508cf089dad0f0a01920b5066d8a76f3" level="collection">
+    <did>
+        <unittitle>463.1/7 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-08-05" type="inclusive">August 5, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_b691377f7abe06da57d4d3fb0fc56396" level="collection">
+    <did>
+        <unittitle>463.1/8 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-08-20" type="inclusive">August 20, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_0dc35f3f27c92f4e23e5758b1b7b77df" level="collection">
+    <did>
+        <unittitle>463.1/9  Three Mile Point, Guy's Farm, Guy's Flower Garden</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-09-19" type="inclusive">September 19, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_955cfbd77c6dc8c9b7204a0cc13d54e1" level="collection">
+    <did>
+        <unittitle>463.1/10  Iroquois Farm</unittitle>
+        <container type=""/>
+        <unitdate normal="1920-09-15" type="inclusive">September 15, 1920</unitdate>
+    </did>
+</c>
+            <c id="c_10eb337959cc8214b0d9cdf1b2994dde" level="collection">
+    <did>
+        <unittitle>463.1/11 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1921" type="inclusive">1921</unitdate>
+    </did>
+</c>
+            <c id="c_7318cc8e0a455ef8bcd77ccae542c800" level="collection">
+    <did>
+        <unittitle>463.1/12 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate normal="1922" type="inclusive">1922</unitdate>
+    </did>
+</c>
+            <c id="c_363e5b6f15f3d70c258e92a9d3eedad6" level="collection">
+    <did>
+        <unittitle>463.1/13 Cooperstown</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">Unknown</unitdate>
+    </did>
+</c>
+            <c id="c_c721ed1822e61df190bf6e874207e00e" level="collection">
+    <did>
+        <unittitle>463.1/14 Unknown location</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">Unknown</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

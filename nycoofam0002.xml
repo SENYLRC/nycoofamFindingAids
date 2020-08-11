@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0002</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>needs work Guide to the Josiah Hasbrouck Papers</titleproper>
+                <author>Jennifer Palmentiero</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-02-04">February 4, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user Pamela Cooley.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Needs work - Josiah Hasbrouck Papers</unittitle>
+            <unitdate normal="1800/1850" type="inclusive">1800 - 1850</unitdate>
+            <abstract>Abstract goes here.</abstract>
+            <physdesc>
+                <extent>3 cubic feet (3 boxes)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname source="lcnaf" authfilenumber="n86114402">Forsythe, George I. (George Irvin), 1918-</persname>
+                <persname source="local">Hasbrouck, Josiah</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            
+            
+        <unitdate normal="1805/1820" type="bulk">1805 - 1820</unitdate>
+        </did>
+        <acqinfo>
+            
+            <p>x</p>
+        </acqinfo>
+        <accessrestrict>
+            <p>x</p>
+        </accessrestrict>
+        <bioghist>
+            <p>x</p>
+        </bioghist>
+        <controlaccess>
+            
+        <subject authfilenumber="sh85140261" source="lcsh">United States--History--Civil War, 1861-1865--Personal narratives</subject>
+            <corpname source="lcnaf" authfilenumber="n95004946">Fenimore House Museum (Cooperstown, N.Y.)</corpname>
+            <genreform authfilenumber="300048730" source="aat">personal correspondence</genreform>
+            <geogname authfilenumber="5113664" source="geonames">Cooperstown (N.Y.)</geogname>
+            <geogname>Cooperstown - Oswego County - New York</geogname>
+        </controlaccess>
+        <scopecontent>
+            <p>x</p>
+        </scopecontent>
+        <userestrict>
+            <p>x</p>
+            
+        </userestrict>
+    <dsc>
+            <c id="c_8574c697d7e034c7d3816179086aab34" level="series">
+    <did>
+        <unittitle>Personal Papers</unittitle>
+        
+        <unitdate normal="1800/1820" type="inclusive">1800 - 1820</unitdate>
+    
+                </did>
+                <scopecontent>
+                    <p>This series contains.</p>
+                </scopecontent>
+<c id="c_086f1275490b381f64ce582f0dde61d4" level="subseries">
+    <did>
+        <unittitle>Receipts</unittitle>
+        <container type=""/>
+        <unitdate normal="1825" type="inclusive">1825</unitdate>
+    </did>
+<c id="c_b14dbab8d9b1ca27bf2de5249b545fd4" level="file">
+    <did>
+        <unittitle>Grocery receipts</unittitle>
+        <container type="box">1</container>
+        
+    <container type="folder">1</container>
+                        </did>
+</c>
+                </c>
+                <c id="c_99e285c2f891be057c6ef2ee03f56e36" level="subseries">
+    <did>
+        <unittitle>Ledgers</unittitle>
+        <container type=""/>
+        <unitdate normal="1820/1830" type="inclusive">1820 - 1830</unitdate>
+    </did>
+</c>
+            </c>
+            <c id="c_66b1dcd2c91f40a11c5710c6cbf26b41" level="series">
+    <did>
+        <unittitle>Correspondence</unittitle>
+        <container type=""/>
+        
+    </did>
+</c>
+            <c id="c_107dfe5f8f27a1ba0e819161ccb1061f" level="series">
+    <did>
+        <unittitle>Ephemera</unittitle>
+        <container type=""/>
+        
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

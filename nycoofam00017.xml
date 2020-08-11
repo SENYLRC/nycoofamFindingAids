@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00017</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Jacob Morris correspondence, 1780-1814.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jacob Morris correspondence, 1780-1814.</unittitle>
+            <unitdate normal="1780/1814">1780 - 1814</unitdate>
+            
+            <physdesc>
+                <extent>.5 cu, ft. (43 letters)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Jacob Morris, 1755-1844.</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 458</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <relatedmaterial>
+            <p>Related material: New-York Historical Society Special Collections: Jacob Morris papers, 11789-1916; Jacob Morris letters, 1805-1824.</p>
+        </relatedmaterial>
+        
+        <accessrestrict>
+            <p>Coll. No. 458 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Jacob Morris, the second son of General Lewis Morris, 1726-1798, one on the signers of the Declaration of Independence, and Mary (Walton) Morris was born at Morrisania, NY on December 28, 1755. Until the Revolutionary War he worked as clerk in a mercantile house in Philadelphia which he then left to become Aide-camp to General Charles Lee (1776). His wartime career also found him for a short time Aid to Generals Nathaniel Greene (1776-1777, 1778) and Benedict Arnold (1777). He was engaged in the second battle of Trenton, NJ; the battles of Fort Moultrie, SC; Princeton, NJ; Monmouth, NJ and was with General Sullivan during the Rhode Island campaign in 1778. In 1777 in Philadelphia, Morris married Mary Cox, 1758-1827. </p>
+        <head>Biography/History</head>
+        <p>After the war, Morris returned to New York with his young family and engaged in business, which had been his father's plan for him before the war intervened. But not proving fortunate in that pursuit, in 1787 he gave up city life and settled on his father's patent (granted land due to his property being lost during the revolution) a thousand-acre wilderness tract in the Butternuts (NY) Valley on which he built the first frame house and a sawmill. After these preparations, in the spring of 1789, he brought his family to the new homestead. By that time Morris and his wife had five children. Seven more children were born and raised in Butternuts, NY. </p>
+            <p>When the western district of Otsego County was organized in 1791, Morris was appointed the first Otsego County Clerk, an office he held until 1801. As a Federalist, he was elected to the New York State Legislature filling terms in the New York State Assembly (1792, 1795-1797) and in the New York State Senate (1798-1801). In 1805 he built the large and spacious house, now known as the “Morris Mansion,” that he lived in the rest of his life. He was elected as the first president of the Washingtonian Society for the promotion of temperance, was successively appointed Brigadier and Major General in the militia of New York State, served as the Town of Butternuts Supervisor from 1802-1808 and again in 1824, and, in 1817, was elected the first president of the Otsego County Agricultural Society, established for the promotion of agriculture and manufactures.</p>
+            <p>Mary died in Butternuts at the age of 68. In 1752, Morris married a second time to Sarah Pringle, ca. 1720-1863, of Richfield, NY. They had one son. Morris died in 1844 at the age of 88. He is buried in the cemetery attached to the Morris Memorial Chapel of all Saints which was erected in 1866 by the Morris family. In 1849, the Town of Morris, NY was named after him, thus commemorating Morris as one of the pioneers of civilization in the western wilderness of New York.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <persname>Morris, Lewis Lee Morris, 1752-1854.</persname>
+            <persname>Morris, Mary Cox Morris, 1758-1827.</persname>
+            <subject>Albany (N.Y.)--Politics and government.</subject>
+            <subject>Family and personal papers.</subject>
+            <subject>Legal affairs.</subject>
+            <subject>New York (N.Y.)--Politics and government.</subject>
+            <subject>United States$xHistory--Revolutionary War, 1775-1783.</subject>
+            <famname>Morris family.</famname>
+            <geogname authfilenumber="5128581" source="geonames">New York (N.Y.)</geogname>
+            <geogname authfilenumber="5110994" source="geonames">Town of Butternuts (N.Y.)</geogname>
+            <geogname authfilenumber="5127550" source="geonames">Morrisania (N.Y.)</geogname>
+            <geogname authfilenumber="4560349" source="geonames">Philadelphia (Pa.)</geogname>
+        </controlaccess>
+        <scopecontent>
+            <p>Contains forty-one affectionate letters from Jacob Morris to his older brother Lewis Morris of Charlestown, SC and New York, NY. Morris posts his letters from Philadelphia (1780-1784), New York (1783-1788, 1795, 1799), Charlestown (1786), Morrisania (1787), and various addresses in Otsego County (1787, 1790, 1794, 1795, 1801-1807). </p>
+        <head>Scope and Contents</head>
+        <p>Letters discuss Louis’ military career, the effects of the Revolutionary War, family business concerns and affairs, political news and opinions, news of the NYS Assembly and Senate, Yellow Fever and the exile of Louis’ family to Sullivan’s Island, the news and health of family members and the death of their father, and the education of Morris’s sons. </p>
+            <p>Also includes one letter from Jacob Morris to his wife, Mary (1814) concerning plans for her return from a visit to his brother Lewis and family in Morrisania, the manumission of a slave, Cesar, and news of friends and family and a second from a “Johnson” to Louis Morris (1782) concerning a business matter and congratulating Louis on his marriage.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="8ebf69_Coll._No._458_Jacob_Morris_correspondence.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

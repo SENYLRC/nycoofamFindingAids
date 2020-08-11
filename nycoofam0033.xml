@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0033</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the James Byard, Jr. Papers, 1832-1939 </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-08">April 8, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>James Byard, Jr. Papers, 1832-1939 </unittitle>
+							<unitdate normal="1832/1939" type="inclusive">1832 - 1939</unitdate>
+							
+							<physdesc>
+								<extent>1.25 Cubic feet</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname> Byard, Jr., James</persname>
+            </origination>
+						        <repository>
+								<corpname>Fenimore Art Museum </corpname>
+							<address>
+								<addressline>P.O. Box 800, 5798 State Highway 80</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 5</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Accession Number: NM-22.75</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 5: James Byard, Jr. Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>James Byard, Jr. (1872-1942) was a lawyer and politician in Otsego County, N.Y. He was admitted to the bar in 1900 and practiced law in Cooperstown, N.Y. until 1923 when he moved his offices to Oneonta, N.Y. He was a delegate from New York at the Democratic National Convention in 1912, and a candidate for the U.S. House of Representatives from New York's 34th District during the same year. He is most known as the council for the defense in the famous Eva Coo murder trial of 1934. He was killed in an automobile accident near Albany, N.Y. in 1942.
+</p>
+						</bioghist>
+						<controlaccess>
+            <genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform>
+            <genreform>legal documents</genreform>
+            <genreform>deeds</genreform>
+            <geogname authfilenumber="2255369" source="tgn">Cooperstown</geogname>
+            <geogname>Oneonta (Otsego County, NY)</geogname>
+            <persname source="lcnaf" authfilenumber="n97052104">Coo, Eva, 1885-1935</persname>
+            <subject>Lawyers--New York (State)</subject>
+            <subject>Murder--New York (State)</subject>
+            <subject>Otsego County (N.Y.)-​-​Politics and government.</subject>
+        </controlaccess>
+						<scopecontent>
+							<p>Scrapbooks (7) of newspaper clippings relating to Byard's career. Two of them contain clippings of the Eva Coo murder case, 1934. In addition there are family papers, 1832-1870, mainly deeds and legal papers.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					</archdesc>
+				</ead>

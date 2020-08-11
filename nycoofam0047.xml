@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0047</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Cooper Family Papers </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-13">May 13, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle> Cooper Family Papers, 1786-1947 (bulk 1786-1898).</unittitle>
+							<unitdate type="inclusive" certainty="approximate">1786-1947 (bulk 1786-1898)</unitdate>
+							
+							<physdesc>
+								<extent>1.75 cu. ft. + 3 volumes + 4 oversize folders</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><famname/></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 123</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>CM-17.39, CM-53.39, CM-70.39, CM-71.39, CM-90.39, CM-153.39, CM-255.39, CM-7.39L, CM50.39L, NM-8.40, NM-59.44, NM-190.46, N-1163.46, FM-43.56, NM-6.56, NM-37.56, NM-67.57, NM-45.58, NM-46.58, NM-24.59, NM-81.61, NM-5.64, NM-6.64, NM-50.65, NM-24.67, NM-3.68, NM-40.70, FM-141.73, NM-59.74, NM-48.77, 16, 25, 94, 97-99, 109, 139, 167-170, 470, 533, 703; N M-54.82; NM-8.83; NM-2.85; NM-12.93; NM-011.98;  NM-3.2018; NM-2.2019; 
+</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p> For more detailed information about the Coopers, researchers should consult "The Cooper Genealogy" compiled by Wayne Wright, NYSHA, 1983. For additional information about the founding and history of Cooperstown and the Coopers' influence on them, researchers should consult The History of Cooperstown, a compilation of documentary histories of the village (published by NYSHA) and Ralph Birdsall's The Story of Cooperstown (Fifth Printing by Augur's Bookstore, 1948). Both of these sources and others are available in the FAM Research Library. </p>
+        <p>Related electronic resource: Included in Otsego Lake Bibliography and Historic Collection funded by the Delmas Foundation.</p></relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 123: Cooper Family Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>William Cooper (1754-1809), the first Cooper of Cooperstown, purchased land at the southern end of Otsego Lake -- land known as Croghan's Patent -- in the 1780s in partnership with Andrew Craig. In 1786 Cooper commenced the settlement of Cooperstown and in 1790 he moved his family to the young village.</p>
+						<p>Cooper, an attorney and land speculator, and several of his twelve children were actively involved in the civic and legal atmosphere of Cooperstown as the town developed and grew. Several of William Cooper's sons continued to pursue their father's interest in land speculation and law. Another of William's sons, James Fenimore Cooper, became renowned as the author of The Leatherstocking Tales and other works on naval history and the American frontier. </p><p>Several of William Cooper's children and grandchildren lived in Cooperstown for at least part of their lives, serving the community in a variety of ways. For example, William Cooper's granddaughter, Susan Fenimore Cooper (1813-1894), founded the Orphan Home of the Holy Savior, an orphanage that operated in Cooperstown into the twentieth century. </p><p>The Cooper Family Collection includes documents relating to William Cooper, his children, his grandchildren, and a few more distant descendants.</p><p>The attached finding aide includes biographical sketches of family members represented in the correspondence and other manuscripts in the collection.</p></bioghist>
+						<controlaccess><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform authfilenumber="300027249" source="aat">deeds</genreform><genreform authfilenumber="300027755" source="aat">leases</genreform><genreform authfilenumber="300027531" source="aat">mortgages</genreform><genreform authfilenumber="300027473" source="aat">financial records</genreform><genreform authfilenumber="300028579" source="aat">manuscripts for publication</genreform><genreform authfilenumber="300028037" source="aat">personal papers</genreform><genreform authfilenumber="300026695" source="aat">photograph albums</genreform><genreform authfilenumber="300027662" source="aat">architect-consultant contracts</genreform><geogname>Cooperstown (Otsego County, N.Y.)</geogname><geogname>Otsego County (New York State)</geogname><subject>Cooper family.</subject><subject>Cooper, James Fenimore, 1789-1851.</subject><subject>Cooper, William, 1754-1809.</subject><persname source="lcnaf" authfilenumber="nr92016451">Cooper, William, 1754-1809</persname><persname source="lcnaf" authfilenumber="n79059786">Cooper, James Fenimore, 1789-1851</persname><persname>Cooper, Hannah, 1802-1817.</persname><persname>Cooper, Isaac, 1781-1818.</persname><persname>Cooper, Samuel, 1787-1819.</persname><persname source="lcnaf" authfilenumber="n85814050">Cooper, Susan Fenimore, 1813-1894</persname><persname>Cooper, William, 1786-1819.</persname></controlaccess>
+						<scopecontent>
+							<p>Papers of Judge William Cooper, the founder of Cooperstown, and of his children, Hannah, Isaac, James Fenimore, Samuel, and William. A large part of the collection concerns the land and financial transactions conducted by Judge Cooper and his direct descendants. Of particular interest are deeds, leases, bonds, and mortgages that document his involvement in the settling of Cooperstown and Otsego County, N.Y. His papers also include correspondence, land books, and bankbooks. Isaac Cooper's papers include the contract for building his home, Edgewater. James Fenimore Cooper's papers include correspondence and fragments of literary manuscripts. The collection also contains scattered letters from a few in-laws and grandchildren of Judge Cooper, such as Susan Fenimore Cooper, as well as three photograph albums.
+</p>
+						<p>Series I. William Cooper. ca. 1786-1940 (bulk 1786-1809). 0.5 cu. ft. (1 box). Agreements, deeds, bonds, mortgages relating to land and financial transactions conducted by and for William Cooper in Otsego County, New York and other parts of New York State including Dekalb, St. Lawrence County; legal documents relating to his duties as the first judge of the court of common pleas, Cooperstown, N.Y.; personal and business correspondence; a bankbook; and other miscellaneous documents relating to him. Arranged chronologically by year.</p><p>Series II. Cooper Family. ca. 1800-1947 (bulk 1800-1898). 0.5 cu. ft. (1 box). Includes agreements, bonds, leases, and receipts relating to land and business transactions involving descendants of William Cooper; correspondence and personal papers written by and to Cooper family members including a series of letters documenting the final illness and death of Mary Storrs Cooper (d. 1846). Arrangement is roughly alphabetical by name. </p><p>Series III. James Fenimore Cooper. ca. 1814-1940 (bulk 1814-1851). 0.5 cu. ft. (1 box).
+This series is organized into the following three subseries: 
+Subseries A -- Correspondence and Legal Documents. Contains personal and business papers of James Fenimore Cooper and his wife Susan DeLancey Fenimore Cooper. Arranged chronologically. 
+Subseries B -- Literary Manuscripts and Other Writings. Arranged chronologically by publication date of the first editions, unless otherwise noted.
+ Subseries C -- Checks (Canceled), Otsego Hall Floor Plans, and Other Documents. Contains mostly canceled checks, along with photocopies of floor plans and images of the exterior of Otsego Hall, one page of Cooper family genealogy, and James Fenimore Cooper postage stamps. Arranged chronologically. </p><p>Series IV. Photographs. ca. 1840-1900. 0.25 cu. ft. (1 box) + 3 v. 
+Photographs, daguerreotypes, and tintypes of members of the Cooper family and family friends; the Alfred Cooper Clark family is particularly well represented. 
+This series is organized into the following two subseries: 
+Subseries A -- Photograph Albums 
+Subseries B -- Daguerreotypes, Tintypes, and Photographs
+</p></scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="d57611_Coll._No._123.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

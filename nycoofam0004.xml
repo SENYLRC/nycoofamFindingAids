@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0004</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to William J. Jedlick. Papers, 1967-1987.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William J. Jedlick. Papers, 1967-1987.</unittitle>
+            <unitdate normal="1967/1987">1967 - 1987</unitdate>
+            <abstract>This collection contains a rough draft and final copy of Jedlick's 1967 Masters Thesis, "Landscape Window Shades of the 19th Century in New York and New England" for the Cooperstown Graduate Program, Cooperstown, NY; a 22 page booklet entitled, Shades of History; and material related to the thesis and booklet. It also of correspondence, b&amp;w and color photographs, publications and related material in which Jedlick is credited for his scholarship and photography.</abstract>
+            <physdesc>
+                <extent>.5 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Jedlick, William J., 1929-  </persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 448</unitid>
+            
+        <unitid/>
+        
+            
+            
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas Foundation.</p>
+        </processinfo>
+        <relatedmaterial>
+            <head>Related Material</head>
+            <p>Theses J349  "Landscape window shades of the 19th century on New York State and New England," by William J. Jedlick.</p>
+            <p>747.5 L479 "Shades of History,"  by Ruth Lee. </p>
+        </relatedmaterial>
+        <acqinfo>
+            
+            <p>NM-9.2008</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 448 collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Jedlick’s avid interest in painted window shades of the 19th century arose in 1967 from his search for a research topic while a student at the Cooperstown Graduate Program, Cooperstown, NY. His resulting Masters Thesis, "Landscape Window Shades of the 19th Century in New York and New England," started him on a trail of discovery that he pursued into the 1980s as he researched, consulted on, photographed, collected, appraised, and dealt in painted window shades, and lent them to museums for exhibition.</p>
+        <head>Biography/History</head>
+        <p>In 1968-1969, he consulted with Ruth Lee, Publicity Director for Joanna Western Mills, Co., Chicago, Illinois, on her 22 page booklet, Shades of History.  Around that same time, Jedlick served as Associate Curator and Assistant Director of the Chicago Historical Society, and from about 1974-1987 as Regional Museum Curator for the National Park Service, N. E. Region, Philadelphia, PA. In 1987, Jedlick was also appraising antiques for W.J. Jedlick Appraisers, Philadelphia, PA.  His first Masters Thesis, written while a student at DePaul University, Chicago, IL, in 1953, was entitled “Letters of Morris Sleight on the California Trail, 1850.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <persname>Jedlick, William J., 1929- </persname>
+            <persname>Lee, Ruth </persname>
+            <subject>Window shades--New York (State)</subject>
+            <subject>Window shades--New England.</subject>
+            <genreform authfilenumber="300077723" source="aat">masters theses</genreform>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection contains a rough draft and final copy of Jedlick's 1967 Masters Thesis, "Landscape Window Shades of the 19th Century in New York and New England" for the Cooperstown Graduate Program, Cooperstown, NY; a 22 page booklet entitled, Shades of History; and material related to the thesis and booklet. </p>
+        <head>Scope and Contents</head>
+        <p>It also contains correspondence requesting information about shades from Jedlick, and documenting Jedlick’s activity collecting, lending, donating, and selling window shades. Numerous b&amp;w and color photographs (many of them labeled) in various formats, primarily of painted screens and building exteriors and interiors; and three publications and related material in which Jedlick is credited for his scholarship and photography are included. Finally, Jedlick's student papers on both Grecian and Hudson River School painting, 1967, and speeches on "The Past is Prologue to the Future" given at the Lake Forest (IL) Antique Show Press Luncheon, 1970, and on the publication release of Shades of History can be found in this collection.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_0c74811a7135edb67350de8159a24c1e" level="collection">
+    <did>
+        <unittitle>448.1/1 Copyright registration for Masters Thesis, "Landscape Window Shades of the 19th Century in New York and New England</unittitle>
+        <container type=""/>
+        <unitdate normal="1984" type="inclusive">1984</unitdate>
+    </did>
+</c>
+            <c id="c_a21177b93dca08b93ce9266fe6f801a2" level="collection">
+    <did>
+        <unittitle>448.1/2 Correspondence</unittitle>
+        <container type=""/>
+        <unitdate normal="1968/1987" type="inclusive">1968 - 1987</unitdate>
+    </did>
+</c>
+            <c id="c_91e29b5a0dd61a7ebddaa2fb0dce354d" level="collection">
+    <did>
+        <unittitle>448.1/3 Correspondence, Shades of History</unittitle>
+        <container type=""/>
+        <unitdate normal="1968/1969" type="inclusive">1968 - 1969</unitdate>
+    </did>
+</c>
+            <c id="c_51f4ad764e8c5176541d150c71a83fba" level="collection">
+    <did>
+        <unittitle>448.1/4 Student papers, speeches</unittitle>
+        <container type=""/>
+        <unitdate normal="1967/1970" type="inclusive">1967 - 1970</unitdate>
+    </did>
+</c>
+            <c id="c_36a9ba28420048c16bc99fef859bdfeb" level="collection">
+    <did>
+        <unittitle>448.1/5 Photographs and negatives, and related correspondence (1 of 2)</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_4fc4b16f854eebae70877208bc6bbeb0" level="collection">
+    <did>
+        <unittitle>448.1/6 Photographs and negatives, and related correspondence (2 of 2)</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_ce422d2ea0ccbcc0cd75b98800af4e83" level="collection">
+    <did>
+        <unittitle>448.1/7 Publication, "Lake Forest Academy Antiques Show", June 1970, pp 32-37</unittitle>
+        <container type=""/>
+        <unitdate normal="1970" type="inclusive">1970</unitdate>
+    </did>
+</c>
+            <c id="c_29e3e18a5637c969dd1568edcc8d8560" level="collection">
+    <did>
+        <unittitle>448.1/8 Publication, "Old-House Journal," September/October 1987, pp 46-48</unittitle>
+        <container type=""/>
+        <unitdate normal="1987" type="inclusive">1987</unitdate>
+    </did>
+</c>
+            <c id="c_42b76d4c37146f37cc80aebecac0048b" level="collection">
+    <did>
+        <unittitle>448.1/9 Publication, "Shades of History," 1969, 22 pp [FAMRL 747.5 L479]</unittitle>
+        <container type=""/>
+        <unitdate normal="1969" type="inclusive">1969</unitdate>
+    </did>
+</c>
+            <c id="c_3703d14b8ec390c02d652e6d132819e4" level="collection">
+    <did>
+        <unittitle>448.1/10 Publication, "Window Fashions," August 1987, pp 14-22</unittitle>
+        <container type=""/>
+        <unitdate normal="1987" type="inclusive">1987</unitdate>
+    </did>
+</c>
+            <c id="c_e63809c9048d61ab8ab0ae1848d79a35" level="collection">
+    <did>
+        <unittitle>448.1/11 Research material, window shades</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
+    </did>
+</c>
+            <c id="c_7e4b70e6e6210e59b1c6b50e75940716" level="collection">
+    <did>
+        <unittitle>448.1/12 Thesis, "Landscape Window Shades of the 19th Century in New York State and New England" (1 of 2)</unittitle>
+        <container type=""/>
+        <unitdate normal="1967" type="inclusive">1967</unitdate>
+    </did>
+</c>
+            <c id="c_2b924196e60c4f32997a69344def7545" level="collection">
+    <did>
+        <unittitle>448.1/13 Thesis, "Landscape Window Shades of the 19th Century in New York State and New England" (2 of 2)</unittitle>
+        <container type=""/>
+        <unitdate normal="1967" type="inclusive">1967</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0008</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to  Judge Alden Chester and family papers, 1864-1915.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle> Judge Alden Chester and family papers, 1864-1915.</unittitle>
+            <unitdate normal="1864/1915">1864 - 1915</unitdate>
+            <abstract>Items relating to Judge Alden Chester and family of Westford and Schenevus, Otsego County, NY. Includes business correspondence, postcards, material pertaining to the Irving Society of Westford Literary Institute of Westford, NY; business cards, tintypes, and materials related to an illustrated talk by Arthur Chester, on "Our Civil War." </abstract>
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname authfilenumber="n82252023" source="lcnaf">Chester, Alden, 1848-1934</persname>
+                <persname>Chester, Dwight</persname>
+                <persname>Chester, Horace, 1842-1926</persname>
+                <persname>Chester, Lina</persname>
+                <famname>Chester family.</famname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 451</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-5.2013</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 451 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Judge Alden Chester, 1848-1934, was born in Westford, NY Otsego County. He served as a clerk in a country store in Westford, and as a telegraphy operator in the Albany and Susquehanna Railroad office in East Worcester, NY, edited an Otsego County newspaper (The Valley News), and served as a clerk for Aetna Life Insurance Company in Boston. </p>
+        <head>Biography/History</head>
+        <p>While in Boston he commenced the study of law and entered the Columbia College Law School in New York City where he graduated in 1871. He then began practicing law in Albany with his cousin Andrew S. Draper. From 1882-1885 he served as assistant US district attorney for the Northern District on NY. From 1887 until 1895, he practiced alone. In 1895, he was elected to the Third Judicial District Supreme Court; he was re-elected in 1909 at the end of his first 14-year term. He was designated to the Appellate Division by Gov. Odell and served from 1902 to 1909. He then returned to the trial bench at the behest of Gov. Hughes to help clear an unusual backlog of cases.</p>
+            <p> He retired from the bench at the end of 1918, having reached 70 years of age. He also served as president of the Albany Medical College, a trustee of the Albany College of Pharmacy, a governor of Union University, and a special lecturer on the Federal judicial system at Albany Law School. He was president of the American Bar Association in 1918. Judge Chester married Lina Thurber, East Worcester, NY in 1871. They had one child, Amy, born 1877.  </p>
+            <p>Horace Chester, 1842-1926, older brother of Alden, was born in the town of Westford, Otsego County, NY. After taking business courses in New York City he located at Schenevus, Otsego County, New York where he took charge of public schools and of the business of the Albany &amp; Susquehanna Railroad Company until 1870. He then entered the banking business operating the Thompson, Chester &amp; Company Bank in Schenevus, and in 1874 established the Bank of Worcester, Otsego County, New York. When his affiliation with this bank ended, in 1886, he organized the Chester Banking and Exchange Office in Schenevus. Horace Chester married Anastasia E. Hill in 1867. They had four children, Carey R., L. Fannie, H. Coryell, and Lola E. He died in Maiden, MA.
+</p>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300028037" source="aat">personal papers</genreform>
+            <genreform authfilenumber="300026816" source="aat">postcards</genreform>
+            <genreform>Speeches (documents).</genreform>
+            <geogname>Tintypes</geogname>
+            <geogname>Westford (Otsego County, N.Y.)</geogname>
+            <geogname>Schenevus (Otsego County N.Y.)</geogname>
+            <subject>Irving Society of Westford Literary Institute--Westford,(Otesgo County, N.Y.)</subject>
+            <subject>Judges--New York (State).</subject>
+            <subject>Lawyers--New York (State).</subject>
+            <subject>United States--History--Civil War, 1861-1865--Speeches.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Items relating to Judge Alden Chester and family of Westford and Schenevus NY. Contains business correspondence to Judge Alden Chester, Albany, NY from his brother Horace Chester, Westford NY and from Alden Chestser to brother Dwight Chester; postcards sent to Judge and Mrs. Alden Chester of Albany, NY from various people; material pertaining to the Irving Society of Westford Literary Institute of Westford, NY; business cards for Horace Chester’s insurance and banking business, Schenevus, NY; tintypes of the 5 Templars (brothers Alden, Horace, Arthur and Dwight Chester, and cousin Andrew Draper), Westford, NY and of Fred Miller, East Worcester, NY; materials related to an illustrated talk by Arthur Chester, on "Our Civil War," given in 1889 in Brooklyn, NY.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_83ee7160a9cc860d47c159b9f19799a5" level="collection">
+    <did>
+        <unittitle>451.1/1 Documents, the Irving Society of Westford Literary Institute</unittitle>
+        <container type=""/>
+        <unitdate normal="1864/1871" type="inclusive">1864 - 1871</unitdate>
+    </did>
+</c>
+            <c id="c_7fc7fb3fbc2abd3e0ab0d97694ddada7" level="collection">
+    <did>
+        <unittitle>451.1/2 Postcards, to Judge and Mrs Alden Chester, Albany, NY.</unittitle>
+        <container type=""/>
+        <unitdate normal="1910/1915" type="inclusive">1910 - 1915</unitdate>
+    </did>
+</c>
+            <c id="c_9cd79af633435f0c92fb1aa6a77f75ab" level="collection">
+    <did>
+        <unittitle>451.1/3 Correspondence, to Judge Alden Chester from Horace Chester</unittitle>
+        <container type=""/>
+        <unitdate normal="1891/1895" type="inclusive">1891 - 1895</unitdate>
+    </did>
+</c>
+            <c id="c_7184d2e65ab7b1024d57a942c1bcf46a" level="collection">
+    <did>
+        <unittitle>451.1/4 Correspondence, from Judge Alden Chester to brother Dwight Chester</unittitle>
+        <container type=""/>
+        <unitdate normal="1870" type="inclusive">1870</unitdate>
+    </did>
+</c>
+            <c id="c_a97ff5c35c91c5929b473054b015d221" level="collection">
+    <did>
+        <unittitle>451.1/5 Ephemera</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">ca. 1868-1893</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

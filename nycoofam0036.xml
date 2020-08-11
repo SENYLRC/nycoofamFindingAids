@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0036</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the Christman Family Papers </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-15">April 15, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Christman Family Papers, 1885-1967</unittitle>
+							<unitdate normal="1885/1967" type="inclusive">1885 - 1967</unitdate>
+							
+							<physdesc>
+								<extent>4.0 cu. ft. and 11 volumes</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <famname>Christman family</famname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 10</unitid>
+        </did>
+        <relatedmaterial>
+            <p>"Tin Horns and Calico:" 333.53 C555; "Wild Pasture Pine:" Sp.Coll./CC 811.5 C555w 1933; "The Untillable Hills:" Sp.Coll. 811.5 C555u; "Songs of the Western Gateway:" Sp.Coll. 811.5 C555so; "Songs of the Helderhills:" Sp.Coll. 811.5 C555s.</p>
+        </relatedmaterial>
+        
+        <acqinfo>
+            <p>Accession Numbers: NM-40.60, NM-44.67, NM-6.68 - NM-36.68
+</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 10: Christman Family Papers  is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							
+						<p>William Weaver Christman, a Duanesburg, NY farmer-poet, gained nation-wide recognition with three volumes of poetry and nature essays. His son, Henry Christman wrote "Tin Horns and Calico: A decisive episode in the emergence of democracy" in 1945. The book, which has an introduction by Carl Carmer,  is about the anti-rent movement in eastern New York in the mid-19th century.</p>
+        </bioghist>
+						<controlaccess>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300026451" source="aat">poems</genreform>
+            <genreform authfilenumber="300026291" source="aat">essays</genreform>
+            <genreform authfilenumber="300220572" source="aat">pamphlets</genreform>
+            <genreform authfilenumber="300027341" source="aat">scrapbooks</genreform>
+            <genreform>Photographs.</genreform>
+            <genreform authfilenumber="300265639" source="aat">research notes</genreform>
+            <subject>Antirent War, N.Y., 1839-1846.</subject>
+            <subject>American literature -- New York (State) -- New York</subject>
+            <famname>Christman family</famname>
+            <persname source="lcnaf" authfilenumber="no00029163">Christman, Henry, 1906-</persname>
+            <persname source="lcnaf" authfilenumber="n2009055378">Christman, W. W. (William Weaver), 1865-1937</persname>
+            <geogname>Duanesburg (Schenectady County, N.Y.)</geogname>
+            <subject>Anti-rent troubles--New York, 1839-1846</subject>
+        </controlaccess>
+						<scopecontent>
+							<p>Contains correspondence, unpublished poems, and essays by William W. Christman, as well as pamphlets, scrapbooks, and photographs. Also includes research notes, final typescript, and galley proofs for Henry Christman's book.
+</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="a284e9_Coll._No._10.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

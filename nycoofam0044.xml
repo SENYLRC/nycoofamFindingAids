@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0044</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to Smalley Theatres records, 1912-1955.</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-01">May 1, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Smalley Theatres records, 1912-1955.</unittitle>
+							<unitdate normal="1912/1955" type="inclusive">1912 - 1955</unitdate>
+							
+							<physdesc>
+								<extent>92.25 cu. ft. + 107 vols. + 4 OS folders.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination><corpname>Smalley Theatres</corpname></origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 79</unitid>
+        </did>
+        <processinfo>
+            <p>Organized into six series: Daily / Weekly Statements, 1926-1951. 2. Correspondence, 1916-1950. 3. Financial Records, 1917-1952. 4. Reports, Workmen's Compensation, Legal Cases, and Other Records, 1912-1955. 5. Photographs and Broadsides, undated. 6. Scrapbooks and Newspaper Clippings, 1925-1948.</p>
+        </processinfo>
+        <acqinfo>
+            <p>N-111.66; N-162.66; N-1163.66; N-1164.66; N-1165.66; N-1166.66; NM-107.81; NM-11.2011.</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 79: Smalley Theatres records is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Smalley Theatres, Inc. was a movie theater chain in central New York State, headed by William C. Smalley, with a home office in Cooperstown. Smalley started his first theater in Mount Upton in 1913, and began operating in Cooperstown in 1916. While the chain continued to add new locations after this, it was not officially incorporated until 1930. At the time of Smalley's death in 1952, he owned or controlled twelve theaters, down from a peak of twenty-three. His widow, Hazel (Smith) Smalley, continued to operate the chain after his death, although it dwindled in numbers. She sold the Cooperstown theater near the end of 1959, leaving only three in the chain.</p>
+						</bioghist>
+						<controlaccess><corpname>Smalley Theatres.</corpname><persname>Smalley, William C., 1890-1952.</persname><subject>Motion pictures-​-​Distribution.</subject><subject>Motion picture theaters--New York (State)</subject><subject>Cooperstown (N.Y.)-​-​History.</subject><subject>Camden (N.Y.)-​-​History.</subject><subject>Delhi (N.Y.)-​-​History.</subject><subject>Dolgeville (N.Y.)-​-​History.</subject><subject>Fort Plain (N.Y.)-​-​History.</subject><subject>Hensonville (N.Y.)-​-​History.</subject><subject>Johnstown (N.Y.)-​-​History.</subject><subject>Norwich (N.Y.)-​-​History.</subject><subject>Oxford (N.Y.)--History.</subject><subject>Sharon Springs (N.Y.)-​-​History.</subject><subject>Sidney (N.Y.)-​-​History.</subject><subject>Saint Johnsville (N.Y.)-​-​History.</subject><subject>Stamford (N.Y.)-​-​History.</subject><subject>Walton (N.Y.)-​-​History.</subject><genreform authfilenumber="300027483" source="aat">account books</genreform><genreform authfilenumber="300026877" source="aat">correspondence</genreform><genreform>photographs</genreform><genreform authfilenumber="300027341" source="aat">scrapbooks</genreform><genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform><genreform authfilenumber="300027473" source="aat">financial records</genreform><genreform authfilenumber="300027590" source="aat">legal documents</genreform><genreform authfilenumber="300027112" source="aat">diaries</genreform><genreform authfilenumber="300411474" source="aat">advertising photographs</genreform></controlaccess>
+						<scopecontent>
+							<p>This collection consists of the records of Smalley Theatres, Inc., accumulated at its home office in Cooperstown, N.Y., 1912-1955. The daily and weekly statements, which constitute a significant portion of the records, were collected from the theaters in Camden, Cooperstown, Delhi, Dolgeville, Fort Plain, Hensonville, Johnstown, Norwich, Oxford, Sharon Springs, Sidney, St. Johnsville, Stamford, and Walton, N.Y., before coming to the home office. They provide excellent detail on attendance and box office receipts for films shown at each location.</p><p>Financial documents are extensive (particularly account books), as is correspondence. The latter supplies much evidence on the importance of film distribution to a movie theater chain, among other subjects. Additional records of note include photographs (especially publicity shots of film stars), documentation of legal cases, programs, lists of free passes provided to prominent local individuals, along with several diaries of William C. Smalley.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="9a63cd_Coll._No._079.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid></archdesc>
+				</ead>

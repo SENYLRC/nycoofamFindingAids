@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0006</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Esther Preston Reynolds Diaries, 1897-1923.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Esther Preston Reynolds Diaries, 1897-1923.</unittitle>
+            <unitdate normal="1897/1923">1897 - 1923</unitdate>
+            <abstract>This collection of twelve meticulously maintained diaries kept by Esther Preston Reynolds vividly portrays the lives of hard working individuals in an farm family living in the Town of Cazenovia, Madison County, NY.</abstract>
+            <physdesc>
+                <extent>1 cu. ft. (12 volumes, ca. 1,600 pages)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Reynolds, Esther Preston, 1839-1923</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 450</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>FM-7.2014</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 450 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Esther Preston Reynolds, 1839-1923, was born in Madison County, NY. She graduated from Cazenovia Seminary in 1854 and in 1866 married Job. T. Reynolds, 1837-1920. They raised four children: Louisa, b. 1867; Homer, b. 1869; Lavinia, b. 1871; and Charles, b. 1872. For nearly a quarter of a century, Esther chronicled the events of her own life, her immediate family's, local inhabitants', and the surrounding area.</p>
+        <head>Biography/History</head>
+        <p>The family maintained a successful farmstead in the Town of Cazenovia, Madison County, NY. Esther managed household chores, some times assisted by her sickly daughter, Lavinia/”Vinnie,” and a neighbor lady, Mrs. Miller, whose paid labor increased as Esther became older. Her husband, successful farmer and entrepreneur Job Reynolds, managed the farm homestead, did bookkeeping for several businesses including a local cheese factory, and served in town government. Her two sons, Homer and Charles, performed a great deal of the farm labor and were musicians in a local band.</p>
+        </bioghist>
+        <controlaccess>
+            
+        <persname>Reynolds, Job. T. , 1837-1920</persname>
+            <persname>Reynolds, Louisa, b. 1867</persname>
+            <persname>Reynolds, Homer, b. 1869 </persname>
+            <persname>Reynolds, Lavinia, b. 1871</persname>
+            <persname>Reynolds, Charles, b. 1872</persname>
+            <genreform authfilenumber="300027112" source="aat">diaries</genreform>
+            <geogname>Chittenango Falls (Madison County, N.Y.)</geogname>
+            <subject>Agricultural laborers--New York (State)--Madison County.</subject>
+            <subject>Families.</subject>
+            <subject>Farm life--New York (State)--Madison County.</subject>
+            <subject>Farm management--New York (State)--Madison County.</subject>
+            <subject>Farmers--New York (State)--Madison County.</subject>
+            <subject>aHops--New York (State)--Madison County.</subject>
+            <subject>Housewives--New York (State)--Madison County.</subject>
+            <subject>Madison County (N.Y.)$xSocial life and customs.</subject>
+            <subject>Musicians--New York (State)--Madison County.</subject>
+            <subject>Rural women.</subject>
+            <persname>Reynolds, Esther Preston, 1839-1923</persname>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection of twelve meticulously maintained diaries kept by Esther Preston Reynolds, 1839-1923, vividly portrays the lives of hard working individuals in an farm family living in the Town of Cazenovia, Madison County, NY) .
+</p>
+        <head>Scope and Contents</head>
+        <p>Reynold’s entries detail the seasonal plantings and harvesting of a variety of grains, fruits, and vegetables; and carefully note the division of male and female labor and the lives of group laborers such as hop pickers and wheat thrashers. 
+</p>
+            <p>Her entries are rich in food preparation – cooking, baking, meat brining, sausage and lard making, butter churning, and the canning of fruits – and document additional household activities such as knitting, sewing, and soap making. Trips to Cazenovia and neighboring towns to purchase textiles and household goods, visits made and received by numerous relatives and friends, social events sponsored by local churches, visits to the State Fair, and picnics sponsored by farmers’ groups are also recorded, as are library books she borrowed. Her diaries contain several pages of entries listing nearly 50 books she read. In most volumes, marriages and deaths are noted and underlined. In the back of the May 1-Dec 30, 1897 diary she made lists of Widows in Cazenovia, 1922; Births, 1901-1909; Marriages, 1897-1909; Birthdays; Deaths, 1897-1918 including details such as  “killed by cars,” “drowned,” “hung himself,” and “insane.”</p>
+            <p>Her husband’s activities are also documented. In addition to managing the farm, bookkeeping, and town government work, she writes of him attending local auctions, tinkering in his farm workshop, and making and repairing farm tools and implements such as “whiffletrees.”</p>
+            <p>Reynold's entries concerning the lives of her two sons, Homer and Charles, are especially detailed. They did a great deal of the farm labor including haying, hauling produce and grains to grist mill or market, repairing outbuildings, and managing livestock. Mother Esther also recorded their band performances for a variety of local and farther-flung “entertainments,” their many travels, socializing, loves and subsequent marriages, births and child rearing experiences.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_e2714346f6f4ca4c6ab85c7dc17f995a" level="collection">
+    <did>
+        <unittitle>450.v1 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1897-05/1897-12" type="inclusive">May, 1897 - December, 1897</unitdate>
+    </did>
+</c>
+            <c id="c_c2113590bedfb87ee6e61c7ebb92efcd" level="collection">
+    <did>
+        <unittitle>450.v2 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1898-01-01/1899-08-14" type="inclusive">January 1, 1898 - August 14, 1899</unitdate>
+    </did>
+</c>
+            <c id="c_0ca68e724e54f05ea124c5ea0220eba8" level="collection">
+    <did>
+        <unittitle>450.v3 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1899-08-15/1900-12-22" type="inclusive">August 15, 1899 - December 22, 1900</unitdate>
+    </did>
+</c>
+            <c id="c_6e935b8397a9acdaeebd90c19783babd" level="collection">
+    <did>
+        <unittitle>450.v4 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1900-12-23/1902-07-11" type="inclusive">December 23, 1900 - July 11, 1902</unitdate>
+    </did>
+</c>
+            <c id="c_e29373a61839e4e95dd71c00ef521266" level="collection">
+    <did>
+        <unittitle>450.v5 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1902-07-12/1903-12-31" type="inclusive">July 12, 1902 - December 31, 1903</unitdate>
+    </did>
+</c>
+            <c id="c_3d445af03a13404a8d0b0f4cd08c0c77" level="collection">
+    <did>
+        <unittitle>450.v6 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1904-01-01/1906-05-07" type="inclusive">January 1, 1904 - May 7, 1906</unitdate>
+    </did>
+</c>
+            <c id="c_a2a433b515b9bc53c9a7b64694c872cc" level="collection">
+    <did>
+        <unittitle>450.v7 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1906-05-09/1908-12-31" type="inclusive">May 9, 1906 - December 31, 1908</unitdate>
+    </did>
+</c>
+            <c id="c_f3e025fbea750252494d79d1e0ec0a75" level="collection">
+    <did>
+        <unittitle>450.v8 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1909-01-01/1912-10-31" type="inclusive">January 1, 1909 - October 31, 1912</unitdate>
+    </did>
+</c>
+            <c id="c_c5b1269c9d8a554d9f7861988bc419a1" level="collection">
+    <did>
+        <unittitle>450.v9 Diary</unittitle>
+        <container type=""/>
+        <unitdate normal="1912-11-01/1917-11-19" type="inclusive">November 1, 1912 - November 19, 1917</unitdate>
+    </did>
+</c>
+            <c id="c_e206308e8d9c721f40f6d075faf09b5b" level="collection">
+    <did>
+        <unittitle>450.v10 Diary  [12/04/17 "The President sails today to make peace"]</unittitle>
+        <container type=""/>
+        <unitdate normal="1917-11-20/1918-12-31" type="inclusive">November 20, 1917 - December 31, 1918</unitdate>
+    </did>
+</c>
+            <c id="c_66bf41b1fc417ed8d8eaec87e0f9770c" level="collection">
+    <did>
+        <unittitle>450.v11 Diary  [double entries for 1919 and 1920, 1921]</unittitle>
+        <container type=""/>
+        <unitdate normal="1919-01-01/1921-01-21" type="inclusive">January 1, 1919 - January 21, 1921</unitdate>
+    </did>
+</c>
+            <c id="c_58fc26340ac7bde44c6ae8838d42f60e" level="collection">
+    <did>
+        <unittitle>450.v112 Diary [last entries short and in shakey hand, about weather and visitors]</unittitle>
+        <container type=""/>
+        <unitdate normal="1921-01-01/1923-12-04" type="inclusive">January 1, 1921 - December 4, 1923</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

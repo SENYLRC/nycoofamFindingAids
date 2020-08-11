@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Lucy Medora (Dora) Walker Papers, 1856-1932 (bulk 1860-1872).</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-18">March 18, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle> Lucy Medora (Dora) Walker Papers, 1856-1932 (bulk 1860-1872).</unittitle>
+            <unitdate certainty="approximate" type="inclusive">1856-1932 (bulk 1860-1872).</unitdate>
+            <physdesc>
+                <extent>1 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                
+                <persname>Walker, Lucy Medora, 1848-1916</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            </repository>
+            <unitid>Coll. No. 055</unitid>
+            
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas Foundation.</p>
+        </processinfo>
+        <relatedmaterial>
+            <head>Related Material</head>
+            <p>974.7748092 W152 - The Diary of Lucy Medora Walker, January-December 1862		</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname>Walker, Lucy Medora, 1848-1916</persname>
+            <subject>Hop pickers--New York (State)--East Springfield</subject>
+            <subject>Hops--Harvesting--New York (State)--East Springfield</subject>
+            <subject>Young women--New York (State)--Otsego County</subject>
+            <subject>Teenage girls--Education--New York (State)--Otsego County</subject>
+            <subject>Home economics--New York (State)--East Springfield</subject>
+            <subject>East Springfield (N.Y.)--Family and personal papers</subject>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027112" source="aat">diaries</genreform>
+        <subject>Social life and customs.--East Springfield (Otsego  County N.Y.)</subject>
+        </controlaccess>
+        <acqinfo>
+            <head>Accession Information</head>
+            <p>Gift; Roger Butterfield; 1971; FM-38.71 (Series 1)</p>
+            <p>Gift; 2013; NM-9.2013 (Series 2)</p>
+        </acqinfo>
+        <accessrestrict>
+            
+        <p>Coll. No. 055 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        </accessrestrict>
+        <bioghist>
+            <p>Lucy Medora Walker, (aka Dora, Dode, Dodie, Lucy, Medora, and Petite Walker) 1848-1916, was born in East Springfield, Otsego County, New York, the only child of Hannah (Seabrook VanHorne) Walker, 1816-1907 and Benjamin Walker, 1811-1870. Benjamin Walker was a cabinet maker who operated a cabinet shop in East Springfield.  In her childhood, Walker attended a private school in East Springfield. There she took geometry, composition, Latin grammar, declamation and French. From East Springfield, she went to Schenectady to finish her education where she lived with the John (father of Alice) McNee family. </p>
+            <p>She returned to East Springfield and in 1873 married William Smith Guardenier (ca. 1843- ). He took over her father's business that same year, but later became an undertaker. They had nine children: Lucy Hotchkiss, Benjamin Walker, Blanche Ormiston, W. Harry., Fred V., Doane Sinclair, Edgar VanHorne, Anna G., and Hannah Medora. The family lived in the same house that Walker grew up in. Shedied February 16, 1916 at the age of 68 and was buried in Springfield Cemetery.</p>
+        </bioghist>
+        <scopecontent>
+            <p>This collection documents the youth and young adulthood of Lucy Medora Walker, 1848-1916 of East Springfield, Otsego County, NY throughcCorrespondence from friends and family, diaries, school papers, programs, and photographs. Topics of discussion in correspondence and diaries include household chores, school, hop harvesting, and church.
+</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of
+photocopies or other reproductions of copyrighted material.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish
+a photocopy or other reproduction. One of these specified conditions is that the photocopy or
+reproduction is not to be used for any purpose other than private study, scholarship, or
+research. If a user makes a request for, or later uses, a photocopy or reproduction for
+purposes in excess of fair use, that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment,
+fulfillment of the order would involve violation of copyright law.</p>
+            <head>Copyright Restrictions:</head>
+        </userestrict>
+        
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="30edb8_Coll_No_55_Lucy_M_Walker.xlsx" xlink:role="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>

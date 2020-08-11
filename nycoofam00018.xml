@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00018</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Adams Ropewalk (Utica, NY) papers, 1932-1958.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-13">March 13, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Adams Ropewalk (Utica, NY) papers, 1932-1958.</unittitle>
+            <unitdate normal="1932/1958">1932 - 1958</unitdate>
+            
+            <physdesc>
+                <extent>.25 cu. ft. </extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>Adams Brothers and Company, (Utica, Oneida County, NY)</corpname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 460</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>NM-12.2010</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 460 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Adams Ropewalk (1431 Oneida Street, Oneida County, Utica, NY,) was founded in 1848 by John Adams and his brother William Adams who brought the trade from Norfolk England where they had been “rope walkers.” The business was subsequently carried on by Newton Adams, d. 1943 (son of John), and Guy Adams b. 1893 (son of Newton). Fiber from coconuts provided the material from which the rope was made for various uses including halters, tow ropes, well ropes, and hanging nooses.  In 1958 the company was believed to be the only cocoa rope walk industry in the United States. Their building had two hand operated rope machines. A calamitous roof collapse severely damaged the historic building in January 1958, but the business was back in operation a few weeks later.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform>
+            <genreform authfilenumber="300027045" source="aat">inventories</genreform>
+            <genreform authfilenumber="300028569" source="aat">manuscripts (documents)</genreform>
+            <genreform>photographs</genreform>
+            <geogname>Utica (Oneida County, N.Y.)</geogname>
+            <corpname>J. and  W. Adams.</corpname>
+            <corpname>Adams Brothers and Company.</corpname>
+            <corpname>Adams Ropewalk.</corpname>
+            <persname>Adams, Guy, b.1893.</persname>
+            <persname>Adams, John</persname>
+            <persname>Adams, Newton, d.1943</persname>
+            <subject>Rope.</subject>
+            <subject>Ropemakers.</subject>
+            <persname>Adams, William</persname>
+        </controlaccess>
+        <scopecontent>
+            <p>The Adams Ropewalk collection contains a typescript history of the company up until 1932, a 1957 6-page Insurance Survey of [the] Property of Mr. Guy P. Adams with photographs of the Ropeworks and office building, newspaper clippings that document a roof collapse in 1958, and 22 b&amp;w photos that document the exterior and interior of the ropeworks, its machinery, and employees.</p>
+        <head>Scope and Contents</head>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_504d6a894a7d9023423d2b2a8117ef9a" level="collection">
+    <did>
+        <unittitle>460.1/1 "The Ropewalk," a typescript company history.</unittitle>
+        <container type=""/>
+        <unitdate normal="1932-02-26" type="inclusive">February 26, 1932</unitdate>
+    </did>
+</c>
+            <c id="c_b170af8f551bcc2eaf45feb5a24181b9" level="collection">
+    <did>
+        <unittitle>460.1/2 Insurance Survey of Property of Guy P. Adams.</unittitle>
+        <container type=""/>
+        <unitdate normal="1957-04-12" type="inclusive">April 12, 1957</unitdate>
+    </did>
+</c>
+            <c id="c_837ae4375bd1b662d60c3631a6757a40" level="collection">
+    <did>
+        <unittitle>460.1/3 Newspaper clippings.</unittitle>
+        <container type=""/>
+        <unitdate normal="1958" type="inclusive">1958</unitdate>
+    </did>
+</c>
+            <c id="c_03d1c66481e8d83b60c0d1e9181ac27f" level="collection">
+    <did>
+        <unittitle>460.1/4 Photographs.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">ca. 1947</unitdate>
+    </did>
+</c>
+            <c id="c_4da65056f5989935798553881125798f" level="collection">
+    <did>
+        <unittitle>460.1/5 Photographs.</unittitle>
+        <container type=""/>
+        <unitdate normal="1948-04-15" type="inclusive">April 15, 1948</unitdate>
+    </did>
+</c>
+            <c id="c_af0f4b77bbc0a7a9718b4e8313fdb85d" level="collection">
+    <did>
+        <unittitle>460.1/6  Photographs.</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">ca. 1957</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

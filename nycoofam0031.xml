@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0031</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the American Canoe Association Collection </titleproper>
+								<author>New York State Historical Association - Research Library Special Collections </author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-01">April 1, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>American Canoe Association Collection, 1879-2009 (bulk 1879-1966).</unittitle>
+							<unitdate type="inclusive" certainty="approximate">1879-2009 (bulk 1879-1966)</unitdate>
+							
+							<physdesc>
+								<extent>5.5 Cubic feet (8 boxes) + 6 oversize folders</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname>Vaux,  C. Boyer</persname>
+                <corpname source="lcnaf" authfilenumber="n88034182">American Canoe Association</corpname>
+                <persname>Freide, Leo</persname>
+                <persname>Barr, Walwin </persname>
+                <persname>Hale, Thomas</persname>
+            </origination>
+							<repository>
+                <subarea>Fenimore Art Museum Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+						<unitid>Coll. No. 1</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>N-1274.46 - N-1281.46, N-1284.46 - N-1285.46, N-247.56 - N-252.56, N-473.57, N-485.57 N-492.57, N-600.60 - N-606.60, NM-018.00</p>
+        </acqinfo>
+        
+        <relatedmaterial>
+            <p>The Fenimore Art Museum Research Library also has a separate collection of ACA yearbooks spanning the years 1887-1980.
+</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 1: American Canoe Association Collection is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>The American Canoe Association was born in the late nineteenth century, during an era witnessing a remarkable canoe craze that lasted through the early years of the twentieth century. People all over the country were participating in this new sport. In addition to canoe "cruising" many boaters, moved by the competitive American spirit and the era's affinity for "joining," participated in formal canoe racing sponsored by the ACA.
+</p>
+            <p>Nathaniel H. Bishop of Lake George, New York initiated the idea for a national canoe association. In 1880 he issued "First Call," an invitation to canoeists in the United States and Canada to meet at Crosbyside, Lake George. Founded at Crosbyside in 1880, the ACA is one of the oldest national sports governing bodies in North America. The twenty-three founding members included prominent figures such as William L. Alden, editorial writer for the New York Times and later American Counsel to Rome, boat designers W.P. Stephens and J.H. Rushton, publisher Arthur Brentano, and Judge Nicholas Longworth. </p>
+            <p>Prior to 1903, the organization held annual meets at various locations throughout New York State, on Lake George, Lake Champlain, the St. Lawrence River, and Long Island. In 1901, the Association purchased Sugar (or St. Lawrence Island), situated between Grindstone Island, N.Y. and Gananoque, Ontario, where it has held its meets every year since. </p>
+            <p>The ACA has diversified over the years. Today, ACA members include both men and women, and the organization has become involved with environmental conservation efforts and Olympic committees. [from a description of the collection by Lee Livney]
+</p>
+						</bioghist>
+						<controlaccess>
+            <genreform>Photographs</genreform>
+            <genreform authfilenumber="300027341" source="aat">scrapbooks</genreform>
+            <genreform authfilenumber="300248280" source="aat">brochures</genreform>
+            <genreform authfilenumber="300028569" source="aat">manuscripts (documents)</genreform>
+        <persname source="lcnaf" authfilenumber="n82138886">Stoddard, Seneca Ray, 1844-1917</persname>
+            <persname>Reidel, Ernine</persname>
+            <geogname authfilenumber="5118424" source="geonames">Lake George (N.Y.)</geogname>
+            <geogname>St. Lawrence River (N.Y.)</geogname>
+            <geogname>Lake Champlain (N.Y.)</geogname>
+            <geogname> Jessups Neck, Long Island (N.Y.)</geogname>
+            <corpname>British Canoe Association </corpname>
+            <corpname>Royal Canoe Club</corpname>
+            <subject>Canoes &amp; canoeing--Societies, etc</subject>
+            <subject>Outdoor recreation--New York (State)</subject>
+            <persname source="lcnaf" authfilenumber="n90650730">Bishop, Nathaniel H. (Nathaniel Holmes), 1837-1902</persname>
+            <corpname source="lcnaf" authfilenumber="n88034182">American Canoe Association</corpname>
+        </controlaccess>
+						<scopecontent>
+							<p>The American Canoe Association Collection consists mostly of photographs, scrapbooks, and printed materials, which span the years 1879 to 2009 (bulk 1879-1966). Most of these materials relate to the early years of the ACA and document the annual meets and camps.</p>
+            <p>The C. Boyer Vaux Collection consists of approximately 500 photographs of the ACA meets in the 1880s and 1890s. Outdoor photographer Seneca Ray Stoddard captured many of the early ACA meets on film, as did other photographers. The photographs reflect the excitement of the early meets including races, spectators, and entertainment, and portray camp life, the "Squaw Camp," and camp ceremonies. Also included are photographs of club members and commodores, sailing canoes, club excursions, and club boathouses. Most of the photographs are accompanied by a description of individuals, places, events, and dates. </p>
+            <p>The scrapbooks of Leo Freide, Walwin Barr, and Thomas Hale provide a personal perspective of canoeing and the ACA. The scrapbook entitled, "Totems," includes hand-painted drawings of each canoe club's totem. </p>
+            <p>The collection also contains meet brochures, manuscripts on the history of the ACA, the land grant for Sugar Island, the handwritten draft for "First Call," and materials generated by the ACA
+such as rules and regulations, constitution and by laws, financial notes and minutes, yearbooks, and logs. Other items include canoe club memorabilia, periodicals related to canoeing, trade catalogs, ACA songbooks, materials relating to the British Canoe Association and the Royal Canoe Club, silk pennants, banners, and a handmade pillow cover. </p>
+            <p>The collection is significant for it not only documents the history of the ACA, but also provides valuable insights into the history of canoeing and outdoor recreation, boat building and design, and popular leisure time activities at the turn of the 20th century. </p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="3dfc0c_Coll._No._1.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

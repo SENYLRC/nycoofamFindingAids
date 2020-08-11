@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0009</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Photo collection of an historical tourist, 1920s - 1940s.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Photo collection of an historical tourist, 1920s - 1940s.</unittitle>
+            <unitdate certainty="approximate">1920s-1940s</unitdate>
+            <abstract>This collection contains photos taken and research done in the 1920s -1940s by a traveler with a deep interest in New York State history. Images of the following regions:  the Adirondacks, Capitol, Catskill, Hudson and Mohawk River Valley, greater New York City, Long Island, and Niagara; and of the 1939 New York World’s Fair are included.</abstract>
+            <physdesc>
+                <extent>.25 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Unknown</persname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 464</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas Foundation.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; Tequesta, FL; 2013; NM-13.2013.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 464 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Note from the donor who in 2012, lived in Tequesta, FL:  this collection came "from a friend of my father-in-law…who apparently loved to travel to historical sites."</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <geogname>New York (State)</geogname>
+            <genreform>Photographs</genreform>
+            <subject>Historic house museums, --New York (State)--Photographs</subject>
+            <subject>Historic sites, --New York (State)--Photographs.</subject>
+            <subject>Memorials--New York (State)--Photographs.</subject>
+            <subject>Monuments--New York (State)--Photographs.</subject>
+            <subject>New York World's Fair (1939-1940)--New York, N.Y.</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>This collection contains photos taken and research done in the 1920s -1940s by a traveler with a deep interest in New York State history. Images of the following regions:  the Adirondacks, Capitol, Catskill, Hudson and Mohawk River Valley, greater New York City, Long Island, and Niagara; and of the 1939 New York World’s Fair are included.</p>
+        <head>Scope and Contents</head>
+        <p>The 156 black &amp; white photos in Folder 1, ca. 1924-1948, capture New York State historical sites, places, monuments and markers from Ft. Niagara to Montauk Point, including the Adirondacks, Capitol, Catskill, Hudson and Mohawk River Valley, greater New York City, Long Island, and Niagara regions of New York State. The photos are well-labeled with dates, locations, and provide context and historical notes.</p>
+            <p>Folder 2 contains black &amp; white photos taken of the New York World’s Fair (May 1939 through its last day, September 27, 1940). About half the photos are labeled with date and subject of image.</p>
+            <p>Folder 3 contains an album of photographs (1924) of historical sites and places on Long and Staten Islands, Manhattan, Brooklyn and Flushing. They are labeled with dates, locations, and some historical notes.
+</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    <dsc>
+            <c id="c_23688a94fccd19c27ea84d96a97b37ad" level="collection">
+    <did>
+        <unittitle>464.1/1 Photographs</unittitle>
+        <container type=""/>
+        <unitdate type="inclusive" certainty="approximate">ca. 1924-1948</unitdate>
+    </did>
+</c>
+            <c id="c_bc953a40ce77d612ec3a458f6ea485d4" level="collection">
+    <did>
+        <unittitle>464.1/2 Photographs, New York World's Fair, 1939-1940.</unittitle>
+        <container type=""/>
+        <unitdate normal="1939/1940" type="inclusive">1939 - 1940</unitdate>
+    </did>
+</c>
+            <c id="c_041865aade525382fc148df7236e6cbb" level="collection">
+    <did>
+        <unittitle>464.1/3 Photograph album.</unittitle>
+        <container type=""/>
+        <unitdate normal="1924" type="inclusive">1924</unitdate>
+    </did>
+</c>
+        </dsc>
+    </archdesc>
+</ead>

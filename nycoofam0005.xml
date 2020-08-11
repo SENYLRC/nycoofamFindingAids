@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0005</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to New York State Places. Pictorial Collection, ca.1948.</titleproper>
+                <author>Pamela Cooley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2019-03-12">March 12, 2019</date>
+                <publisher>Fenimore Art Museum</publisher>
+                <address>
+                    <addressline>5798 State Highway 80</addressline>
+                    <addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nycoofam.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>New York State Places. Pictorial Collection, ca.1948.</unittitle>
+            <unitdate certainty="approximate">1948</unitdate>
+            <abstract>Contains images of sites of significance to the history of New York State. The images are all mounted on sturdy card stock and labeled with town, date, description, and source, if appropriate. Media include: prints; lithographs; post cards; b&amp;w sepia-toned, and hand colored photographs; and stereoscopic view cards. </abstract>
+            <physdesc>
+                <extent>.5 cu. ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>State Historical Society of Wisconsin. Division of Archives and Manuscripts </corpname>
+            </origination>
+            <repository>
+                <corpname>Fenimore Art Museum</corpname>
+            <subarea>Research Library</subarea>
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            </repository>
+            <unitid>Coll. No. 449</unitid>
+            
+        <unitid/>
+        
+        </did>
+        <processinfo>
+            <p>The processing, cataloging, and encoding of this collection were made possible by a grant from the Gladys Krieble Delmas.</p>
+        </processinfo>
+        <acqinfo>
+            
+            <p>Gift; State Historical Society of Wisconsin, Visual Materials Archives; 2013; NM-3.2013.</p>
+        <head>Acquisition Information</head>
+        </acqinfo>
+        <accessrestrict>
+            <p>Coll. No. 449 is open for research according to the regulations of Fenimore Art Museum Library.</p>
+        
+        </accessrestrict>
+        <bioghist>
+            <p>Images were collected by the Historical Society that were out of the Society's collecting scope. They were donated to the library in September 2000.</p>
+        <head>Biography/History</head>
+        </bioghist>
+        <controlaccess>
+            
+        <geogname>New York (State)</geogname>
+            <subject>Historic sites--New York (State)--Photographs.</subject>
+            <genreform>Photographs</genreform>
+            <subject>Historic house museums--New York (State)--Photographs</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Sixty-nine images of various locations around New York City and Brooklyn, 8 of Buffalo, 4 of Rochester, 3 each of Saratoga Springs and West Point, and the remaining 24 of New York State's cities and towns such as Albany, Lowville, Newburg, and Unadilla. </p>
+        <head>Scope and Contents</head>
+        <p>The images are all mounted on sturdy card stock and labeled with town, date, description, and source, if appropriate. Media include: prints removed from books such as Picturesque America and periodicals such as “Harper’s New Monthly;” lithographs; post cards; b&amp;w sepia-toned, and hand colored photographs; and stereoscopic view cards. </p>
+            <p>The collection is arranged by city/town then chronologically.</p>
+        </scopecontent>
+        <userestrict>
+            <p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+            
+        <head>Use Restriction</head>
+        </userestrict>
+    </archdesc>
+</ead>

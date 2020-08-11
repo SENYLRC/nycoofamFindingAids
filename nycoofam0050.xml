@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0050</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to the Frey Family Papers, 1790-1917.</titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-05-20">May 20, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>Frey Family Papers, 1790-1917.</unittitle>
+							<unitdate normal="1790/1917" type="inclusive">1790 - 1917</unitdate>
+							
+							<physdesc>
+								<extent>4.0 cu. ft. + 15 volumes + 1 oversize folder</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <famname>Frey family</famname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 161</unitid>
+        </did>
+        <processinfo>
+            
+        </processinfo>
+        <acqinfo>
+            <p>FM-58.53, FM-59.53, FM-68.53, FM-80.53, NM-45.5</p>
+        <p>Purchase; Frank M. Thomas; 1953; NM-086.53, NM-087.53.</p>
+            <p>Gift; Dr. Charles K. Winne, Jr.; NM-003.77.</p>
+        </acqinfo>
+        <odd>
+            
+        </odd>
+        <relatedmaterial>
+            <p>Referenced in, National Historical Publications Commission, Philip M. Hamer, ed., "A Guide to Archives and Manuscripts in the United States" (New Haven, Yale University Press: 1961), p. 383.</p>
+        </relatedmaterial>
+						<accessrestrict>
+							<p>Coll. No. 161, Frey Family Papers  is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>Helen Ludlow of the Hampton Institute in Virginia taught freed slaves.Caroline Frey was a student in the Poughkeepsie Female Academy, 1857-1858. She married Col. G.R. Giddings in 1862. They lived at various military posts in Connecticut, Louisiana, Ohio, and Wisconsin. </p>
+						</bioghist>
+						<controlaccess>
+            <persname>Giddings, Caroline Frey.</persname>
+            <persname source="lcnaf" authfilenumber="n82060687">Giddings, Grotius R.</persname>
+            <persname>Ludlow, Helen</persname>
+            <persname source="lcnaf" authfilenumber="nr96008133">Ludlow, H. G. (Henry Gilbert), 1797-1867</persname>
+            <famname>Ludlow, H. G. (Henry Gilbert), 1797-1867.</famname>
+            <famname>Baldwin family.</famname>
+            <famname>Frey family.</famname>
+            <famname>Frye family.</famname>
+            <famname>Ludlow family.</famname>
+            <corpname source="lcnaf" authfilenumber="n50031676">Hampton Institute</corpname>
+            <corpname>Poughkeepsie Female Academy.</corpname>
+            <subject>Agriculture.</subject>
+            <subject>African Americans-​-​Education.</subject>
+            <subject>Education.</subject>
+            <subject>Military bases.</subject>
+            <subject>Military history.</subject>
+            <subject>Slaves-​-​Emancipation.</subject>
+            <subject>United States. Army--Military life.</subject>
+            <occupation>Students.</occupation>
+            <occupation>Teachers.</occupation>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300027112" source="aat">diaries</genreform>
+            <genreform authfilenumber="300101057" source="aat">letterpress copybooks</genreform>
+            <genreform authfilenumber="300027590" source="aat">legal documents</genreform>
+            <genreform authfilenumber="300026695" source="aat">photograph albums</genreform>
+            <genreform authfilenumber="300127104" source="aat">photographic prints</genreform>
+            <genreform authfilenumber="300127181" source="aat">daguerreotypes (photographs)</genreform>
+            <subject>United States-​-​History-​-​Civil War, 1861-1865.</subject>
+            <subject>Family and personal papers--	Kinderhook (N.Y.)</subject>
+            <subject>Family and personal papers--	Oswego (N.Y.)</subject>
+            <subject>Family and personal papers--Palatine Bridge (N.Y.)</subject>
+            <geogname>Kinderhook (Columbia County, N.Y.)</geogname>
+            <geogname>Oswego (Oswego County, N.Y.)</geogname>
+            <geogname>Palatine Bridge (Montgomery County, N.Y.)</geogname>
+        </controlaccess>
+						<scopecontent>
+							<p>The collection consists of the papers of the Frey family and related Ludlow and Baldwin families of Kinderhook, Columbia County; Oswego, Oswego County; and Palatine Bridge, Montgomery County, N.Y. It includes family correspondence, diaries, farm and legal documents, letter books, daguerreotypes, photograph albums, historical manuscripts of Samuel Frey Ludlow, and a eulogy and picture of Fitz Hugh Ludlow.</p>
+            <p>Among the letters are those of Helen Ludlow relating her experiences educating freed slaves; of Caroline Freyher concerning her years as a student, her marriage, and her life at various military posts; of Henry Ludlow; and of Marie Tappen. Additionally, there are letters from Anna Wendell, Albany, N.Y., to Caroline Ludlow.</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="11d1c9_Coll._No._161.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>

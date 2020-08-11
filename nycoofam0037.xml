@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+					<eadheader langencoding="iso639-2b">
+						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0037</eadid>
+						<filedesc>
+							<titlestmt>
+								<titleproper>Guide to  the John Davenport Clarke Papers, 1889-1949 </titleproper>
+								<author>Pamela Cooley</author>
+							</titlestmt>
+							<publicationstmt>
+								<date normal="2019-04-16">April 16, 2019</date>
+								<publisher>Fenimore Art Museum</publisher>
+								<address>
+									<addressline>5798 State Highway 80</addressline>
+								<addressline>Cooperstown, NY 13326</addressline>
+                    <addressline>(607) 547-1400</addressline>
+                </address>
+							</publicationstmt>
+						</filedesc>
+						<profiledesc>
+							<creation>Finding aid created with EADitor by user nycoofam.</creation>
+							<langusage>Finding aid is written in English</langusage>
+						</profiledesc>
+					</eadheader>
+					<archdesc level="collection">
+						<did>
+							<unittitle>John Davenport Clarke Papers, 1889-1949</unittitle>
+							<unitdate normal="1889/1949" type="inclusive">1889 - 1949</unitdate>
+							
+							<physdesc>
+								<extent>5.75 cu. ft. and  20 vols.</extent>
+							</physdesc>
+							<langmaterial>
+								<language langcode="eng">English</language>
+							</langmaterial>
+							<origination>
+                <persname source="lcnaf" authfilenumber="no2008021815">Clarke, John D. (John Davenport), 1873-1933</persname>
+            </origination>
+							<repository>
+							<corpname>Fenimore Art Museum Research Library</corpname>
+
+                <address>
+								<addressline>80 Lake Road</addressline>
+							<addressline>Cooperstown, NY 13326</addressline>
+                </address>
+                <extptr xlink:type="simple" xlink:href="https://www.fenimoreartmuseum.org/collections/"/>
+            <subarea>Research Library</subarea>
+            </repository>
+						<unitid>Coll. No. 12</unitid>
+        </did>
+        
+        <acqinfo>
+            <p>Accession Number: FM-44.72, NM-82.74
+</p>
+        </acqinfo>
+        
+        
+						<accessrestrict>
+							<p>Coll. No. 12: John Davenport Clarke Papers is open for research according to the regulations of Fenimore Art Museum Library.</p>
+						</accessrestrict>
+						<bioghist>
+							<p>John Davenport Clarke (1873-1933) was a U.S. Congressman who served Delaware, Otsego, Chenango, and Broome Counties in New York State from 1921 to 1925 and 1927 to 1933. He was born in Hobart, Delaware County, N.Y., graduated from Lafayette College in PA, and received a law degree from Brooklyn Law School. Prior to becoming a Congressman, he was a farmer and worked for the mining departments of Carnegie Steel Co. and the United States Steel Corp. During his years in Congress he was closely involved with local dairy and shoemaking interests and with land conservation. As a stimulus to local 4-H activities, he turned much of his property in Fraser, Delaware County, NY into a recreation site for their benefit. Clarke died while in office in 1933 and his seat was taken over by his wife, Marian Williams Clarke, until early 1935.
+</p>
+						</bioghist>
+						<controlaccess>
+            <genreform authfilenumber="300048730" source="aat">personal correspondence</genreform>
+            <genreform>Photographs.</genreform>
+            <genreform authfilenumber="300027341" source="aat">scrapbooks</genreform>
+            <genreform authfilenumber="300417595" source="aat">speeches (compositions)</genreform>
+            <genreform authfilenumber="300027473" source="aat">financial records</genreform>
+            <genreform authfilenumber="300111999" source="aat">publications (documents)</genreform>
+            <genreform authfilenumber="300027590" source="aat">legal documents</genreform>
+            <subject>Legislators-​-​United States-​-​Correspondence.</subject>
+            <geogname>Delaware County (New York State)</geogname>
+            <persname>Slagle, Eleanor Clarke</persname>
+            <persname source="lcnaf" authfilenumber="nb2010028456">Clarke, Marion</persname>
+            <genreform authfilenumber="300026916" source="aat">business letters</genreform>
+            <subject>New York (State)-​-​Politics and government.</subject>
+        </controlaccess>
+						<scopecontent>
+							<p>Political and personal papers of John Davenport Clarke include mostly correspondence, scrapbooks, and photographs, along with publications, speeches, financial records, and estate papers, 1889-1949. Also contains some papers of Clarke's sister, Eleanor Clarke Slagle, who was known for her work in occupational therapy.
+</p>
+						</scopecontent>
+						<userestrict>
+							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
+						</userestrict>
+					<otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="e24961_Coll._No._12.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+				</ead>
