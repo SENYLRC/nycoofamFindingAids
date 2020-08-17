@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
 					<eadheader langencoding="iso639-2b">
 						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0051</eadid>
@@ -88,103 +89,103 @@
 							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
 						</userestrict>
 					<dsc>
-            <c id="c_2fea8f6d495d3dd829b8c43de773e907" level="collection">
+            <c id="c_2fea8f6d495d3dd829b8c43de773e907" level="file">
 					<did>
 						<unittitle>213.1/1 -- Biographical material: newspaper clippings and a photograph of a display about Lockwood.</unittitle>
 						<unitdate certainty="approximate">1937 - ca. 1968. </unitdate>
 					</did>
 				</c>
-            <c id="c_a90b642f2070d2b9ae6aa6e2b5bb5b1d" level="collection">
+            <c id="c_a90b642f2070d2b9ae6aa6e2b5bb5b1d" level="file">
 					<did>
 						<unittitle>213.1/2 -- Belva Lockwood's passport. </unittitle>
 						<unitdate normal="1889">1889</unitdate>
 					</did>
 				</c>
-            <c id="c_ac885d9c72947254fd2394d3e9105367" level="collection">
+            <c id="c_ac885d9c72947254fd2394d3e9105367" level="file">
 					<did>
 						<unittitle>213.1/3 -- "The New Woman," 75 pages, numbered 1-127, with omissions.</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_9339f5531887377140c6d1c2551355ba" level="collection">
+            <c id="c_9339f5531887377140c6d1c2551355ba" level="file">
 					<did>
 						<unittitle>213.1/4 -- "Women in Professions," pages 1-24, 42-51, 34-79, and twenty-two others.</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_1416debbb866fe3c6100bcc91519640d" level="collection">
+            <c id="c_1416debbb866fe3c6100bcc91519640d" level="file">
 					<did>
 						<unittitle>213.1/5 -- "Women in Professions," sixty-five pages numbered 48-125; incomplete. </unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_191b793a6198f0c767dbda9e214f16b8" level="collection">
+            <c id="c_191b793a6198f0c767dbda9e214f16b8" level="file">
 					<did>
 						<unittitle>213.1/6 -- "On Marriage."</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_8f70a8af08cd5313cdacd7916bcafffe" level="collection">
+            <c id="c_8f70a8af08cd5313cdacd7916bcafffe" level="file">
 					<did>
 						<unittitle>213.1/7 -- "On Marriage." </unittitle>
 						<unitdate certainty="approximate">1904, undated. </unitdate>
 					</did>
 				</c>
-            <c id="c_0b8e67b41be4c8128b8c9cc6e5a33267" level="collection">
+            <c id="c_0b8e67b41be4c8128b8c9cc6e5a33267" level="file">
 					<did>
 						<unittitle>213.1/8 -- "Prosperity and Existing Conditions," pages 3-6 and 8-14; typescript.</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_55b4f7e29cc837e8d0c31a6d110f7ba1" level="collection">
+            <c id="c_55b4f7e29cc837e8d0c31a6d110f7ba1" level="file">
 					<did>
 						<unittitle>213.1/9 -- "Equal Rights," pages 19-38, 40-41, and 49-52; typescript.</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_19fa1d651e1a8b327bc0187802c2e0cf" level="collection">
+            <c id="c_19fa1d651e1a8b327bc0187802c2e0cf" level="file">
 					<did>
 						<unittitle>213.1/10 -- "Across the Continent and What I Saw," pages 31-44, 52-68, and 70-72, with typescript; "Suffrage," pages 141-145; Memorial Day speech, pages 1-8 and 1314. </unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_c114a5c51056d6f78a7fb5be740fdbda" level="collection">
+            <c id="c_c114a5c51056d6f78a7fb5be740fdbda" level="file">
 					<did>
 						<unittitle>213.1/11 -- "Temperance," about 75 pages</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_a6b222386badf49aa0b2c31541ed6f4e" level="collection">
+            <c id="c_a6b222386badf49aa0b2c31541ed6f4e" level="file">
 					<did>
 						<unittitle>213.1/12 -- Portions of various lectures. </unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_0057768026efeab841326993c386a100" level="collection">
+            <c id="c_0057768026efeab841326993c386a100" level="file">
 					<did>
 						<unittitle>213.1/13 -- Portions of various lectures.</unittitle>
 						<unitdate certainty="approximate">ca. 1895.</unitdate>
 					</did>
 				</c>
-            <c id="c_44b919a385b5e6f8ca62634ec2ca467e" level="collection">
+            <c id="c_44b919a385b5e6f8ca62634ec2ca467e" level="file">
 					<did>
 						<unittitle>213.1/14 -- Portions of various lectures, an indenture, and newspaper clippings.</unittitle>
 						<unitdate certainty="approximate">1882-1892, undated.</unitdate>
 					</did>
 				</c>
-            <c id="c_833be0b1d48eec19a68c941b7d9f7db7" level="collection">
+            <c id="c_833be0b1d48eec19a68c941b7d9f7db7" level="file">
 					<did>
 						<unittitle>213.1/15 -- Portions of various lectures</unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_7a91a3bd2d21af68b5f54991c42fec25" level="collection">
+            <c id="c_7a91a3bd2d21af68b5f54991c42fec25" level="file">
 					<did>
 						<unittitle>213.1/16 -- Photograph: composite of portraits of women's rights advocates - A.W.M. Bartlett, Madame Aneka, Laura C. Dundore, Kattie I. French, Lucretia Mott, D.B. Briggs, Laura Gordon, Mary E. Walker, Elizabeth Cady Stanton, Phoebe Couzins, Belva A. Lockwood, C.S. Lozier, Pauline W. Davis, Martha C. Wright, Matilda Joslin Gage, and Charlotte B. Wilbour. </unittitle>
 						<unitdate certainty="approximate">u.d.</unitdate>
 					</did>
 				</c>
-            <c id="c_294e767d39820326da5e899caf097b99" level="collection">
+            <c id="c_294e767d39820326da5e899caf097b99" level="file">
 					<did>
 						<unittitle>213.01 -- Certificate to practice law before the U.S. Supreme Court issued to Belva Lockwood</unittitle>
 						<unitdate normal="1879">1879</unitdate>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00018</eadid>
@@ -93,42 +94,42 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_504d6a894a7d9023423d2b2a8117ef9a" level="collection">
+            <c id="c_504d6a894a7d9023423d2b2a8117ef9a" level="file">
     <did>
         <unittitle>460.1/1 "The Ropewalk," a typescript company history.</unittitle>
         <container type=""/>
         <unitdate normal="1932-02-26" type="inclusive">February 26, 1932</unitdate>
     </did>
 </c>
-            <c id="c_b170af8f551bcc2eaf45feb5a24181b9" level="collection">
+            <c id="c_b170af8f551bcc2eaf45feb5a24181b9" level="file">
     <did>
         <unittitle>460.1/2 Insurance Survey of Property of Guy P. Adams.</unittitle>
         <container type=""/>
         <unitdate normal="1957-04-12" type="inclusive">April 12, 1957</unitdate>
     </did>
 </c>
-            <c id="c_837ae4375bd1b662d60c3631a6757a40" level="collection">
+            <c id="c_837ae4375bd1b662d60c3631a6757a40" level="file">
     <did>
         <unittitle>460.1/3 Newspaper clippings.</unittitle>
         <container type=""/>
         <unitdate normal="1958" type="inclusive">1958</unitdate>
     </did>
 </c>
-            <c id="c_03d1c66481e8d83b60c0d1e9181ac27f" level="collection">
+            <c id="c_03d1c66481e8d83b60c0d1e9181ac27f" level="file">
     <did>
         <unittitle>460.1/4 Photographs.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">ca. 1947</unitdate>
     </did>
 </c>
-            <c id="c_4da65056f5989935798553881125798f" level="collection">
+            <c id="c_4da65056f5989935798553881125798f" level="file">
     <did>
         <unittitle>460.1/5 Photographs.</unittitle>
         <container type=""/>
         <unitdate normal="1948-04-15" type="inclusive">April 15, 1948</unitdate>
     </did>
 </c>
-            <c id="c_af0f4b77bbc0a7a9718b4e8313fdb85d" level="collection">
+            <c id="c_af0f4b77bbc0a7a9718b4e8313fdb85d" level="file">
     <did>
         <unittitle>460.1/6  Photographs.</unittitle>
         <container type=""/>

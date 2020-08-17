@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00024</eadid>
@@ -92,70 +93,70 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_fdce6b5423fee18efab12a554c68366f" level="collection">
+            <c id="c_fdce6b5423fee18efab12a554c68366f" level="file">
     <did>
         <unittitle>No. 468/1.1 Correspondence - to Blanche.</unittitle>
         <container type=""/>
         <unitdate normal="1961/1962" type="inclusive">1961 - 1962</unitdate>
     </did>
 </c>
-            <c id="c_bfd1252390a96707fb987ea38aec5b54" level="collection">
+            <c id="c_bfd1252390a96707fb987ea38aec5b54" level="file">
     <did>
         <unittitle>No. 468/1.2 Correspondence - to Blanche.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1963-1964, n.d.</unitdate>
     </did>
 </c>
-            <c id="c_433a68882b5571c1de2f6602bd45f7cd" level="collection">
+            <c id="c_433a68882b5571c1de2f6602bd45f7cd" level="file">
     <did>
         <unittitle>No. 468/1.3 Correspondence - from Blanche.</unittitle>
         <container type=""/>
         <unitdate normal="1963" type="inclusive">1963</unitdate>
     </did>
 </c>
-            <c id="c_4c535ee35f15994c788a8f8bcb37f0f3" level="collection">
+            <c id="c_4c535ee35f15994c788a8f8bcb37f0f3" level="file">
     <did>
         <unittitle>No. 468/1.4 Correspondence - from Earle Peacox.</unittitle>
         <container type=""/>
         <unitdate normal="1961/1968" type="inclusive">1961 - 1968</unitdate>
     </did>
 </c>
-            <c id="c_99e47c2db1bf4cb498ffee02dba1f1c4" level="collection">
+            <c id="c_99e47c2db1bf4cb498ffee02dba1f1c4" level="file">
     <did>
         <unittitle>No. 468/1.5 Misc. correspondence and ephemera.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_2ccd355031c7c0290c0aa89e16d6afc1" level="collection">
+            <c id="c_2ccd355031c7c0290c0aa89e16d6afc1" level="file">
     <did>
         <unittitle>No. 468/1.6 Work book - Bush/Miller geneaologies.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_370d51937dcf17ac04aba7661da57d8e" level="collection">
+            <c id="c_370d51937dcf17ac04aba7661da57d8e" level="file">
     <did>
         <unittitle>No. 468/1.7 Work book - Miller/Casler/deGraff/Stancel/Young/Smith/Freeman/Roof geneaologies. </unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_42e650342c0a8842fe406e55c3e0c6ae" level="collection">
+            <c id="c_42e650342c0a8842fe406e55c3e0c6ae" level="file">
     <did>
         <unittitle>No. 468/1.8 Work book - "Records Church &amp; Cemetery Halls Snells Riffenbergs."</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_38a39b96749ed377850de1df3cf41501" level="collection">
+            <c id="c_38a39b96749ed377850de1df3cf41501" level="file">
     <did>
         <unittitle>No. 468/1.9 Work book - Miller/Bush/Stansel geneaologies incl. notes on Otsego and Schoharie county cemeteries.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_ccb481d6da0f3ea4a022311fa2e06c21" level="collection">
+            <c id="c_ccb481d6da0f3ea4a022311fa2e06c21" level="file">
     <did>
         <unittitle>No. 468/1.10  Work book- Stansell/Featherly geneaologiews, incl. correspondence from Earle Peacox.</unittitle>
         <container type=""/>

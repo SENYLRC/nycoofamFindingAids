@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00010</eadid>
@@ -94,77 +95,77 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_9d32d0586846778650ee5e05ed8e9463" level="collection">
+            <c id="c_9d32d0586846778650ee5e05ed8e9463" level="file">
     <did>
         <unittitle>451.1/1 Educational Notebook, Mrs. C. L. Talbot.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_0086faee57376e3d4389f3d767e33ea2" level="collection">
+            <c id="c_0086faee57376e3d4389f3d767e33ea2" level="file">
     <did>
         <unittitle>451.1/2 Financial documents,</unittitle>
         <container type=""/>
         <unitdate normal="1891/1926" type="inclusive">1891 - 1926</unitdate>
     </did>
 </c>
-            <c id="c_cf56bd2a4fec4d8cb41f1f46b6886e61" level="collection">
+            <c id="c_cf56bd2a4fec4d8cb41f1f46b6886e61" level="file">
     <did>
         <unittitle>451.1/3 Financial documents, Ladies Auxillary Society.</unittitle>
         <container type=""/>
         <unitdate normal="1898/1902" type="inclusive">1898 - 1902</unitdate>
     </did>
 </c>
-            <c id="c_5f16df21b1a281370c54e3284cfedacc" level="collection">
+            <c id="c_5f16df21b1a281370c54e3284cfedacc" level="file">
     <did>
         <unittitle>451.1/4 Membership lists.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1885, u.d.</unitdate>
     </did>
 </c>
-            <c id="c_78b8de3586b79a792b72f8e27290dff6" level="collection">
+            <c id="c_78b8de3586b79a792b72f8e27290dff6" level="file">
     <did>
         <unittitle>451.1/5 Minute Book.</unittitle>
         <container type=""/>
         <unitdate normal="1876/1887" type="inclusive">1876 - 1887</unitdate>
     </did>
 </c>
-            <c id="c_a68e9016ea47243d1ec26bdbe7e1c69d" level="collection">
+            <c id="c_a68e9016ea47243d1ec26bdbe7e1c69d" level="file">
     <did>
         <unittitle>451.1/6 Minute Book.</unittitle>
         <container type=""/>
         <unitdate normal="1888/1897" type="inclusive">1888 - 1897</unitdate>
     </did>
 </c>
-            <c id="c_7767caaff1bb00f838bed081b9b740de" level="collection">
+            <c id="c_7767caaff1bb00f838bed081b9b740de" level="file">
     <did>
         <unittitle>451.1/7 Minute Book.</unittitle>
         <container type=""/>
         <unitdate normal="1898/1905" type="inclusive">1898 - 1905</unitdate>
     </did>
 </c>
-            <c id="c_6a8eee1f47d135d6ded70a2af1b14f5f" level="collection">
+            <c id="c_6a8eee1f47d135d6ded70a2af1b14f5f" level="file">
     <did>
         <unittitle>451.1/8 Minute Book.</unittitle>
         <container type=""/>
         <unitdate normal="1910/1920" type="inclusive">1910 - 1920</unitdate>
     </did>
 </c>
-            <c id="c_9fb12c472d7eeaa061f179721efd16e2" level="collection">
+            <c id="c_9fb12c472d7eeaa061f179721efd16e2" level="file">
     <did>
         <unittitle>451.1/9 Minutes, Ladies Aid.</unittitle>
         <container type=""/>
         <unitdate normal="1938-11-30/1939-03-28" type="inclusive">November 30, 1938 - March 28, 1939</unitdate>
     </did>
 </c>
-            <c id="c_b32aa0db902fc1b55289b4064aaee9a0" level="collection">
+            <c id="c_b32aa0db902fc1b55289b4064aaee9a0" level="file">
     <did>
         <unittitle>451.1/10 Recipes</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_a36035e9dfaa9783a09033ac02bd1701" level="collection">
+            <c id="c_a36035e9dfaa9783a09033ac02bd1701" level="file">
     <did>
         <unittitle>451.1/11 Report and Program,  Northfield Summer School for Women's Foreign Missionary Societies.</unittitle>
         <container type=""/>

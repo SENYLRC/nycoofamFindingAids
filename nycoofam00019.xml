@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00019</eadid>
@@ -98,56 +99,56 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_b91d0f296eca06c17bc3df27bab73190" level="collection">
+            <c id="c_b91d0f296eca06c17bc3df27bab73190" level="file">
     <did>
         <unittitle>461.1/1 Correspondence from Ella May Wilson to Harold Cheetham in Williamson, NY and Sweetwater, TN.</unittitle>
         <container type=""/>
         <unitdate normal="1912-07/1912-09" type="inclusive">July, 1912 - September, 1912</unitdate>
     </did>
 </c>
-            <c id="c_d588da285d72cff44028be454462480b" level="collection">
+            <c id="c_d588da285d72cff44028be454462480b" level="file">
     <did>
         <unittitle>461.1/2 Correspondence from Ella May Wilson to Harold Cheetham in Sweetwater, TN.</unittitle>
         <container type=""/>
         <unitdate normal="1912-10/1912-11" type="inclusive">October, 1912 - November, 1912</unitdate>
     </did>
 </c>
-            <c id="c_65da4dac2433d9b1d1f6bc4ed3ee5262" level="collection">
+            <c id="c_65da4dac2433d9b1d1f6bc4ed3ee5262" level="file">
     <did>
         <unittitle>461.1/3 Correspondence from Harold Cheetham to Ella May Wilson.</unittitle>
         <container type=""/>
         <unitdate normal="1912-07" type="inclusive">July, 1912</unitdate>
     </did>
 </c>
-            <c id="c_8846ccc18157e60fc99c3730f4516200" level="collection">
+            <c id="c_8846ccc18157e60fc99c3730f4516200" level="file">
     <did>
         <unittitle>461.1/4 Wedding invitation of Ella May Wilson to Harold Cheetham.</unittitle>
         <container type=""/>
         <unitdate normal="1913-01-11" type="inclusive">January 11, 1913</unitdate>
     </did>
 </c>
-            <c id="c_370a4b569763fc3035830c3aaac8ffbe" level="collection">
+            <c id="c_370a4b569763fc3035830c3aaac8ffbe" level="file">
     <did>
         <unittitle>461.1/5 Letters to Ella May and Harold Cheetham in Sweetwater, TN from friends and family,</unittitle>
         <container type=""/>
         <unitdate normal="1913-01" type="inclusive">January, 1913</unitdate>
     </did>
 </c>
-            <c id="c_6ad93daf7d74aa59dd5f4bfb9ba36f16" level="collection">
+            <c id="c_6ad93daf7d74aa59dd5f4bfb9ba36f16" level="file">
     <did>
         <unittitle>461.1/6 Letters to Ella May and Harold Cheetham in Sweetwater, TN from friends and family.</unittitle>
         <container type=""/>
         <unitdate normal="1913-02" type="inclusive">February, 1913</unitdate>
     </did>
 </c>
-            <c id="c_1ac81c4470f5b967260e63a005008a1d" level="collection">
+            <c id="c_1ac81c4470f5b967260e63a005008a1d" level="file">
     <did>
         <unittitle>461.1/7 Letters  to Ella May Cheetham from friends,</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1914, 1916</unitdate>
     </did>
 </c>
-            <c id="c_f9fa4288b62f263572d42925fd2e2507" level="collection">
+            <c id="c_f9fa4288b62f263572d42925fd2e2507" level="file">
     <did>
         <unittitle>461.1/8 Business correspondence to Harold Cheetham.</unittitle>
         <container type=""/>

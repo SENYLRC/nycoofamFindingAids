@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0006</eadid>
@@ -104,84 +105,84 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_e2714346f6f4ca4c6ab85c7dc17f995a" level="collection">
+            <c id="c_e2714346f6f4ca4c6ab85c7dc17f995a" level="file">
     <did>
         <unittitle>450.v1 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1897-05/1897-12" type="inclusive">May, 1897 - December, 1897</unitdate>
     </did>
 </c>
-            <c id="c_c2113590bedfb87ee6e61c7ebb92efcd" level="collection">
+            <c id="c_c2113590bedfb87ee6e61c7ebb92efcd" level="file">
     <did>
         <unittitle>450.v2 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1898-01-01/1899-08-14" type="inclusive">January 1, 1898 - August 14, 1899</unitdate>
     </did>
 </c>
-            <c id="c_0ca68e724e54f05ea124c5ea0220eba8" level="collection">
+            <c id="c_0ca68e724e54f05ea124c5ea0220eba8" level="file">
     <did>
         <unittitle>450.v3 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1899-08-15/1900-12-22" type="inclusive">August 15, 1899 - December 22, 1900</unitdate>
     </did>
 </c>
-            <c id="c_6e935b8397a9acdaeebd90c19783babd" level="collection">
+            <c id="c_6e935b8397a9acdaeebd90c19783babd" level="file">
     <did>
         <unittitle>450.v4 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1900-12-23/1902-07-11" type="inclusive">December 23, 1900 - July 11, 1902</unitdate>
     </did>
 </c>
-            <c id="c_e29373a61839e4e95dd71c00ef521266" level="collection">
+            <c id="c_e29373a61839e4e95dd71c00ef521266" level="file">
     <did>
         <unittitle>450.v5 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1902-07-12/1903-12-31" type="inclusive">July 12, 1902 - December 31, 1903</unitdate>
     </did>
 </c>
-            <c id="c_3d445af03a13404a8d0b0f4cd08c0c77" level="collection">
+            <c id="c_3d445af03a13404a8d0b0f4cd08c0c77" level="file">
     <did>
         <unittitle>450.v6 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1904-01-01/1906-05-07" type="inclusive">January 1, 1904 - May 7, 1906</unitdate>
     </did>
 </c>
-            <c id="c_a2a433b515b9bc53c9a7b64694c872cc" level="collection">
+            <c id="c_a2a433b515b9bc53c9a7b64694c872cc" level="file">
     <did>
         <unittitle>450.v7 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1906-05-09/1908-12-31" type="inclusive">May 9, 1906 - December 31, 1908</unitdate>
     </did>
 </c>
-            <c id="c_f3e025fbea750252494d79d1e0ec0a75" level="collection">
+            <c id="c_f3e025fbea750252494d79d1e0ec0a75" level="file">
     <did>
         <unittitle>450.v8 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1909-01-01/1912-10-31" type="inclusive">January 1, 1909 - October 31, 1912</unitdate>
     </did>
 </c>
-            <c id="c_c5b1269c9d8a554d9f7861988bc419a1" level="collection">
+            <c id="c_c5b1269c9d8a554d9f7861988bc419a1" level="file">
     <did>
         <unittitle>450.v9 Diary</unittitle>
         <container type=""/>
         <unitdate normal="1912-11-01/1917-11-19" type="inclusive">November 1, 1912 - November 19, 1917</unitdate>
     </did>
 </c>
-            <c id="c_e206308e8d9c721f40f6d075faf09b5b" level="collection">
+            <c id="c_e206308e8d9c721f40f6d075faf09b5b" level="file">
     <did>
         <unittitle>450.v10 Diary  [12/04/17 "The President sails today to make peace"]</unittitle>
         <container type=""/>
         <unitdate normal="1917-11-20/1918-12-31" type="inclusive">November 20, 1917 - December 31, 1918</unitdate>
     </did>
 </c>
-            <c id="c_66bf41b1fc417ed8d8eaec87e0f9770c" level="collection">
+            <c id="c_66bf41b1fc417ed8d8eaec87e0f9770c" level="file">
     <did>
         <unittitle>450.v11 Diary  [double entries for 1919 and 1920, 1921]</unittitle>
         <container type=""/>
         <unitdate normal="1919-01-01/1921-01-21" type="inclusive">January 1, 1919 - January 21, 1921</unitdate>
     </did>
 </c>
-            <c id="c_58fc26340ac7bde44c6ae8838d42f60e" level="collection">
+            <c id="c_58fc26340ac7bde44c6ae8838d42f60e" level="file">
     <did>
         <unittitle>450.v112 Diary [last entries short and in shakey hand, about weather and visitors]</unittitle>
         <container type=""/>

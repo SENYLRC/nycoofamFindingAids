@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00023</eadid>
@@ -90,21 +91,21 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_1c9dbc74f975070942d9eac047677863" level="collection">
+            <c id="c_1c9dbc74f975070942d9eac047677863" level="file">
     <did>
         <unittitle>465/1.1 Photographic slides.</unittitle>
         <container type=""/>
         <unitdate normal="1973" type="inclusive">1973</unitdate>
     </did>
 </c>
-            <c id="c_7f37aed2a14422b2340ee9b1e2db3517" level="collection">
+            <c id="c_7f37aed2a14422b2340ee9b1e2db3517" level="file">
     <did>
         <unittitle>465/1.2 Photographic slides.</unittitle>
         <container type=""/>
         <unitdate normal="1973/1976" type="inclusive">1973 - 1976</unitdate>
     </did>
 </c>
-            <c id="c_a31288b0d5ef6eb3d7f9614494abe3ea" level="collection">
+            <c id="c_a31288b0d5ef6eb3d7f9614494abe3ea" level="file">
     <did>
         <unittitle>465/1.3 Photographic slides.</unittitle>
         <container type=""/>

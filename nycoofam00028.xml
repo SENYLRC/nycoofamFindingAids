@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00028</eadid>
@@ -90,56 +91,56 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_33eb3c6271f6229d36dd7074b20b0176" level="collection">
+            <c id="c_33eb3c6271f6229d36dd7074b20b0176" level="file">
     <did>
         <unittitle>473.1.1/1 Account ledger pages.</unittitle>
         <container type=""/>
         <unitdate normal="1873/1881" type="inclusive">1873 - 1881</unitdate>
     </did>
 </c>
-            <c id="c_aa8a4d978e8439014ad82293043950de" level="collection">
+            <c id="c_aa8a4d978e8439014ad82293043950de" level="file">
     <did>
         <unittitle>473.1.1/2 Bills and receipts.</unittitle>
         <container type=""/>
         <unitdate normal="1869/1899" type="inclusive">1869 - 1899</unitdate>
     </did>
 </c>
-            <c id="c_7bd54af80bac73274854d3550c40b8e0" level="collection">
+            <c id="c_7bd54af80bac73274854d3550c40b8e0" level="file">
     <did>
         <unittitle>473.1.1/3 Capital stock certificates and reports.</unittitle>
         <container type=""/>
         <unitdate normal="1867/1879" type="inclusive">1867 - 1879</unitdate>
     </did>
 </c>
-            <c id="c_c6027887804668ed26a4e6e0bd04f894" level="collection">
+            <c id="c_c6027887804668ed26a4e6e0bd04f894" level="file">
     <did>
         <unittitle>473.1.1/4 Founding documents.</unittitle>
         <container type=""/>
         <unitdate normal="1867" type="inclusive">1867</unitdate>
     </did>
 </c>
-            <c id="c_5232a40a1770c964e7ca89e3bc812554" level="collection">
+            <c id="c_5232a40a1770c964e7ca89e3bc812554" level="file">
     <did>
         <unittitle>473.1.1/5 Correspondence.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1878, 1891.</unitdate>
     </did>
 </c>
-            <c id="c_b3899998595ce0c42d93aab7bcc5cc01" level="collection">
+            <c id="c_b3899998595ce0c42d93aab7bcc5cc01" level="file">
     <did>
         <unittitle>473.1.1/6 Notebooks.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_0979794a603e6d8ab256aacf7b76c957" level="collection">
+            <c id="c_0979794a603e6d8ab256aacf7b76c957" level="file">
     <did>
         <unittitle>473.1.1/7 Supreme Court  case documents,</unittitle>
         <container type=""/>
         <unitdate normal="1873/1888" type="inclusive">1873 - 1888</unitdate>
     </did>
 </c>
-            <c id="c_151efc961d90e698119567f4fd5ebf77" level="collection">
+            <c id="c_151efc961d90e698119567f4fd5ebf77" level="file">
     <did>
         <unittitle>473.1.1/8 Trustees' Annual Reports,</unittitle>
         <container type=""/>

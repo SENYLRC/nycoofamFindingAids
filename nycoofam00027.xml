@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00027</eadid>
@@ -86,28 +87,28 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_ff255b5bf856c65d15c0f8b2832a1aec" level="collection">
+            <c id="c_ff255b5bf856c65d15c0f8b2832a1aec" level="file">
     <did>
         <unittitle>471.1/1 Correspondence.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1820, 1822.</unitdate>
     </did>
 </c>
-            <c id="c_19067cd501e8eb509748de17a8f6ed54" level="collection">
+            <c id="c_19067cd501e8eb509748de17a8f6ed54" level="file">
     <did>
         <unittitle>471.1/2 Correspondence.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" normal="1823">1823</unitdate>
     </did>
 </c>
-            <c id="c_849525f4bd316fc71b1d50c6dc47680f" level="collection">
+            <c id="c_849525f4bd316fc71b1d50c6dc47680f" level="file">
     <did>
         <unittitle>471.1/3 Correspondence.</unittitle>
         <container type=""/>
         <unitdate normal="1824" type="inclusive">1824</unitdate>
     </did>
 </c>
-            <c id="c_d10f5af9ce4925c6b4722f89684c1a3f" level="collection">
+            <c id="c_d10f5af9ce4925c6b4722f89684c1a3f" level="file">
     <did>
         <unittitle>471.1/4 Correspondence.</unittitle>
         <container type=""/>

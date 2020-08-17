@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0009</eadid>
@@ -90,21 +91,21 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_23688a94fccd19c27ea84d96a97b37ad" level="collection">
+            <c id="c_23688a94fccd19c27ea84d96a97b37ad" level="file">
     <did>
         <unittitle>464.1/1 Photographs</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">ca. 1924-1948</unitdate>
     </did>
 </c>
-            <c id="c_bc953a40ce77d612ec3a458f6ea485d4" level="collection">
+            <c id="c_bc953a40ce77d612ec3a458f6ea485d4" level="file">
     <did>
         <unittitle>464.1/2 Photographs, New York World's Fair, 1939-1940.</unittitle>
         <container type=""/>
         <unitdate normal="1939/1940" type="inclusive">1939 - 1940</unitdate>
     </did>
 </c>
-            <c id="c_041865aade525382fc148df7236e6cbb" level="collection">
+            <c id="c_041865aade525382fc148df7236e6cbb" level="file">
     <did>
         <unittitle>464.1/3 Photograph album.</unittitle>
         <container type=""/>

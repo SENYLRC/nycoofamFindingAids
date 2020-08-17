@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
 					<eadheader langencoding="iso639-2b">
 						<eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0038</eadid>
@@ -92,31 +93,31 @@ The murder took place on Crumhorn Mountain, Maryland, Otsego County, NY, the tri
 							<p>The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be used for any purpose other than private study, scholarship, or research. If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of fair use, that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.</p>
 						</userestrict>
 					<dsc>
-            <c id="c_68ee810246e8c5b13c0c4cecef084b17" level="collection">
+            <c id="c_68ee810246e8c5b13c0c4cecef084b17" level="file">
 					<did>
 						<unittitle>17.1 Grand Jury</unittitle>
 						
 					</did>
 				</c>
-            <c id="c_61a1578e79438fa717f19fb58db2ae2e" level="collection">
+            <c id="c_61a1578e79438fa717f19fb58db2ae2e" level="file">
 					<did>
 						<unittitle>17.2 Witness testimony</unittitle>
 						
 					</did>
 				</c>
-            <c id="c_a9c1fd30c296807de11570bca699e4eb" level="collection">
+            <c id="c_a9c1fd30c296807de11570bca699e4eb" level="file">
 					<did>
 						<unittitle>17.3 Clippings</unittitle>
 						
 					</did>
 				</c>
-            <c id="c_617191583853bcde600742e0b3ad31f7" level="collection">
+            <c id="c_617191583853bcde600742e0b3ad31f7" level="file">
 					<did>
 						<unittitle>17.4 Grant, Byard, and Tennant papers</unittitle>
 						
 					</did>
 				</c>
-            <c id="c_5e2b90001ccb5e77fb55d8cf510e3e07" level="collection">
+            <c id="c_5e2b90001ccb5e77fb55d8cf510e3e07" level="file">
 					<did>
 						<unittitle>17.vol. 1 Wright Bible</unittitle>
 						

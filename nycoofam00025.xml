@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam00025</eadid>
@@ -96,21 +97,21 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_1c6fbeb32f9de7ecbfb0d4e51c3f22cf" level="collection">
+            <c id="c_1c6fbeb32f9de7ecbfb0d4e51c3f22cf" level="file">
     <did>
         <unittitle>469/1.1 Cooperstown, research notes and essays</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">n.d.</unitdate>
     </did>
 </c>
-            <c id="c_6f90d406cdf85c9f38cacc14b21f570f" level="collection">
+            <c id="c_6f90d406cdf85c9f38cacc14b21f570f" level="file">
     <did>
         <unittitle> 469/1.2 Otsego County Fair, history</unittitle>
         <container type=""/>
         <unitdate normal="1817/1938" type="inclusive">1817 - 1938</unitdate>
     </did>
 </c>
-            <c id="c_959c630f1c0e2b61f9c107a5eee704df" level="collection">
+            <c id="c_959c630f1c0e2b61f9c107a5eee704df" level="file">
     <did>
         <unittitle> 469/1.3 The Cooper House, history and ephemera</unittitle>
         <container type=""/>

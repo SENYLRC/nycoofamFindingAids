@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0004</eadid>
@@ -93,91 +94,91 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_0c74811a7135edb67350de8159a24c1e" level="collection">
+            <c id="c_0c74811a7135edb67350de8159a24c1e" level="file">
     <did>
         <unittitle>448.1/1 Copyright registration for Masters Thesis, "Landscape Window Shades of the 19th Century in New York and New England</unittitle>
         <container type=""/>
         <unitdate normal="1984" type="inclusive">1984</unitdate>
     </did>
 </c>
-            <c id="c_a21177b93dca08b93ce9266fe6f801a2" level="collection">
+            <c id="c_a21177b93dca08b93ce9266fe6f801a2" level="file">
     <did>
         <unittitle>448.1/2 Correspondence</unittitle>
         <container type=""/>
         <unitdate normal="1968/1987" type="inclusive">1968 - 1987</unitdate>
     </did>
 </c>
-            <c id="c_91e29b5a0dd61a7ebddaa2fb0dce354d" level="collection">
+            <c id="c_91e29b5a0dd61a7ebddaa2fb0dce354d" level="file">
     <did>
         <unittitle>448.1/3 Correspondence, Shades of History</unittitle>
         <container type=""/>
         <unitdate normal="1968/1969" type="inclusive">1968 - 1969</unitdate>
     </did>
 </c>
-            <c id="c_51f4ad764e8c5176541d150c71a83fba" level="collection">
+            <c id="c_51f4ad764e8c5176541d150c71a83fba" level="file">
     <did>
         <unittitle>448.1/4 Student papers, speeches</unittitle>
         <container type=""/>
         <unitdate normal="1967/1970" type="inclusive">1967 - 1970</unitdate>
     </did>
 </c>
-            <c id="c_36a9ba28420048c16bc99fef859bdfeb" level="collection">
+            <c id="c_36a9ba28420048c16bc99fef859bdfeb" level="file">
     <did>
         <unittitle>448.1/5 Photographs and negatives, and related correspondence (1 of 2)</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_4fc4b16f854eebae70877208bc6bbeb0" level="collection">
+            <c id="c_4fc4b16f854eebae70877208bc6bbeb0" level="file">
     <did>
         <unittitle>448.1/6 Photographs and negatives, and related correspondence (2 of 2)</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_ce422d2ea0ccbcc0cd75b98800af4e83" level="collection">
+            <c id="c_ce422d2ea0ccbcc0cd75b98800af4e83" level="file">
     <did>
         <unittitle>448.1/7 Publication, "Lake Forest Academy Antiques Show", June 1970, pp 32-37</unittitle>
         <container type=""/>
         <unitdate normal="1970" type="inclusive">1970</unitdate>
     </did>
 </c>
-            <c id="c_29e3e18a5637c969dd1568edcc8d8560" level="collection">
+            <c id="c_29e3e18a5637c969dd1568edcc8d8560" level="file">
     <did>
         <unittitle>448.1/8 Publication, "Old-House Journal," September/October 1987, pp 46-48</unittitle>
         <container type=""/>
         <unitdate normal="1987" type="inclusive">1987</unitdate>
     </did>
 </c>
-            <c id="c_42b76d4c37146f37cc80aebecac0048b" level="collection">
+            <c id="c_42b76d4c37146f37cc80aebecac0048b" level="file">
     <did>
         <unittitle>448.1/9 Publication, "Shades of History," 1969, 22 pp [FAMRL 747.5 L479]</unittitle>
         <container type=""/>
         <unitdate normal="1969" type="inclusive">1969</unitdate>
     </did>
 </c>
-            <c id="c_3703d14b8ec390c02d652e6d132819e4" level="collection">
+            <c id="c_3703d14b8ec390c02d652e6d132819e4" level="file">
     <did>
         <unittitle>448.1/10 Publication, "Window Fashions," August 1987, pp 14-22</unittitle>
         <container type=""/>
         <unitdate normal="1987" type="inclusive">1987</unitdate>
     </did>
 </c>
-            <c id="c_e63809c9048d61ab8ab0ae1848d79a35" level="collection">
+            <c id="c_e63809c9048d61ab8ab0ae1848d79a35" level="file">
     <did>
         <unittitle>448.1/11 Research material, window shades</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_7e4b70e6e6210e59b1c6b50e75940716" level="collection">
+            <c id="c_7e4b70e6e6210e59b1c6b50e75940716" level="file">
     <did>
         <unittitle>448.1/12 Thesis, "Landscape Window Shades of the 19th Century in New York State and New England" (1 of 2)</unittitle>
         <container type=""/>
         <unitdate normal="1967" type="inclusive">1967</unitdate>
     </did>
 </c>
-            <c id="c_2b924196e60c4f32997a69344def7545" level="collection">
+            <c id="c_2b924196e60c4f32997a69344def7545" level="file">
     <did>
         <unittitle>448.1/13 Thesis, "Landscape Window Shades of the 19th Century in New York State and New England" (2 of 2)</unittitle>
         <container type=""/>

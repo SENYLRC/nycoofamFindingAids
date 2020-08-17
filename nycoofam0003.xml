@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0003</eadid>
@@ -102,56 +103,56 @@ fulfillment of the order would involve violation of copyright law.</p>
         <head>Copyright statement</head>
         </userestrict>
     <dsc>
-            <c id="c_09c9fba2a2d6849f4470c83ed1354743" level="collection">
+            <c id="c_09c9fba2a2d6849f4470c83ed1354743" level="file">
     <did>
         <unittitle>447.1/1 Letters to C. C. Gordon from Universalist ministers in New York State and New England (1 of 2)</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1850s-1870s</unitdate>
     </did>
 </c>
-            <c id="c_b430ceec21e69124b8ab7b975f1e5a7f" level="collection">
+            <c id="c_b430ceec21e69124b8ab7b975f1e5a7f" level="file">
     <did>
         <unittitle>447.1/2 Letters to C. C. Gordon from Universalist ministers in New York State and New England (2 of 2)</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1850s-1870s</unitdate>
     </did>
 </c>
-            <c id="c_28aae1c4662380bc0cc1879d242eebf1" level="collection">
+            <c id="c_28aae1c4662380bc0cc1879d242eebf1" level="file">
     <did>
         <unittitle>447.1/3 Letters (51) to C. C. Gordon from his wife Harriet written from various locations in New York State and letter (1) from C. C. Gordon to his wife Harriet written from Clinton, NY</unittitle>
         <container type=""/>
         <unitdate normal="1852/1863" type="inclusive">1852 - 1863</unitdate>
     </did>
 </c>
-            <c id="c_d213aad439799287a018ad9e1d09b921" level="collection">
+            <c id="c_d213aad439799287a018ad9e1d09b921" level="file">
     <did>
         <unittitle>447.1/4 Letters to C. C. Gordon from Universalist ministers in the Northeast</unittitle>
         <container type=""/>
         <unitdate normal="1854/1861" type="inclusive">1854 - 1861</unitdate>
     </did>
 </c>
-            <c id="c_aa4ad5890b2a143bf55d3ce599d6ec83" level="collection">
+            <c id="c_aa4ad5890b2a143bf55d3ce599d6ec83" level="file">
     <did>
         <unittitle>447.1/5  Letters to C. C. Gordon from Universalist ministers and Society members in New York State and New England </unittitle>
         <container type=""/>
         <unitdate normal="1854/1863" type="inclusive">1854 - 1863</unitdate>
     </did>
 </c>
-            <c id="c_74bb5d1e694827609059ef4609de61ee" level="collection">
+            <c id="c_74bb5d1e694827609059ef4609de61ee" level="file">
     <did>
         <unittitle>447.1/6 Letters to C. C. Gordon from Universalist ministers in New York State</unittitle>
         <container type=""/>
         <unitdate normal="1855/1865" type="inclusive">1855 - 1865</unitdate>
     </did>
 </c>
-            <c id="c_6d83494a6be68a417e2c9b305669ab3c" level="collection">
+            <c id="c_6d83494a6be68a417e2c9b305669ab3c" level="file">
     <did>
         <unittitle>447.1/7 Letters to C. C. Gordon from Daniel Batchelor, Utica, NY</unittitle>
         <container type=""/>
         <unitdate normal="1878/1883" type="inclusive">1878 - 1883</unitdate>
     </did>
 </c>
-            <c id="c_65eb2a155f8c5274ccd3228f71da162f" level="collection">
+            <c id="c_65eb2a155f8c5274ccd3228f71da162f" level="file">
     <did>
         <unittitle>447.1/8  Letters to Daniel Batchelor from C. C. Gordon, Brooklyn, NY</unittitle>
         <container type=""/>

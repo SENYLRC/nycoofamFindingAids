@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-nycoofam">nycoofam0007</eadid>
@@ -112,203 +113,203 @@
         <head>Use Restriction</head>
         </userestrict>
     <dsc>
-            <c id="c_9684c626f864b30e7e990c49deb35be8" level="collection">
+            <c id="c_9684c626f864b30e7e990c49deb35be8" level="file">
     <did>
         <unittitle>446.1/1 Tuller House Collection, Scope + Content and Provenance notes.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_eb631a6d6e4d73b1ea6c7e5563a9119a" level="collection">
+            <c id="c_eb631a6d6e4d73b1ea6c7e5563a9119a" level="file">
     <did>
         <unittitle>446.1/2  Bloomfield, Allen J., student notebooks. </unittitle>
         <container type=""/>
         <unitdate normal="1901/1903" type="inclusive">1901 - 1903</unitdate>
     </did>
 </c>
-            <c id="c_1b6b962c77700f69f57e78f89cd5c99b" level="collection">
+            <c id="c_1b6b962c77700f69f57e78f89cd5c99b" level="file">
     <did>
         <unittitle>446.1/3 Booklet, "Tucker's Method of Turf Production". </unittitle>
         <container type=""/>
         <unitdate normal="1914" type="inclusive">1914</unitdate>
     </did>
 </c>
-            <c id="c_45548bbffffc2500469460b14ce4568f" level="collection">
+            <c id="c_45548bbffffc2500469460b14ce4568f" level="file">
     <did>
         <unittitle>446.1/4 M. Tuller and Son Department Store, receipts. (1 of 2)</unittitle>
         <container type=""/>
         <unitdate normal="1913/1914" type="inclusive">1913 - 1914</unitdate>
     </did>
 </c>
-            <c id="c_7a32f8c0d6a4894b5d601c61499ae598" level="collection">
+            <c id="c_7a32f8c0d6a4894b5d601c61499ae598" level="file">
     <did>
         <unittitle>446.1/5 M. Tuller and Son Department Store, receipts. (2 of 2)</unittitle>
         <container type=""/>
         <unitdate normal="1913/1914" type="inclusive">1913 - 1914</unitdate>
     </did>
 </c>
-            <c id="c_939879dea38dfafec336dfe6d6a141b0" level="collection">
+            <c id="c_939879dea38dfafec336dfe6d6a141b0" level="file">
     <did>
         <unittitle>446.1/6 Tuller House, Account book.</unittitle>
         <container type=""/>
         <unitdate normal="1901" type="inclusive">1901</unitdate>
     </did>
 </c>
-            <c id="c_f0881ff30435c13b0b50afa040d91920" level="collection">
+            <c id="c_f0881ff30435c13b0b50afa040d91920" level="file">
     <did>
         <unittitle>446.1/7  Tuller House, Account book. </unittitle>
         <container type=""/>
         <unitdate normal="1901/1903" type="inclusive">1901 - 1903</unitdate>
     </did>
 </c>
-            <c id="c_a3108014bf4d989e224d2bd2b9198366" level="collection">
+            <c id="c_a3108014bf4d989e224d2bd2b9198366" level="file">
     <did>
         <unittitle>446.1/8 Tuller House, Account book.</unittitle>
         <container type=""/>
         <unitdate normal="1902" type="inclusive">1902</unitdate>
     </did>
 </c>
-            <c id="c_c87b2c160e771cf9825a9d524d3b38e8" level="collection">
+            <c id="c_c87b2c160e771cf9825a9d524d3b38e8" level="file">
     <did>
         <unittitle>446.1/9 Tuller House, Account book. </unittitle>
         <container type=""/>
         <unitdate normal="1905" type="inclusive">1905</unitdate>
     </did>
 </c>
-            <c id="c_f86a49ee275d982164af8ebb28c24d03" level="collection">
+            <c id="c_f86a49ee275d982164af8ebb28c24d03" level="file">
     <did>
         <unittitle>446.1/10 Tuller House, Account book.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_9b7595929d48e32bb1c6913d5a774066" level="collection">
+            <c id="c_9b7595929d48e32bb1c6913d5a774066" level="file">
     <did>
         <unittitle>446.1/11 Tuller House, Account books, bus and baggage. </unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">1889, 1891.</unitdate>
     </did>
 </c>
-            <c id="c_d1035281d94749e9c3f77567c71f43eb" level="collection">
+            <c id="c_d1035281d94749e9c3f77567c71f43eb" level="file">
     <did>
         <unittitle>446.1/12 Tuller House, Account books, grocery purchases. </unittitle>
         <container type=""/>
         <unitdate normal="1890/1912" type="inclusive">1890 - 1912</unitdate>
     </did>
 </c>
-            <c id="c_08c7d3fdcc0c9d70daf0f23054918cb5" level="collection">
+            <c id="c_08c7d3fdcc0c9d70daf0f23054918cb5" level="file">
     <did>
         <unittitle>446.1/13 Tuller House, Account book, guests.</unittitle>
         <container type=""/>
         <unitdate normal="1906/1907" type="inclusive">1906 - 1907</unitdate>
     </did>
 </c>
-            <c id="c_1e2d7175995e22c7953846039c77a842" level="collection">
+            <c id="c_1e2d7175995e22c7953846039c77a842" level="file">
     <did>
         <unittitle>446.1/13a Tuller House, Acount book, help. </unittitle>
         <container type=""/>
         <unitdate normal="1906/1907" type="inclusive">1906 - 1907</unitdate>
     </did>
 </c>
-            <c id="c_46dc04564d95d2684b305a898ccce390" level="collection">
+            <c id="c_46dc04564d95d2684b305a898ccce390" level="file">
     <did>
         <unittitle>446.1/14 Tuller House, Checkbook [stubs only]. </unittitle>
         <container type=""/>
         <unitdate normal="1906/1907" type="inclusive">1906 - 1907</unitdate>
     </did>
 </c>
-            <c id="c_884c599fba7e453920b0e1048885f645" level="collection">
+            <c id="c_884c599fba7e453920b0e1048885f645" level="file">
     <did>
         <unittitle>446.1/15 Tuller House, File Box #1, cancelled checks and receipts.</unittitle>
         <container type=""/>
         <unitdate normal="1897/1915" type="inclusive">1897 - 1915</unitdate>
     </did>
 </c>
-            <c id="c_639633a2da8c3bf4b4a56c6ec69fedc8" level="collection">
+            <c id="c_639633a2da8c3bf4b4a56c6ec69fedc8" level="file">
     <did>
         <unittitle>446.1/16 Tuller House, File Box #1, A-D. </unittitle>
         <container type=""/>
         <unitdate normal="1901/1915" type="inclusive">1901 - 1915</unitdate>
     </did>
 </c>
-            <c id="c_51a5f740aab274ba50d8baabc06f3c83" level="collection">
+            <c id="c_51a5f740aab274ba50d8baabc06f3c83" level="file">
     <did>
         <unittitle>446.1/17 Tuller House, File Box #1, E/F-G. </unittitle>
         <container type=""/>
         <unitdate normal="1903/1920" type="inclusive">1903 - 1920</unitdate>
     </did>
 </c>
-            <c id="c_02534840991bce54b0caab28d04f2b34" level="collection">
+            <c id="c_02534840991bce54b0caab28d04f2b34" level="file">
     <did>
         <unittitle>446.1/18 Tuller House, File Box #1, H-R. </unittitle>
         <container type=""/>
         <unitdate normal="1900/1915" type="inclusive">1900 - 1915</unitdate>
     </did>
 </c>
-            <c id="c_4b6ca48617e96f63493c24784c6dcbcb" level="collection">
+            <c id="c_4b6ca48617e96f63493c24784c6dcbcb" level="file">
     <did>
         <unittitle>446.1/19 Tuller House, File box #1, S-Z. </unittitle>
         <container type=""/>
         <unitdate normal="1900/1914" type="inclusive">1900 - 1914</unitdate>
     </did>
 </c>
-            <c id="c_6194c6ef1965448a2568f628fde081a5" level="collection">
+            <c id="c_6194c6ef1965448a2568f628fde081a5" level="file">
     <did>
         <unittitle>446.1/20 Tuller House, File Box #1, Correspondence, unalphabetized.</unittitle>
         <container type=""/>
         <unitdate normal="1902/1913" type="inclusive">1902 - 1913</unitdate>
     </did>
 </c>
-            <c id="c_4c0c3dfb141b666009a06f6967a9d2fe" level="collection">
+            <c id="c_4c0c3dfb141b666009a06f6967a9d2fe" level="file">
     <did>
         <unittitle>446.1/21 Tuller House, File Box #2, A-E/F</unittitle>
         <container type=""/>
         <unitdate normal="1900/1915" type="inclusive">1900 - 1915</unitdate>
     </did>
 </c>
-            <c id="c_83f1858afa3abbf9e4901f7fe13c2204" level="collection">
+            <c id="c_83f1858afa3abbf9e4901f7fe13c2204" level="file">
     <did>
         <unittitle>446.1/22 Tuller House, File Box #2, G-R.</unittitle>
         <container type=""/>
         <unitdate normal="1900" type="inclusive">1900</unitdate>
     </did>
 </c>
-            <c id="c_ae4f08453eb5b35de3daf9e401100ed1" level="collection">
+            <c id="c_ae4f08453eb5b35de3daf9e401100ed1" level="file">
     <did>
         <unittitle>446.1/23 Tuller House, File box #2, S-Z. </unittitle>
         <container type=""/>
         <unitdate normal="" type="inclusive"/>
     </did>
 </c>
-            <c id="c_223b85eb8c457158bbafdba2891d9cce" level="collection">
+            <c id="c_223b85eb8c457158bbafdba2891d9cce" level="file">
     <did>
         <unittitle>446.1/24  Tuller House, Fireplace tiles. </unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_bd7b61bea90bb8470bc8ad2b8b7ad2a8" level="collection">
+            <c id="c_bd7b61bea90bb8470bc8ad2b8b7ad2a8" level="file">
     <did>
         <unittitle>446.1/25 Tuller House, Misc. documents.</unittitle>
         <container type=""/>
         <unitdate type="inclusive" certainty="approximate">u.d.</unitdate>
     </did>
 </c>
-            <c id="c_e0f67b472ef3b3ebba53bcd638454149" level="collection">
+            <c id="c_e0f67b472ef3b3ebba53bcd638454149" level="file">
     <did>
         <unittitle>446.1/26 Tuller House, Receipts.</unittitle>
         <container type=""/>
         <unitdate normal="1904" type="inclusive">1904</unitdate>
     </did>
 </c>
-            <c id="c_f4cea88c7dfa05eea4c4209adc356bc1" level="collection">
+            <c id="c_f4cea88c7dfa05eea4c4209adc356bc1" level="file">
     <did>
         <unittitle>446.1/27 Tuller House, Time book.</unittitle>
         <container type=""/>
         <unitdate normal="1901" type="inclusive">1901</unitdate>
     </did>
 </c>
-            <c id="c_855f121f674aee29d0938c6705370415" level="collection">
+            <c id="c_855f121f674aee29d0938c6705370415" level="file">
     <did>
         <unittitle>446.1/28 Tuller, H. H., Notebook, metalurgy.</unittitle>
         <container type=""/>
